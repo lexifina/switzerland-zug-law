@@ -1,0 +1,1 @@
+Unterzeichnet von der Generaldirektion der Schweizerischen Bundesbahnen am 8. Aug. 1919, vom Regierungsrat des Kantons Zürich am 2. Aug. 1919, vom Regierungsrat des Kantons Schwyz am 24. Mai 1929, vom Regierungsrat des Kantons Zug am 3. Juli 1929 (GS 12, 423).
