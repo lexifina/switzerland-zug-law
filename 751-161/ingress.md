@@ -1,0 +1,2 @@
+# Übereinkommen zwischen dem Kanton Zug, vertreten durch die hohe Regierung, und der Einwohner-Gemeinde Baar, vertreten durch den Einwohnerrat Baar, betreffend Benützung und Unterhalt der von Kanton und Gemeinde erstellten Dorfbach- und Marktgass-Kanalisation, sowie der von der Gemeinde mit Beitrag des Kantons erstellten Ableitung des Katzenbaches in die Bahndamm-Kanalisation und Weiterführung der Dorf- und Bahndamm-Kanalisation in die Lorze
+Vom 6. September 1929
