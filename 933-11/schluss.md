@@ -1,0 +1,1 @@
+Vom Grossen Rat des Kantons Luzern genehmigt am 1. Juli 1969, vom Kantonsrat des Kantons Schwyz genehmigt am 2. Juli 1969, vom Kantonsrat des Kantons Zug genehmigt am 20. Nov. 1969 (GS 19, 732); vom Bundesrat genehmigt am 1. April 1970 (Auszug aus dem Protokoll des Bundesrates).
