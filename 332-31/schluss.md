@@ -1,0 +1,1 @@
+Vom Regierungsrat des Kantons Basel-Stadt unterzeichnet am 27. Febr. 1973, vom Regierungsrat des Kantons Zug unterzeichnet am 19. März 1973 (GS 20, 356). Vom Schweizerischen Bundesrat genehmigt am 9. August 1973.
