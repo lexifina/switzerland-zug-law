@@ -1,0 +1,3 @@
+# § 7bis Anpassung an die Lohn- und Preisentwicklung
+1 Der Regierungsrat kann die Höchstbeträge für die Bevorschussung nach § 4 Abs. 1 sowie die Einkommens- und Vermögensgrenzen nach § 6 periodisch der Lohn- und Preisentwicklung anpassen. Er stützt sich dabei in der Regel auf den Rentenindex gemäss Art. 33ter des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG), (Basis: Indexstand am 1. Januar 1997 = 180,9 Punkte).
+2 Lauten die Höchstbeträge für die Bevorschussung gemäss § 4 Abs. 1 infolge Anpassung an einen neuen Indexstand auf Bruchteile von Franken, werden sie auf ganze Franken aufgerundet. Einkommens- und Vermögensgrenzbeträge gemäss § 6 werden auf die nächsten zehn Franken aufgerundet.
