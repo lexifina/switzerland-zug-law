@@ -1,0 +1,6 @@
+## 1. Organisation
+## 2. Aufnahme
+## 3. Promotion
+## 4. Diplomprüfung
+## 5. Schulgeld / Gebühren
+## 6. Schlussbestimmung
