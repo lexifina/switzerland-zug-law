@@ -1,0 +1,1 @@
+Von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren im Einvernehmen mit der Schweizerischen Sanitätsdirektorenkonferenz und der Schweizerischen Konferenz der kantonalen Fürsorgedirektorenkonferenz beschlossen am 16. Juni 2005.
