@@ -1,0 +1,2 @@
+# § 20a Verschwiegenheitspflicht der Mitarbeitenden der Datenschutzstelle
+1 Die Mitarbeitenden der Datenschutzstelle sind hinsichtlich Tatsachen, die sie in Ausübung ihrer Tätigkeit erfahren, zur Verschwiegenheit verpflichtet. Sie dürfen Kenntnisse, die sie bei ihrer Tätigkeit erlangt haben, nur so weit bekannt geben, als es zur Erfüllung ihrer Aufgaben erforderlich ist. Die Geheimhaltungspflicht besteht nach Beendigung des Dienstverhältnisses weiter.
