@@ -1,0 +1,4 @@
+# § 7bis Erlass des Schutzwaldperimeters
+1 Sollen Perimeter über Wälder mit erhöhter oder besonderer Schutzfunktion gegen Naturgefahren erlassen, geändert oder aufgehoben werden, holt das Kantonsforstamt die erforderlichen Mitberichte ein. Danach legt es den bereinigten Entwurf in der betreffenden Gemeinde während 30 Tagen öffentlich auf. Die Betroffenen sind soweit möglich direkt zu benachrichtigen. Für die Gewährleistung des rechtlichen Gehörs ist die Amtsblattpublikation massgebend.
+2 Wer vom Erlass des Perimeters berührt ist und ein schutzwürdiges Interesse nachweist, kann beim Kantonsforstamt während der Auflagefrist Einsprache erheben.
+3 In einfachen Fällen kann auf Vorprüfung und Publikation im Amtsblatt verzichtet werden, doch sind die Betroffenen direkt zu benachrichtigen. Ihr Einspracherecht ist zu gewährleisten.
