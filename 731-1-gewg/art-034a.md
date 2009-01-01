@@ -1,0 +1,3 @@
+# § 34a Öffentlich-rechtliche Eigentumsbeschränkung und Entschädigung
+1 Mit der Rechtskraft des Gewässerlinienplans sowie der Rechtskraft der Bewilligung für wasserbauliche Massnahmen an öffentlichen und privaten Gewässern verfügt die zuständige Behörde über das Recht, auf den privaten Grundstücken die wasserbaulichen Massnahmen durchzuführen.
+2 Die Schätzungskommission entscheidet über die Entschädigung von öffentlich-rechtlichen Eigentumsbeschränkungen bei privaten Gewässern, wenn sich die betroffenen Grundeigentümerinnen und Grundeigentümer mit der zuständigen Behörde nicht freihändig einigen können. Dabei sind die Vorschriften über die materielle Enteignung massgebend.
