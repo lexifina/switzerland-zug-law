@@ -1,0 +1,2 @@
+# § 10a Zugang zu geschäftlichen Daten bei Abwesenheiten
+1 Die vorgesetzte Stelle ist bei länger dauernder Abwesenheit einer Mitarbeiterin oder eines Mitarbeiters berechtigt, auf deren bzw. dessen geschäftliche Daten zuzugreifen. Bei der privaten Nutzung von technischen Geräten beziehungsweise Kommunikationsmitteln kann die Vertraulichkeit und der Schutz (allenfalls vorhandener) privater Daten nicht gewährleistet werden.
