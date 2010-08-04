@@ -1,0 +1,3 @@
+# § 58bis Pflichten bei Krankheit und Unfall
+1 Absenzen wegen Krankheit oder Unfall sind den Leiterinnen bzw. den Leitern der Ämter und Abteilungen sofort zu melden. Dauert die Abwesenheit länger als drei Tage, ist ein Arztzeugnis einzureichen, das sich über den Grad und die voraussichtliche Dauer der Arbeitsunfähigkeit ausspricht. Wird der Aufforderung zur Einreichung eines Arztzeugnisses keine Folge geleistet, kann die Gehaltszahlung gesperrt werden.
+2 Bei länger dauernder Arbeitsunfähigkeit wegen Krankheit oder Unfall können periodisch weitere Arztzeugnisse verlangt oder Untersuchungen durch die Kantonsärztin oder den Kantonsarzt oder durch Spezialärztinnen oder Spezialärzte angeordnet werden.
