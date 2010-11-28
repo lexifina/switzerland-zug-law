@@ -1,0 +1,1 @@
+KRB vom 31. Jan. 1894, angenommen in der Volksabstimmung vom 18. März 1894 (GS 7, 392), gewährleistet durch BB vom 26. Juni 1894 (AS 14, 280), in Kraft seit 28. Juli 1894 (ABl 1894, 583 f., Ziff. 1094 f.; vgl. § 1 UeB KV).
