@@ -1,0 +1,4 @@
+# § 12a Tarifvereinbarung
+1 Für die Vergütung vereinbaren die Gemeinden mit den Leistungserbringern Pflegepauschalen. Sie umfassen die Kosten für Pflichtleistungen gemäss Art. 7 ff. KLV pro Stunde. Bei fehlender Einigung legt der Regierungsrat die Pauschalen fest.
+2 Die Pauschalen decken die vollen Kosten der darin enthaltenen Leistungen nach den Grundsätzen der Wirtschaftlichkeit und Billigkeit. Darin eingeschlossen sind die Kosten für Personalverwaltung, Weiterbildung, Statistik, Berichterstattung, Abrechnung und Rechnungstellung, EDV und Abschreibungen.
+3 Die vertraglich oder behördlich festgelegten Pflegepauschalen gelten auch für alle im Kanton zugelassenen Leistungserbringer der ambulanten Langzeitpflege ohne Leistungsauftrag. Davon nicht betroffen sind vereinbarte gemeinwirtschaftliche Leistungen.
