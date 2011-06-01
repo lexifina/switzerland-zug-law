@@ -1,0 +1,2 @@
+# § 119a ViCLAS-Konkordat: Meldung
+1 Die Polizei meldet der Leitung der vom Regierungsrat bezeichneten Stelle jene Personen, die im ViCLAS verzeichnet sind und bei welchen eine Freiheitsstrafe oder stationäre Massnahme bevorsteht. Die Leitung meldet den ViCLAS-Koordinierenden der Polizei den Beginn und das Ende von Freiheitsstrafen oder stationären Massnahmen (Art. 13 Abs. 3 in Verbindung mit Art. 13 Abs. 1 Bst. d ViCLAS-Konkordat).
