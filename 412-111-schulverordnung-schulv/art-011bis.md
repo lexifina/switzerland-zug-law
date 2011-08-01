@@ -1,0 +1,4 @@
+# § 11bis Beiträge
+1 Die Kantons- und Gemeindebeiträge werden in Form von Pauschalen gewährt. Die Höhe der Pauschalen und der Zahlungsmodus werden in den Leistungsvereinbarungen geregelt. Die Pauschale wird erstmalig vom Regierungsrat festgelegt. Die Direktion für Bildung und Kultur stellt den Gemeinden deren Anteil in Rechnung.
+2 Die Eltern haben pro Kalenderjahr an das Kostgeld einen Beitrag von Fr. 2700. – bei internem bzw. Fr. 1000. – bei externem Schulbesuch sowie anfällige Nebenkosten zu zahlen. Dieser wird von den Schulen in der Regel quartalsweise direkt den Eltern in Rechnung gestellt. Bei Ein- oder Austritten während des Schuljahres reduziert sich der Kostgeldbeitrag anteilsmässig.
+3 Erfolgt die Zuweisung in eine Sonderschule direkt durch die Erziehungsberechtigten, jedoch ohne Entscheid durch die Gemeinde und ohne kantonalen Finanzierungsentscheid, entfällt der Kantonsbeitrag.
