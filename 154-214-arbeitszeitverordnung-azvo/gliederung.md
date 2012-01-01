@@ -1,9 +1,9 @@
-## 1. Allgemeine Bestimmung
-## 2. Normalarbeitszeit
-## 3. Gleitende Arbeitszeit
-## 4. Überstunden
-## 5. Arbeitspausen
-## 6. Absenzen
-## 7. Arbeitsfreie Tage und Halbtage
+## 1. Allgemeine Bestimmungen
+## 2. Arbeitszeiten und Abwesenheiten
+## 3. Arbeitszeitformen
+## 4. Jahresarbeitszeit
+## 5. Überstundenarbeit
+## 6. Ferien
+## 7. Urlaub
 ## 8. Vollzug
 ## 9. Schlussbestimmungen
