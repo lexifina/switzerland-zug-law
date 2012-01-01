@@ -1,0 +1,3 @@
+# § 32b Durchführung der Erschliessung
+1 Die Gemeinde führt die Erschliessung in Zusammenarbeit mit den anderen Erschliessungsträgern nach dem Erschliessungsprogramm und der baulichen Entwicklung durch.
+2 Bauwillige können mit der Gemeinde die vorzeitige Erschliessung vereinbaren. Erschliesst die Gemeinde die Bauzonen nicht fristgerecht, so können Bauwillige die Erschliessung nach den durch die Gemeinde genehmigten Plänen selbst vornehmen und bevorschussen. Die Gemeinde hat die geleisteten Vorschüsse den Dritten inklusive Zins innert fünf Jahren nach der Erstellung der Erschliessung zurückzuerstatten. Mit der Rückerstattung geht die Erschliessungsanlage ins Eigentum der Gemeinde über.
