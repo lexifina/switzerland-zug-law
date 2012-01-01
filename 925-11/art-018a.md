@@ -1,0 +1,4 @@
+# § 18a Zugriffsberechtigungen
+1 Zum Vollzug der Tierseuchen- und Tierschutzgesetzgebung, zur Kontrolle der Hunde und Hundehaltungen, zur Erhebung der Hundesteuer sowie für polizeiliche Ermittlungen dürfen diejenigen registrierten Daten verwendet werden, welche für die jeweilige Aufgabenerfüllung erforderlich sind.
+2 Der Kantonstierarzt und die Einsatzleitzentrale der Zuger Polizei erhalten kostenlosen Zugang zu den registrierten Daten über alle Hundehaltungen im Kanton, die Einwohnergemeinden über alle Hundehaltungen in ihrer Gemeinde.
+3 Kostenlosen Zugang zur Datenbank für die Abfrage von einzelnen Kennzeichnungsnummern erhalten der Kantonstierarzt, das Amt für Wald und Wild, die im Kanton tätigen Tierärztinnen und Tierärzte, die Polizeidienststellen, die Einwohnergemeinden und die kantonale Meldestelle für Findeltiere.
