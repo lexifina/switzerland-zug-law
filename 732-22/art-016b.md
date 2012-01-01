@@ -1,0 +1,6 @@
+# § 16b Standort von Unterflur- und Halbunterfluranlagen
+1 Die Verbandsgemeinde legt nach Anhörung des ZEBA den Standort sowie das Einzugsgebiet der Sammelanlage fest.
+2 Der Standort soll eine sichere, ökologische und wirtschaftliche Durchführung der Abfallentsorgung gewährleisten. Bei der Standortwahl sind die Ausführungsvorschriften gemäss Anhang C dieses Reglements zu beachten.
+3 Die Verbandsgemeinde legt das Einzugsgebiet so fest, dass für den Abfallinhaber die Distanz zur Sammelstelle nicht mehr als 350 Meter ab Liegenschaftszugang beträgt. Die Verbandsgemeinde erlässt einen Entsorgungsplan, in welchem alle öffentlichen Sammelstellen bezeichnet sind.
+4 Unter den Voraussetzungen des 8. Abschnittes des Planungs- und Baugesetzes kommt der Verbandsgemeinde bei der Standortfestsetzung das Enteignungsrecht zu.
+5 Mitarbeitern des ZEBA oder Personen, die im Auftrag des ZEBA handeln, ist der Zutritt zur Sammelstelle auf privatem Grund zu gewähren.
