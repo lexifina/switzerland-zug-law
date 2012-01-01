@@ -1,6 +1,7 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Spruchgebühren in Zivilsachen
-## 3. Gebühren in Strafsachen
-## 4. Kanzleigebühren
-## 5. Entschädigung von Zeugen, Auskunftspersonen, Sachverständigen und Übersetzern sowie Drittpersonen
-## 6. Übergangs- und Schlussbestimmungen
+## 2. Kosten in Zivilverfahren
+## 3. Kosten in Strafverfahren
+## 4. Kosten in Verwaltungssachen
+## 5. Kosten für Zeuginnen und Zeugen, Auskunftspersonen, Sachverständige, Übersetzerinnen und Übersetzer sowie Drittpersonen
+## 6. Kanzleigebühren
+## 7. Schluss- und Übergangsbestimmungen
