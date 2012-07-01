@@ -1,0 +1,3 @@
+# § 30d Entscheid der Baubehörde
+1 Die Baubehörde prüft das Baugesuch auf die Übereinstimmung mit den Vorschriften des öffentlichen Rechts. Sie entscheidet nicht über zivilrechtliche Verhältnisse.
+2 Über das Baugesuch und allfällige Einsprachen entscheidet die Baubehörde gleichzeitig. Die Baubewilligung und der Einspracheentscheid sind zusammen mit dem kantonalen Gesamtentscheid allen Verfahrensbeteiligten gleichzeitig zuzustellen.

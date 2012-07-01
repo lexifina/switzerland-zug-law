@@ -1,0 +1,3 @@
+# § 30e Bauten und Anlagen im Wald
+1 Bauanzeigen und Baugesuche für Bauten und Anlagen im Wald sind bei der Direktion des Innern einzureichen.
+2 Die Vorschriften für das gemeindliche Baubewilligungsverfahren gelten sinngemäss auch für Bauten und Anlagen im Wald.
