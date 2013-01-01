@@ -21,7 +21,7 @@
 #### 4.3.1. Steuerstreitigkeiten
 #### 4.3.2. Streitigkeiten vorwiegend vermögensrechtlicher Art nach kantonalem und eidgenössischem Recht
 #### 4.3.3. Disziplinarstreitigkeiten
-#### 4.3.4. Beschwerden gegen die fürsorgerische Freiheitsentziehung oder gegen die Abweisung eines Gesuches um Entlassung aus einer Anstalt (Art. 397a ff. ZGB)
+#### 4.3.4. …
 ### 4.4. Die verwaltungsgerichtliche Klage
 ### 4.5. Die Revision
 ## 5. Vollstreckung
