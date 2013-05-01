@@ -1,9 +1,8 @@
-## 1. Zuständigkeiten
-## 2. Aufenthalt, Niederlassung
-### 2.1. Mitteilungspflicht
-## 3. Zwangsmassnahmen im Ausländerrecht
-### 3.1. Verfahren
-### 3.2. Vollzug der Haft
-## 4. Finanzielles
-## 5. Rechtspflege
-## 6. Übergangs- und Schlussbestimmungen
+## 1. Allgemeine Bestimmung
+## 2. Zuständigkeiten
+## 3. Amtshilfe und Datenbekanntgabe
+## 4. Niederlassungsbewilligung
+## 5. Verfahren bei Zwangsmassnahmen
+## 6. Finanzielles
+## 7. Rechtspflege
+## 8. Übergangs- und Schlussbestimmungen
