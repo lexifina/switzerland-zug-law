@@ -1,5 +1,5 @@
 # Vollziehungsverordnung zum Tierschutzgesetz
 Vom 19. Februar 1985
 Der Regierungsrat des Kantons Zug,
-in Vollziehung des eidgenössischen Tierschutzgesetzes (TSchG) vom 9.März 1978 und der eidgenössischen Tierschutzverordnung (TSchV) vom 27. Mai 1981,
+gestützt auf Art. 32 Abs. 2, 41 Abs. 2 und 42 Abs. 1 des eidgenössischen Tierschutzgesetzes (TSchG) vom 16. Dezember 2005 und die eidgenössische Tierschutzverordnung (TSchV) vom 23. April 2008,
 beschliesst:
