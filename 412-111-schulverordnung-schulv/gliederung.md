@@ -5,9 +5,10 @@
 ### 3.1. Schularzt-Dienst
 ### 3.2. Schulzahnarzt-Dienst
 ## 4. Kantonale Schuldienste
-## 5. Lehrer
+### 4a Lehrpersonen
+## 5. …
 ## 6. Kommissionen und Beauftragte
-## 7. Schulanlagen
+## 7. …
 ## 8. Weiterführende Schulen
 ## 9. Privatschulen
 ## 10. Allgemeine Weiterbildung
