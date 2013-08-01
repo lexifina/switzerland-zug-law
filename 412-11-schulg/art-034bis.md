@@ -1,4 +1,4 @@
 # § 34bis Integrative Sonderschulung
 1 Kinder mit einem Bedarf an verstärkten Massnahmen werden, soweit dies dem Wohle des Kindes dient und unter Berücksichtigung der Rahmenbedingungen möglich ist, in der Regelklasse unterrichtet, solange die schulische Qualität in der Regelklasse erhalten bleibt.
-2 Der Regierungsrat schliesst mit den Trägern der Sonderschulen Leistungsvereinbarungen ab, die insbesondere deren Aufgaben in den Regelklassen der gemeindlichen Schulen und die finanzielle Abgeltung durch den Kanton regeln.
+2 Für die Träger der Sonderschulen gelten die Leistungsvereinbarungen, die insbesondere deren Aufgaben in den Regelklassen der gemeindlichen Schulen und die finanzielle Abgeltung durch den Kanton regeln.
 3 Die Wohnsitzgemeinde des entsprechenden Kindes trägt 50% der Kosten, die der Kanton für die Schüler aus der betreffenden Gemeinde gemäss Leistungsvereinbarung aufzuwenden hat. Lehnt die Direktion für Bildung und Kultur eine Mitfinanzierung ab, so hat die Gemeinde 100% der Kosten zu tragen.
