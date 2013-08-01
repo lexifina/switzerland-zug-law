@@ -1,0 +1,5 @@
+# § 30a Spezialfälle
+1 Ergebnisse ausserkantonaler Zuweisungsverfahren werden anerkannt.
+2 Bei Schülern, die erst im Verlauf des Schuljahres in die 2. oder 3. Klasse der Sekundarschule eingetreten sind, ist die Beurteilung durch die ehemalige Klassenlehrperson beim Zuweisungsentscheid nach Möglichkeit mit zu berücksichtigen.
+3 Ist es einer Klassenlehrperson aufgrund eines späteren Eintritts eines Schülers in die 2. oder 3. Klasse der Sekundarschule nicht möglich, eine Zuweisung vorzunehmen, entscheidet die Übertrittskommission II individuell über das Zuweisungsverfahren.
+4 Sofern ein Aufnahmegesuch den kantonalen Mittelschulen erst nach dem offiziellen Zuweisungsverfahren eingereicht wird, entscheidet die Übertrittskommission II in begründeten Ausnahmesituationen individuell über die Zuweisung.

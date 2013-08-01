@@ -1,5 +1,1 @@
-# § 28a Gymnasium
-1 Schüler, die im ersten Semester der 2. oder 3. Sekundarklasse einer öffentlich-rechtlichen Schule dem höchsten Niveaukurs in Französisch und Mathematik zugewiesen sind und im Zeugnis eine Erfahrungsnote von mindestens 5,20 erreichen, können prüfungsfrei übertreten.
-2 Schüler, die im ersten Semester der 2. oder 3. Sekundarklasse einer öffentlich-rechtlichen Schule in Französisch und Mathematik dem höchsten Niveaukurs zugewiesen sind und im Zeugnis die Erfahrungsnote von mindestens 4,80 erreichen, werden zur Aufnahmeprüfung zugelassen. Für das Bestehen der Aufnahmeprüfung wird die Erfahrungsnote mit einem Drittel und die Prüfung mit zwei Dritteln gewichtet.
-3 Für Schüler aus Privatschulen, die in den Fächern Deutsch, Französisch, Englisch und Mathematik die Lehrpläne und Lehrmittel des Kantons Zug verwenden und in Französisch und Mathematik Niveaukurse führen, gelten die Bestimmungen der Abs. 1 und 2.
-4 Schüler aus Privatschulen, die die Bedingungen von Abs. 3 nicht erfüllen, werden zu den Aufnahmeprüfungen zugelassen, wenn die Schule bestätigt, dass ein gleichwertiges Niveau erreicht worden ist. Die Erfahrungsnote wird für das Bestehen der Prüfung nicht gezählt.
+# § 28a …
