@@ -2,6 +2,7 @@
 ### 1.1. Die Gemeinden
 ### 1.2. Wahl der Gemeindeorgane
 ### 1.3. Grundsätze der Geschäftsführung
+### 1.3a. Leistungsauftrag und Globalbudget
 ### 1.4. Gemeindehaushalt
 ### 1.5. Aufsicht des Kantons
 ### 1.6. Gemeinsame Erfüllung von Aufgaben
@@ -21,7 +22,7 @@
 #### 2.2.6. Gemeindeschreiber
 #### 2.2.7. Rechnungsprüfungskommission
 #### 2.2.8. Kommissionen
-#### 2.2.9. Gemeindebeamte und Angestellte
+#### 2.2.9. Mitarbeiterinnen bzw. Mitarbeiter der Gemeinde
 ### 2.3. Einwohnergemeinden mit Grossem Gemeinderat
 #### 2.3.1. Einführung
 #### 2.3.2. Grosser Gemeinderat
