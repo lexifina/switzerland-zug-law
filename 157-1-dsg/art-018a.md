@@ -1,4 +1,4 @@
-# § 18a Unabhängige Datenschutzstellen der Gemeinden und kantonalen Direktionen
-1 Gemeinden und kantonale Direktionen können für ihre Aufgabenbereiche eigene unabhängige Datenschutzstellen schaffen. Sie arbeiten mit der kantonalen Datenschutzstelle unter deren Aufsicht zusammen.
-2 Die Datenschutzstellen von Gemeinden und kantonalen Direktionen erfüllen für ihren Bereich sinngemäss die gleichen Aufgaben wie die kantonale Datenschutzstelle.
-3 Ist keine eigene Datenschutzstelle vorhanden, ist für den Datenschutz die kantonale Datenschutzstelle zuständig.
+# § 18a Unvereinbarkeit, öffentliches Nebenamt und Nebenerwerb
+1 Die oder der Datenschutzbeauftragte darf keine Tätigkeit ausüben, die sie oder ihn in der Unabhängigkeit der Amtsführung beeinträchtigen könnte oder die in anderer Weise mit den Aufgaben der Datenschutzstelle unvereinbar ist. Insbesondere darf sie oder er nebst der Anstellung als Datenschutzbeauftragte oder Datenschutzbeauftragter keine leitende Funktion in einer politischen Partei ausüben und bei Trägern öffentlicher Aufgaben im Kanton Zug weder angestellt sein noch ein öffentliches Amt bekleiden.
+2 Die Ausübung eines öffentlichen Nebenamts oder einer Nebenerwerbstätigkeit, welche mit der beruflichen Tätigkeit als Datenschutzbeauftragte oder Datenschutzbeauftragter in einem Zusammenhang steht, bedarf der Bewilligung durch die Justizprüfungskommission.
+3 …

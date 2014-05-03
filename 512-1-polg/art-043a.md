@@ -1,0 +1,3 @@
+# § 43a Vernichtung von Aufzeichnungen
+1 Die bei polizeilichen Spezialeinsätzen und bei Sportveranstaltungen erstellten Bild- und Tonaufnahmen vernichtet die Polizei ein Jahr nach deren Erstellung, sofern die Aufnahmen nicht zu Beweiszwecken in Straf-, Staatshaftungs- oder Verwaltungsverfahren oder anonymisiert zur polizeiinternen Schulung dienen.
+2 Aufzeichnungsmaterial aus polizeilichen Observationen, verdeckten Vorermittlungen sowie Überwachungen ausserhalb von Strafverfahren vernichtet die Polizei spätestens nach 180 Tagen, sofern sie nicht in einem eingeleiteten Strafverfahren weiterverwendet werden.
