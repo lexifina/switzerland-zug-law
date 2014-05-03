@@ -1,0 +1,2 @@
+# § 45a Besondere Beschwerden
+1 Beschwerden gegen Verfügungen betreffend Wegweisung, Fernhaltung, Rückkehrverbot und Kontaktsperre (§§ 16 und 17), Verfügungen betreffend Sicherstellung (§ 27 Abs. 2) sowie Verfügungen in Anwendung von Art. 3a des Konkordats vom 15. November 2007 über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen haben keine aufschiebende Wirkung, soweit dies nicht durch die Präsidentin oder den Präsidenten der Beschwerdeinstanz von Amtes wegen oder auf Gesuch hin erteilt wird.
