@@ -1,3 +1,0 @@
-# § 5bis Eides- und Gelöbnisformel
-1 Die Eidesformel lautet: «Ich schwöre, die Verfassung und die Gesetze des Bundes und des Kantons getreu zu befolgen, die Rechte und Freiheiten des Volkes zu achten und zu schützen, die Ehre und Wohlfahrt des Kantons zu fördern und überhaupt allen amtlichen Pflichten so nachzukommen, dass ich es vor Gott verantworten kann.»
-2 Die Gelöbnisformel lautet: «Ich gelobe, die Verfassung und die Gesetze des Bundes und des Kantons getreu zu befolgen, die Rechte und Freiheiten des Volkes zu achten und zu schützen, die Ehre und Wohlfahrt des Kantons zu fördern und überhaupt allen amtlichen Pflichten gewissenhaft nachzukommen. »
