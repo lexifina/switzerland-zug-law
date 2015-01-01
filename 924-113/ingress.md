@@ -1,5 +1,5 @@
 # Verfügung betreffend kantonale Hangbeiträge
-Vom 24. August 2001
+Vom 30. März 2015
 Die Volkswirtschaftsdirektion des Kantons Zug,
-gestützt auf §§ 2 Abs. 2 Bst. h und 6 des Einführungsgesetzes Landwirtschaft vom 29. Juni 2000,
+gestützt auf § 2 Abs. 2 Bst. h und § 6 des Einführungsgesetzes zu den Bundesgesetzen über die Landwirtschaft, die landwirtschaftliche Pacht und das bäuerliche Bodenrecht,
 verfügt:
