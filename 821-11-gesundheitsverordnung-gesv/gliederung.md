@@ -1,12 +1,12 @@
 ## 1. Organe der Gesundheitsdirektion
 ## 2. Universitäre Medizinalberufe
-### 2.1. Selbständige Tätigkeit
-### 2.2. Unselbständige Tätigkeit
+### 2.1. Selbstständige Tätigkeit
+### 2.2. Unselbstständige Tätigkeit
 ### 2.3. Rechte und Pflichten bei der Berufsausübung
 ## 3. Andere Berufe im Gesundheitswesen
-### 3.1. Selbständige Tätigkeit
+### 3.1. Selbstständige Tätigkeit
 ### 3.2. Psychologische Psychotherapie
-### 3.3. Unselbständige Tätigkeit
+### 3.3. Unselbstständige Tätigkeit
 ### 3.4. Rechte und Pflichten bei der Berufsausübung
 ## 4. Bewilligungsfreie Tätigkeiten
 ## 5. Spitäler, Pflegeheime und andere Betriebe im Gesundheitswesen
