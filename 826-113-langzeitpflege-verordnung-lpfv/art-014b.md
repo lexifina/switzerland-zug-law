@@ -1,0 +1,3 @@
+# § 14b Übergangsbestimmung zur Anpassung an die Änderung des Spitalgesetzes vom 29. September 2011
+1 Die aufgehobene Verordnung über Investitionsbeiträge an die öffentlich subventionierten Spitäler und Pflegeheime mit regionalem Leistungsprogramm bleibt noch anwendbar auf Gesuche um Projektgenehmigung und Beitragszusicherung an bauliche Investitionen von Pflegeheimen mit regionalem Leistungsprogramm gemäss der Übergangsbestimmung von § 11a Abs. 5 Spitalgesetz.
+2 Für die Sicherung von Investitionsbeiträgen gemäss Abs. 1 und deren Rückerstattung bei Zweckentfremdung oder Veräusserung gilt die Verordnung über die Sicherung und Rückerstattung von Investitionsbeiträgen an Dritte.
