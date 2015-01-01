@@ -1,5 +1,5 @@
 ## 1. Organe und Zuständigkeit
-## 2. Verkehrsbeschränkungen
+## 2. Verkehrsanordnungen
 ## 3. Verwendung von Motorfahrzeugen ausserhalb der öffentlichen Strassen und Wege
 ## 4. Besondere Bewilligungen
 ## 5. Administrativmassnahmen
