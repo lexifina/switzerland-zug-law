@@ -1,0 +1,2 @@
+# Ziff. 3a
+1 Wird gegen einen Beschwerdeentscheid des Regierungsrats ein Rechtsmittel ergriffen, nehmen die Generalsekretärin bzw. der Generalsekretär, die Stellvertreterinnen bzw. die Stellvertreter oder die juristischen Mitarbeiterinnen bzw. die juristischen Mitarbeiter an allfälligen Augenscheinen teil, geben mündliche Stellungnahmen ab, reichen Protokollberichtigungen ein und können um Fristerstreckung ersuchen.
