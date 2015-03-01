@@ -1,5 +1,5 @@
 # Leitlinien zur Kommunikation
-Vom 7. Dezember 2004
+Vom 27. Januar 2015
 Der Regierungsrat des Kantons Zug,
-gestützt auf § 47 Bst. c der Kantonsverfassung,
-erlässt für die kantonalen Behörden (ohne Justiz) und Mitarbeitenden inkl. kantonale Schulen, folgende Leitlinien zur Kommunikation:
+gestützt auf § 9 des Kantonsratsbeschlusses über die Geschäftsordnung des Regierungsrats vom 26. September 2013 (GO RR),
+beschliesst:
