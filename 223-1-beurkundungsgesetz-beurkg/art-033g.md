@@ -1,0 +1,3 @@
+# § 33g Löschung der Disziplinarmassnahmen
+1 Verwarnungen, Verweise und Bussen werden fünf Jahre nach ihrer Anordnung im Register gelöscht.
+2 Ein befristetes Berufsausübungsverbot wird zehn Jahre nach seiner Aufhebung im Register gelöscht.

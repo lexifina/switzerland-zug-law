@@ -1,0 +1,8 @@
+# § 8a Ausstand – Ausstandsgründe
+1 Die Urkundsperson befindet sich im Ausstand bei einer Beurkundung, an der als Partei oder als Vertreterin oder Vertreter einer Partei mitwirken:
+a) die Urkundsperson selbst, ihre Ehegattin oder ihr Ehegatte, ihre Partnerin oder ihr Partner in eingetragener Partnerschaft oder dauernder Lebensgemeinschaft oder eine mit den Genannten in gerader Linie oder im zweiten Grad der Seitenlinie verwandte oder verschwägerte Person;
+b) eine Gesellschafterin oder ein Gesellschafter einer Personengesellschaft, an der die Urkundsperson, ihre Ehegattin oder ihr Ehegatte, ihre Partnerin oder ihr Partner in eingetragener Partnerschaft oder in dauernder Lebensgemeinschaft beteiligt ist;
+c) die Arbeitgeberin oder der Arbeitgeber der freiberuflichen Urkundsperson;
+d) eine juristische Person, der die Urkundsperson, ihre Ehegattin oder ihr Ehegatte, ihre Partnerin oder ihr Partner in eingetragener Partnerschaft oder in dauernder Lebensgemeinschaft als Organ angehören oder an deren Geschäftsleitung sie beteiligt sind;
+e) eine Person, zu der die Urkundsperson, ihre Ehegattin oder ihr Ehegatte, ihre Partnerin oder ihr Partner in eingetragener Partnerschaft oder in dauernder Lebensgemeinschaft in einem rechtlichen oder faktischen Abhängigkeitsverhältnis steht.
+2 Die Ausstandsvorschriften gelten auch, wenn die Urkundsperson mit einer Person verheiratet war, in eingetragener Partnerschaft lebte oder eine dauernde Lebensgemeinschaft führte. Sie gelten weiter für Personen, die bei einer Beurkundung als Zeuginnen oder Zeugen und als Übersetzerinnen oder Übersetzer mitwirken.
