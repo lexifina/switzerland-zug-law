@@ -5,7 +5,7 @@
 ### 4.1. Generalversammlung der Aktionäre
 ### 4.2. Der Bankrat
 ### 4.3. Der Bankvorstand
-### 4.4. Die Direktion
+### 4.4. Die Geschäftsleitung
 ### 4.5. Die Kontrollorgane
 ### 4.6. Gemeinsame Bestimmungen
 ## 5. Rechnungsabschluss und Gewinnverteilung
