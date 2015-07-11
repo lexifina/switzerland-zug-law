@@ -9,4 +9,8 @@
 ## 7. Gültigkeit der Stimmabgabe
 ## 8. Protokollierung; Sicherung des Stimmmaterials
 ## 9. Besondere Bestimmungen über die Wahlen
+### 9.1. Wahlvorschläge
+### 9.2. Wahlzettel
+### 9.3. Wahlzettelbogen
+### 9.4. Weitere Bestimmungen
 ## 10. Verschiedene Bestimmungen

@@ -1,0 +1,2 @@
+# § 47c Geringfügige Anpassungen
+1 Im Einvernehmen mit der Wahlaufsicht (§ 6 Abs. 1 Wahl- und Abstimmungsgesetz) kann die Staatskanzlei geringfügige Anpassungen an den Mustern der Wahlzettelbogen gemäss den Anhängen 1 bis 4 vornehmen, so namentlich redaktionelle Bereinigungen, Anpassungen der Schriftgrössen oder Veränderungen der grafischen Elemente. Die Staatskanzlei orientiert die Einwohnergemeinden.
