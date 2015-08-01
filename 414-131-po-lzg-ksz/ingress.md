@@ -1,5 +1,6 @@
-# Promotionsordnung für die Kantonsschule Menzingen
-Vom 26. Juni 2002
-Die Schulkommission der Kantonalen Mittelschulen des Kantons Zug,
-gestützt auf § 5 Abs. 3 des Gesetzes über die kantonalen Schulen vom 27. September 1990,
-beschliessen:
+# Promotionsordnung für das Langzeitgymnasium der Kantonsschule Zug
+(PO LZG KSZ)
+Vom 26. März 2015
+Die Schulkommission der kantonalen Mittelschulen des Kantons Zug,
+gestützt auf § 4 Abs. 4 Bst. c des Gesetzes über die kantonalen Schulen vom 27. September 1990,
+beschliesst:
