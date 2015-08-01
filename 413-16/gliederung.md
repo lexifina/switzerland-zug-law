@@ -3,4 +3,5 @@
 ## 3. Promotion
 ## 4. Diplomprüfung
 ## 5. Schulgeld / Gebühren
+## 5a. Rechtsschutz
 ## 6. Schlussbestimmung
