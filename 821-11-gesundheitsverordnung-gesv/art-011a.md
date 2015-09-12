@@ -1,0 +1,4 @@
+# § 11a Medizinische Praxisassistentinnen und -assistenten (MPA)
+1 Medizinische Praxisassistentinnen und -assistenten arbeiten im Namen und auf Rechnung ihrer Arbeitgeberin oder ihres Arbeitgebers und unter der Verantwortung einer Ärztin oder eines Arztes mit einer Berufsausübungsbewilligung gemäss § 6 GesG.
+2 Sie verfügen über eine abgeschlossene Berufsausbildung mit einem eidgenössischen Fähigkeitszeugnis oder einem als gleichwertig anerkannten Ausweis.
+3 Die gemäss Abs. 1 verantwortliche Person darf Tätigkeiten an die medizinischen Praxisassistentinnen und -assistenten delegieren, soweit diese durch die abgeschlossene Berufsausbildung bzw. ergänzende Sachkundenachweise dazu befähigt sind. Die Delegation hat patientenspezifisch und schriftlich zu erfolgen. Die Erhebung von Befunden nach strukturierten und standardisierten Vorgaben ist delegierbar; nicht delegierbar sind die Diagnose- und die Indikationsstellung.
