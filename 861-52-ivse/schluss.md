@@ -1,1 +1,1 @@
-Der vorliegende Text wurde von der Plenarversammlung SODK in Basel am 20. September 2002 genehmigt.
+Der vorliegende Text wurde von der Vereinbarungskonferenz am 14. September 2007 in Lausanne genehmigt und dem Bund, der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK), der Konferenz der kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD), der Konferenz der kantonalen Erziehungsdirektorinnen und - direktoren (EDK) sowie der Konferenz der Kantonsregierungen (KdK) zur Kenntnis gebracht.
