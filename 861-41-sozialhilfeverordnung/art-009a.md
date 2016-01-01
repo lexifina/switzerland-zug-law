@@ -13,4 +13,4 @@ bis 10 Prozent 120 Franken
 80 Prozent 528 Franken
 90 Prozent 564 Franken
 100 Prozent 600 Franken
-4 Für Erwerbstätige zwischen dem vollendeten 16. und dem vollendeten 25. Altersjahr betragen die Einkommensfreibeträge die Hälfte des Betrags nach Abs. 3.
+4 Für Erwerbstätige bis zum vollendeten 25. Altersjahr betragen die Einkommensfreibeträge die Hälfte des Betrags nach Abs. 3.
