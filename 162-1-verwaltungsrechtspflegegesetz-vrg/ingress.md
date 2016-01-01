@@ -1,6 +1,6 @@
 # Gesetz über den Rechtsschutz in Verwaltungssachen
-(Verwaltungsrechtspflegegesetz)
+(Verwaltungsrechtspflegegesetz; VRG)
 Vom 1. April 1976
 Der Kantonsrat des Kantons Zug,
-gestützt auf § 55bis der Kantonsverfassung,
+gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung,
 beschliesst:

@@ -4,6 +4,7 @@
 ## 2. Allgemeine Bestimmungen
 ### 2.1. Zuständigkeit
 ### 2.2. Ausstand und Ablehnung
+### 2.2a. Elektronische Eingaben und Zugriff auf E-Government-Dienstleistungen
 ### 2.3. Fristen
 ### 2.4. Verfahrensvorschriften
 ### 2.5. Der Entscheid
