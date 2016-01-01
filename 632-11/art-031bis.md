@@ -1,3 +1,1 @@
-# § 31bis Empfänger von Mitarbeiterbeteiligungen
-1 Personen, die während eines Teils der Zeitspanne zwischen Erwerb und Entstehen des Ausübungsrechts der gesperrten Mitarbeiteroptionen steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz hatten und die im Zeitpunkt des Zuflusses der geldwerten Vorteile aus diesen Mitarbeiteroptionen im Ausland wohnhaft sind, werden für diese geldwerten Vorteile anteilsmässig im Verhältnis zwischen der gesamten zu der in der Schweiz verbrachten Zeitspanne quellensteuerpflichtig. Die steuerbare Leistung entspricht dem Verkehrswert der Aktie bei Ausübung vermindert um den Ausübungspreis.
-2 Die Steuer beträgt 15 Prozent des geldwerten Vorteils.
+# § 31bis …
