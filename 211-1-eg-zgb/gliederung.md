@@ -19,6 +19,7 @@
 #### 2.5.2. Bestandteile und Zugehör
 #### 2.5.3. Beschränkung des Grundeigentums
 ##### 2.5.3.1. Nachbarrecht
+##### 2.5.3.1a Schlussbestimmung
 ##### 2.5.3.2. Öffentlich-rechtliche Beschränkungen des Grundeigentums
 #### 2.5.4. Grunddienstbarkeiten
 ##### 2.5.4.1. Wegrechte
