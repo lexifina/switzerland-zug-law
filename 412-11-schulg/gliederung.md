@@ -5,6 +5,7 @@
 #### 2.2.1. Kindergartenstufe
 #### 2.2.2. Primarstufe
 #### 2.2.3. Sekundarstufe I
+#### 2.2.3a Freiwillige Grund- oder Basisstufe
 #### 2.2.4. Sonderpädagogik
 #### 2.2.5. Talentförderung
 ### 2.3. …
