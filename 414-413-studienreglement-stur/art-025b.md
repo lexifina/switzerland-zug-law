@@ -1,5 +1,5 @@
-# § 25b Anmeldung und Verfahren
-1 Der Anmeldung sind sämtliche erforderlichen Unterlagen gemäss Anmeldeformular beizulegen. Es können zusätzliche Unterlagen einverlangt werden.
+# § 25b Verfahren
+1 …
 2 Das Verfahren umfasst:
 a) die Prüfung des Bewerbungsdossiers;
 b) ein Assessment.
