@@ -1,2 +1,2 @@
 # § 12a Weitergeltung bisherigen Rechts
-1 Bei Änderungen dieses Reglements gilt für die Studentinnen und Studenten diejenige Version, welche zum Zeitpunkt ihres Studienbeginns in Kraft war.
+1 Für Studentinnen und Studenten, welche die Ausbildung vor dem Jahr 2016 begonnen haben, gilt der § 7 des Reglements über die Höhere Fachschule Landwirtschaft (Reglement HFLW) in der Fassung vom 4. September 2013.
