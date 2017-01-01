@@ -12,10 +12,13 @@
 ### 5.1. Allgemeine Bestimmungen
 ### 5.2. Medizinische und pflegerische Zwangsmassnahmen
 ### 5.3. Organentnahme und Obduktion
-## 6. Gesundheitsförderung, Prävention und weitere Aufgaben
-### 6.1. Gesundheitsförderung und Prävention
-### 6.2. Jugendschutz
-### 6.3. Weitere Aufgaben
+## 6. Gesundheitsförderung und Prävention
+### 6.1. …
+### 6.2. …
+## 6a. Rettungswesen und weitere Aufgaben
+### 6a.1. Rettungswesen
+### 6.3. …
+### 6a.2. Weitere Aufgaben
 ## 7. Krankheitsbekämpfung und Hygiene
 ### 7.1. Übertragbare Krankheiten
 ### 7.2. Bäder und Badewasser
