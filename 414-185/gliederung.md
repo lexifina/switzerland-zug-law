@@ -4,4 +4,3 @@
 ## 4. Disziplinarordnung
 ## 5. Erziehungsberechtigte
 ## 6. Lernbegleitung
-## 7. Schlussbestimmungen
