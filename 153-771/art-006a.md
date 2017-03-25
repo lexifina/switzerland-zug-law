@@ -1,0 +1,2 @@
+# § 6a Entscheide gemäss Submissionsverordnung
+1 Die Amtsleiterinnen und Amtsleiter entscheiden bei einem Lieferauftrag bis zu einem Auftragswert von 100 000 Franken und bei einem Dienstleistungsauftrag bis zu einem Auftragswert von 150 000 Franken über die anwendbare Verfahrensart gemäss § 41 Abs. 1 Bst. c der Submissionsverordnung (SubV) vom 20. September 2005.
