@@ -1,4 +1,5 @@
-## 1. Allgemeine Bestimmungen
-## 2. Beiträge der einzelnen Konkordatskantone
-## 3. Organisation
-## 4. Verschiedene Bestimmungen
+## 1. Zweck und Rechtsform
+## 2. Organisation des Konkordats
+## 3. Betriebsgesellschaft
+## 4. Klinikgrundstück
+## 5. Verschiedene Bestimmungen

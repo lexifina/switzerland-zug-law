@@ -1,3 +1,3 @@
-# Konkordat der Kantone Uri, Schwyz und Zug betreffend die Psychiatrische Klinik Oberwil-Zug
+# Konkordat der Kantone Uri, Schwyz und Zug betreffend die psychiatrische Versorgung
 (Psychiatriekonkordat)
-Vom 29. April 1982
+Vom 17. März 2016
