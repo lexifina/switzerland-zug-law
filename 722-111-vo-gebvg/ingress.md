@@ -1,5 +1,6 @@
 # Verordnung zum Gesetz über die Gebäudeversicherung
-Vom 29. Januar 1980
+(VO GebVG)
+Vom 21. November 2017
 Der Regierungsrat des Kantons Zug,
-in Vollziehung des Gesetzes über die Gebäudeversicherung vom 20. Dezember 1979,
+gestützt auf § 47 Abs. 1 Bst. d der Kantonsverfassung und § 6 Abs. 3 des Gesetzes über die Gebäudeversicherung vom 25. August 2016,
 beschliesst:
