@@ -1,5 +1,6 @@
 # Gesetz über die Gebäudeversicherung
-Vom 20. Dezember 1979
+(Gebäudeversicherungsgesetz; GebVG)
+Vom 25. August 2016
 Der Kantonsrat des Kantons Zug,
-gestützt auf § 41 Bst. b der Kantonsverfassung,
+gestützt auf § 14 und § 41 Abs. 1 Bst. b der Kantonsverfassung,
 beschliesst:
