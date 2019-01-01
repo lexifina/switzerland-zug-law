@@ -1,0 +1,2 @@
+# § 16d Zusammenarbeit zwischen Behörden und weiteren Stellen
+1 Besteht eine ernsthafte Gefahr, dass die gefährdende Person ein Verbrechen oder Vergehen begeht, kann die Polizei bei Bedarf mit anderen kantonalen und ausserkantonalen Behörden und Stellen zusammenarbeiten. In der direkten Zusammenarbeit sind Personen vom Amtsgeheimnis entbunden; vorbehalten bleiben das Berufsgeheimnis nach Art. 321 StGB sowie besondere gesetzliche Schweigepflichten.
