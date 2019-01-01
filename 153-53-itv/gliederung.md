@@ -1,7 +1,6 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Planung
-## 3. Beschaffung
-## 4. Betrieb
-## 5. Controlling
-## 6. Zuständigkeiten
-## 7. Schlussbestimmung
+## 2. Grundsätze der IT
+## 3. Organisation
+## 4. Instrumente zur Planung, Steuerung und Kontrolle der IT
+## 5. Zuständigkeiten
+## 6. Übergangs- und Schlussbestimmungen
