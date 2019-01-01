@@ -8,6 +8,7 @@
 ## 6. Verfahrensbestimmungen
 ### 6.1. Pläne und Bauvorschriften
 ### 6.2. Baubewilligung und Baueinsprache
+### 6.3 Fristen
 ## 7. Landumlegung und Grenzbereinigung
 ## 8. Enteignung
 ### 8.1. Formelle Enteignung

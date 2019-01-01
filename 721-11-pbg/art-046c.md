@@ -1,0 +1,3 @@
+# § 46c Inanspruchnahme von Drittgrundstücken: Umfang
+1 Jede Grundeigentümerschaft ist berechtigt, Nachbargrundstücke zu betreten und vorübergehend zu benutzen, soweit es, Vorbereitungshandlungen eingeschlossen, für die Erstellung, die Veränderung oder den Unterhalt von Bauten, Anlagen, Ausstattungen und Ausrüstungen nötig und mit verhältnismässigem Aufwand nicht anders möglich ist und soweit dadurch das Eigentum der bzw. des Betroffenen nicht unzumutbar gefährdet oder beeinträchtigt wird.
+2 Dieses Recht ist möglichst schonend und gegen volle Entschädigung auszuüben. Der ursprüngliche Zustand des Nachbargrundstücks ist nach Abschluss der Inanspruchnahme wiederherzustellen.
