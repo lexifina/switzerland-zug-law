@@ -1,0 +1,2 @@
+# § 30a Ablauf von Fristen an Feiertagen
+1 Fallen die in den §§ 31 Abs. 1, 33 Abs. 3, 35 Abs. 1 und 3, 36 Abs. 1, 52 Abs. 4, 56 Abs. 3 und 60 Abs. 2 Satz 2 genannten Wochentage auf einen Feiertag gemäss § 10 Abs. 1 des Gesetzes über die Organisation der Zivil- und Strafrechtspflege vom 26. August 2010 (Gerichtsorganisationsgesetz, GOG), so verschieben sich die jeweiligen Fristen und Termine auf den nächst folgenden Werktag, 12.00 Uhr.
