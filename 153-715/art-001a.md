@@ -1,0 +1,2 @@
+# Ziff. 1a Verfahrensleitende Verfügungen
+1 Führt die Direktion des Innern ein erstinstanzliches Verwaltungsverfahren oder ein Verwaltungsbeschwerdeverfahren, treffen die Generalsekretärin bzw. der Generalsekretär, deren respektive dessen Stellvertretung oder die juristischen Mitarbeitenden die verfahrensleitenden Verfügungen (§ 3 Abs. 2 DelV), sofern die Zuständigkeit nicht bereits im Gesetz geregelt ist.
