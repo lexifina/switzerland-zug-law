@@ -10,6 +10,9 @@
 ### 6.2. Baubewilligung und Baueinsprache
 ### 6.3 Fristen
 ## 7. Landumlegung und Grenzbereinigung
+## 7a. Massnahmen zur Baulandverfügbarkeit
+### 7a.1. Planungsmehrwert
+### 7a.2. Förderung der Verfügbarkeit von Bauland
 ## 8. Enteignung
 ### 8.1. Formelle Enteignung
 ### 8.2. Materielle Enteignung
