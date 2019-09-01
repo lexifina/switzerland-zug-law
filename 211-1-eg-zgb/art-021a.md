@@ -1,0 +1,4 @@
+# § 21a Übergangsbestimmung
+1 Die Übergabe der Aufsicht über die Stiftungen, die nach ihrer Bestimmung der Einwohnergemeinde, der Bürgergemeinde oder der Korporationsgemeinde angehören, an die Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) erfolgt per 1. Januar 2020.
+2 Sofern der Gemeinderat, Bürgerrat oder Korporationsrat die von ihm ausgeübte gesamte Aufsicht über dannzumal bereits bestehende Stiftungen gemäss Art. 84 ZGB per 1. Januar 2020 nicht auf die ZBSA übertragen will, hat er dies bis zum 31. Dezember 2019 gegenüber der Direktion des Innern schriftlich zu erklären.
+3 Ist die Übertragung gemäss Abs. 2 nicht erfolgt, kann die gesamte Stiftungsaufsicht jeweils auf Anfang eines Kalenderjahres an die ZBSA übertragen werden. Eine entsprechende Erklärung gegenüber der Direktion des Innern hat spätestens drei Monate vor der geplanten Übertragung der gesamten Stiftungsaufsicht zu erfolgen.
