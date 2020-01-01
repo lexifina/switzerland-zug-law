@@ -2,5 +2,5 @@
 (EG KVG)
 Vom 29. Februar 1996
 Der Kantonsrat des Kantons Zug,
-gestützt auf Art. 97 des Bundesgesetzes über die Krankenversicherung (KVG) und § 41 Bst. b der Kantonsverfassung,
+gestützt auf Art. 97 des Bundesgesetzes über die Krankenversicherung (KVG) und § 41 Abs. 1 Bst. b der Kantonsverfassung,
 beschliesst:
