@@ -1,13 +1,10 @@
 ## 1. Allgemeines
-## 2. Eigene und fremde Mittel
-## 3. Geschäftskreis
-## 4. Organisation
-### 4.1. Generalversammlung der Aktionäre
-### 4.2. Der Bankrat
-### 4.3. Der Bankvorstand
-### 4.4. Die Geschäftsleitung
-### 4.5. Die Kontrollorgane
-### 4.6. Gemeinsame Bestimmungen
-## 5. Rechnungsabschluss und Gewinnverteilung
-## 6. Änderung des Gesetzes und Auflösung der Gesellschaft
-## 7. Schluss- und Übergangsbestimmungen
+## 2. Kapital
+## 3. Organisation
+### 3.1. Organe der Zuger Kantonalbank
+### 3.2. Generalversammlung
+### 3.3. Bankrat
+### 3.4. Geschäftsleitung
+### 3.5. Aktienrechtliche Revisionsstelle
+### 3.6. Gemeinsame Bestimmung
+## 4. Änderung des Gesetzes und Auflösung der Gesellschaft
