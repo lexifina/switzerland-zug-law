@@ -4,4 +4,4 @@
 ## 4. Wildschaden
 ## 5. Vollzug und Aufsicht
 ## 6. Strafbestimmungen und Schadenersatz
-## 7. Schlussbestimmungen
+## 7. Schluss- und Übergangsbestimmungen
