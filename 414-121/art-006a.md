@@ -1,0 +1,3 @@
+# § 6a Eintritt aus privaten Zuger Mittelschulen ohne vom Kanton Zug anerkannten Maturitätsausweisen, aus privaten ausserkantonalen Mittelschulen sowie aus öffentlichen und privaten ausländischen Mittelschulen
+1 Der Eintritt aus privaten Zuger Mittelschulen ohne vom Kanton Zug anerkannten Maturitätsausweisen, aus privaten ausserkantonalen Mittelschulen sowie aus öffentlichen und privaten ausländischen Mittelschulen richtet sich nach § 4 (individuelles Aufnahmeverfahren).
+2 Der Eintritt in ein Gymnasium aus einem International Baccalaureate-Lehrgang und dergleichen setzt den Besuch des «Diploma Programme» bzw. die von der jeweiligen Schulleitung bestätigte Zulassung zum «Diploma Programme» voraus.
