@@ -1,4 +1,4 @@
-# § 19a Vorabkontrolle
-1 Beabsichtigt ein Organ, Daten einer grösseren Anzahl von betroffenen Personen mit elektronischen Mitteln zu bearbeiten oder eine solche Datenbearbeitung wesentlich zu ändern, unterbreitet es die beabsichtigte Datenbearbeitung vor deren Beginn der Datenschutzstelle zur Stellungnahme, wenn eine der folgenden Voraussetzungen erfüllt ist:
-a) es werden besonders schützenswerte Daten bearbeitet;
-b) es werden technische Mittel mit besonderen Risiken für die Rechte und Freiheiten der betroffenen Personen eingesetzt.
+# § 19a Vorabkonsultation
+1 …
+2 Die Datenschutzstelle nimmt Stellung zu Vorhaben der Organe zu Datenbearbeitungen, die aufgrund der Art der Bearbeitung oder der zu bearbeitenden Personendaten zu einem hohen Risiko für die Grundrechte der betroffenen Personen führen.
+3 Die Datenschutzstelle erstellt eine Liste derjenigen Bearbeitungsvorgänge, die vorab zur Konsultation zu unterbreiten sind.
