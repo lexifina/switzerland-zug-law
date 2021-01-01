@@ -6,4 +6,4 @@
 ## 6. Ferien
 ## 7. Urlaub
 ## 8. Vollzug
-## 9. Schlussbestimmungen
+## 9. …
