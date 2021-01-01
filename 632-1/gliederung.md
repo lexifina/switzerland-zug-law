@@ -21,7 +21,8 @@
 #### 1.2.5. Mindeststeuer
 ### 1.3. Quellensteuer für natürliche und juristische Personen
 #### 1.3.1. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
-#### 1.3.2. Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+#### 1.3.2. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
+#### 1.3.2.A. Örtliche Zuständigkeit und interkantonales Verhältnis
 #### 1.3.3. Verfahrensrecht
 ### 1.4. Verfahrensrecht
 #### 1.4.1. Steuerbehörden
