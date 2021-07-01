@@ -1,0 +1,7 @@
+# § 24b Urlaub für die Betreuung eines gesundheitlich schwer beeinträchtigten Kindes
+1 Hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf eine Betreuungsentschädigung nach den Art. 16n–16s EOG, weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 14 Wochen.
+2 Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+3 Haben beide Eltern Anspruch auf die Betreuungsentschädigung, so hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Sie können eine abweichende Aufteilung des Urlaubs wählen.
+4 Der Urlaub kann am Stück oder tageweise bezogen werden.
+5 Die vorgesetzte Stelle ist über die Modalitäten des Urlaubsbezugs sowie über Änderungen unverzüglich zu informieren.
+6 Nach Ablauf der Probezeit darf der Kanton das Arbeitsverhältnis nicht kündigen, solange der Anspruch auf Betreuungsurlaub besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt. Die Kündigung, die während dieser Sperrfrist erklärt wird, ist nichtig; ist dagegen die Kündigung vor Beginn einer solchen Frist erfolgt, aber die Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ablauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt.
