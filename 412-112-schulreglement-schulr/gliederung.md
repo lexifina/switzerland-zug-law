@@ -8,6 +8,7 @@
 ## 3. …
 ## 3a Besondere Förderung
 ## 4. Hausaufgaben
+## 4a. Schulferien
 ## 5. Schuldienste
 ## 6. …
 ## 7. Planungs- und Kontrollaufgaben des Lehrers
