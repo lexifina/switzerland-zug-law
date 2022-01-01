@@ -1,0 +1,2 @@
+# § 7a Genehmigung von Praktika in Kindertagesstätten
+1 Berufsvorbereitende Praktika in Kindertagesstätten, die länger als sechs Monate dauern, bedürfen einer Genehmigung durch das Amt für Berufsbildung. Für die Berechnung der Dauer werden alle berufsvorbereitenden Praktika der Praktikantin bzw. des Praktikanten in Kindertagesstätten zusammengezählt. Das Amt für Berufsbildung regelt die Genehmigungsvoraussetzungen in einer Wegleitung.
