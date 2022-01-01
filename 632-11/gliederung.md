@@ -12,5 +12,5 @@
 ## 9. Vollzug von Bundesgesetzgebung
 ### 9.1. Direkte Bundessteuer
 ### 9.2. Verrechnungssteuer
-### 9.3. Pauschale Steueranrechnung
+### 9.3. Anrechnung ausländischer Quellensteuern
 ## 10. Schlussbestimmungen
