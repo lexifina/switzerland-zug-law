@@ -1,0 +1,3 @@
+# § 16e Antragstellung an das Bundesamt für Polizei (fedpol) und Datenbearbeitung
+1 Die Polizei kann beim fedpol gestützt auf Art. 23i Abs. 1 des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) Massnahmen gegenüber terroristischen Gefährderinnen und Gefährdern nach Art. 23k bis Art. 23q BWIS beantragen.
+2 Die Polizei kann gestützt auf Art. 23h Abs. 1 BWIS besonders schützenswerte Personendaten von terroristischen Gefährderinnen und Gefährdern sowie von Dritten bearbeiten. Die Bearbeitung erfolgt in einer Arbeitskartei, auf welche einzig die mit dem Gewaltschutz betrauten Polizeiangehörigen sowie die Einsatzleitzentrale Zugriff haben.
