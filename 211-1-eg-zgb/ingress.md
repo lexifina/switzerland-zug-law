@@ -2,5 +2,5 @@
 (EG ZGB)
 Vom 17. August 1911
 Der Kantonsrat des Kantons Zug,
-in Vollziehung des Art. 52 der Übergangsbestimmungen zum Schweizerischen Zivilgesetzbuch,
+in Vollziehung von Art. 52 der Übergangsbestimmungen zum Schweizerischen Zivilgesetzbuch (ZGB),
 beschliesst:
