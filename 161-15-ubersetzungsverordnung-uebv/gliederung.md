@@ -1,4 +1,4 @@
 ## 1. Allgemeines
 ## 2. Zuständigkeiten und Aufgaben
-## 3. Verzeichnis der Übersetzerinnen und Übersetzer
+## 3. Verzeichnis
 ## 4. Übersetzungsaufträge
