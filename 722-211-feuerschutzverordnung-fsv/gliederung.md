@@ -9,4 +9,5 @@
 ### 2.1. Feuerwehrkommando
 ### 2.2. Beiträge
 ## 3. Gebühren
-## 4. Schlussbestimmungen
+## 3a. Reglemente des Verwaltungsrats der Gebäudeversicherung Zug
+## 4. Übergangs- und Schlussbestimmungen
