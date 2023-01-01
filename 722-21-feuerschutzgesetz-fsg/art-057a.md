@@ -1,3 +1,4 @@
-# § 57a Löschbeiträge privater Versicherungsgesellschaften
-1 Die privaten Versicherungsgesellschaften, die im Kanton Zug Mobiliar gegen Feuerschaden versichern, leisten Löschbeiträge nach Massgabe der vom Regierungsrat, gestützt auf die Empfehlung der Vereinigung Kantonaler Feuerversicherungen, festgelegten Ansätze.
-2 Die Löschbeiträge sind für die Schadenverhütung und Schadenbekämpfung zu verwenden.
+# § 57a Präventionsbeiträge privater Versicherungsgesellschaften
+1 Die privaten Versicherungsgesellschaften, die im Kanton Zug Mobiliar gegen Feuer- und Elementarschaden versichern, leisten der Gebäudeversicherung Zug jährliche Präventionsbeiträge.
+2 Für die Bemessung und Verwendung dieser Beiträge ist das Bundesgesetz betreffend die Aufsicht über Versicherungsunternehmen (Versicherungsaufsichtsgesetz, VAG) massgebend.
+3 Der Verwaltungsrat der Gebäudeversicherung Zug legt die Höhe dieser Beiträge fest.

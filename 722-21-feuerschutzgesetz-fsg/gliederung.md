@@ -5,7 +5,7 @@
 ### 2.1. Sorgfalts- und Duldungspflichten
 ### 2.2. Brandschutzvorschriften
 ### 2.3. Brandschutzbewilligung
-### 2.4. Gemeindliche Feuerschau
+### 2.4. Brandschutzkontrolle
 ### 2.5. Kaminfegedienst
 ## 3. Feuerwehrwesen
 ### 3.1. Organisation
