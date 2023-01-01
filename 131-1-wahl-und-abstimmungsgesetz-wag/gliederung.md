@@ -17,6 +17,7 @@
 #### 3.1.2.a Wahl des Kantonsrates
 #### 3.1.3. Majorzwahlen
 #### 3.1.4. Wahlprüfung
+#### 3.1.5 Amtsführung in speziellen Fällen
 ### 3.2. Gemeindewahlen
 ### 3.3. Nationalratswahlen
 ## 4. Strafbestimmungen
