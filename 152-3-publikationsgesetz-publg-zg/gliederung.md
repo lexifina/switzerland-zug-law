@@ -1,5 +1,6 @@
-## 1. Amtliche Gesetzessammlung des Kantons Zug
+## 1. Gesetzessammlungen des Kantons Zug
 ## 2. Amtsblatt des Kantons Zug
-## 3. Ausserordentliche Bekanntmachungen
-## 4. Unentgeltliche Zustellung
-## 5. Schlussbestimmungen
+## 3. Veröffentlichungen in besonderen und ausserordentlichen Lagen
+## 4. …
+## 5. …
+## 6. Staatskalender und Behördenverzeichnisse

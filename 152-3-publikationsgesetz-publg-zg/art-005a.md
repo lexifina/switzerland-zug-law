@@ -1,5 +1,5 @@
 # § 5a Formelle Berichtigung
-1 Die Staatskanzlei berichtigt in der GS und BGS sinnverändernde Fehler und Formulierungen, die nicht dem Beschluss des erlassenden Organs entsprechen.
+1 Die Staatskanzlei berichtigt in der GS und der BGS sinnverändernde Fehler und Formulierungen, die nicht dem Beschluss des erlassenden Organs entsprechen.
 2 Sinnverändernde Fehler und Formulierungen sind:
 a) Grammatik-, Rechtschreib- und Darstellungsfehler;
 b) falsche Zahlen und Nummerierungen;
