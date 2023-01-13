@@ -1,0 +1,5 @@
+# § 22a Kosten vor dem Verwaltungsgericht
+1 Das Verwaltungsgericht erhebt eine Spruchgebühr für die Kosten und Bar- auslagen des Gerichtsverfahrens sowie eine Gebühr für Kosten von Dienstleistungen ausserhalb des Gerichtsverfahrens, sofern die Gesetzgebung nicht ausdrücklich Kostenfreiheit festlegt.
+2 Die Verfahrenskosten richten sich nach dem Zeitaufwand, nach der Schwierigkeit des Falls und nach dem Streitwert oder nach dem tatsächlichen Streitinteresse. Die Spruchgebühr beträgt in der Regel 400 bis 15'000 Franken. In ausserordentlichen Fällen besteht keine Bindung an die untere oder obere Bemessungsgrenze.
+3 Die Gebühren für Dienstleistungen ausserhalb des Gerichtsverfahrens werden grundsätzlich nach dem Zeitaufwand berechnet, zu einem Satz von 90 Franken pro Stunde. Bei besonders geringem Aufwand sowie bei Gesuchen für wissenschaftliche Zwecke und von Amtsstellen kann die Gebühr angemessen herabgesetzt oder erlassen werden.
+4 Das Verwaltungsgericht erlässt Ausführungsbestimmungen zu den Kosten. Es kann insbesondere die Erhebung pauschaler Gebühren für bestimmte Dienstleistungen vorsehen.
