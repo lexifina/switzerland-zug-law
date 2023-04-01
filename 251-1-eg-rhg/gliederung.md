@@ -1,6 +1,7 @@
 ## 1. Allgemeines
-## 2. Einwohnerregister
-## 3. AHV-Versichertennummer
-## 4. Aufgaben des Kantons
-## 5. Weitere Bestimmungen
-## 6. Übergangs- und Schlussbestimmungen
+## 2. Kantonale Personenregister
+## 3. Datenschutz
+## 4. Einwohnerregister
+## 5. AHV-Versichertennummer
+## 6. Zuständigkeiten
+## 7. Übergangs- und Schlussbestimmungen
