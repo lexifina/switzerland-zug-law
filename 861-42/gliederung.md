@@ -5,4 +5,4 @@
 ### 2.3. Unterbringung
 ### 2.4. Nothilfe
 ## 3. Verwaltungskostenpauschale
-## 4. Schlussbestimmungen
+## 4. …
