@@ -9,11 +9,11 @@
 ### 3.6. Erreichen der Altersgrenze
 ### 3.7. Vorzeitige Pensionierung
 ### 3.8. Dauernde volle Arbeitsunfähigkeit
-### 3.9. Abgangsentschädigung und Entlassungsrente
+### 3.9. Abgangsentschädigung
 ## 4. Pflichten der Mitarbeiterinnen und der Mitarbeiter
 ## 5. Rechte der Mitarbeiterinnen und Mitarbeiter
-### 5.1. Besoldung im Allgemeinen
-### 5.2. Gehaltsanspruch
+### 5.1. Entlöhnung im Allgemeinen
+### 5.2. Lohnanspruch
 ### 5.3. Zulagen, Dienstaltersgeschenk und besondere Vergütungen
 ### 5.4. Entlöhnung während der Verhinderung an der Arbeitsleistung
 ### 5.5. Ferien und Urlaub
