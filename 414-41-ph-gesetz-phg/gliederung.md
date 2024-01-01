@@ -4,7 +4,7 @@
 ### 1.3. Finanzen
 ## 2. Angehörige der Pädagogischen Hochschule Zug
 ### 2.1. Hochschulpersonal
-### 2.2. Studierende und Kursteilnehmende
+### 2.2. Studierende und Weiterbildungsteilnehmende
 ## 3. Promotion
 ## 4. Rechtspflege
 ## 5. Übergangs- und Schlussbestimmungen
