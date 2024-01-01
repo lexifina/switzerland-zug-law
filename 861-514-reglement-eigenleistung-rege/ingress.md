@@ -1,5 +1,6 @@
-# Reglement über die Bemessung der Eigenleistung von betreuten Personen an die Kosten für den Aufenthalt in einer sozialen Einrichtung
+# Reglement über die Eigenleistungen im Rahmen des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf
+(Reglement Eigenleistung, RegE)
 Vom 2. Februar 2011
 Die Direktion des Innern des Kantons Zug,
-gestützt auf § 25 des Gesetzes über soziale Einrichtungen (SEG) vom 26. August 2010 und § 30 der Verordnung zum Gesetz über soziale Einrichtungen (SEV) vom 16. November 2010,
-verfügt:
+gestützt auf § 4 Abs. 2 Bst. i und § 30 des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf (LBBG) vom 6. Juli 2023 und § 34 der Verordnung über Leistungen für Menschen mit Behinderung und Betreuungsdarf (LBBV) vom 28. November 2023,
+beschliesst:
