@@ -1,0 +1,5 @@
+# § 19c Personalförderungs- und Entwicklungsmassnahmen
+1 Die Pädagogische Hochschule fördert die Entwicklung des gesamten Hochschulpersonals. Es kommen grundsätzlich die Bestimmungen der kantonalen Weiterbildungsverordnung zur Anwendung.
+2 Angehörige des Lehr- und Forschungspersonals mit unbefristeter Anstellung können in der Regel maximal alle fünf Jahre Antrag auf Kostenbeteiligung der Pädagogischen Hochschule Zug an einem längeren Zertifikatsstudiengang (CAS, DAS, MAS) stellen.
+3 Die Anstellungsinstanz kann dem Hochschulpersonal mit unbefristeter Anstellung die Möglichkeit gewähren, eine Habilitation, eine Dissertation oder in bestimmten Fällen eine Masterarbeit im Rahmen eines Fachdidaktik-Masters zu verfassen und diese in Teilen finanziell zu unterstützen. Die Hochschulleitung erlässt dazu entsprechende Bestimmungen.
+4 Die Hochschulleitung kann weitere von der kantonalen Weiterbildungsverordnung abweichende Bestimmungen zu den Personalförderungs- und Entwicklungsmassnahmen erlassen. Die Bestimmungen bedürfen der Genehmigung durch den Hochschulrat.

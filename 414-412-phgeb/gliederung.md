@@ -4,4 +4,4 @@
 ## 4. Weiterbildung, Zusatzausbildungen und weitere Kurse
 ## 5. Einrichtungen
 ## 6. Zahlungsmodalitäten
-## 7. Schlussbestimmung
+## 7. …
