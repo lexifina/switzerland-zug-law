@@ -1,0 +1,4 @@
+# § 11c Bearbeitung der Observationsakten
+1 Die Observationsakten müssen systematisch und vollständig geführt werden. Sie müssen sicher, sachgemäss und vor schädlichen Einwirkungen geschützt aufbewahrt werden.
+2 Kann der begründete Verdacht auf unrechtmässigen Leistungsbezug durch die verdeckte Observation nicht bestätigt werden, werden die Observationsakten innert 60 Tagen nach Rechtskraft der Verfügung vernichtet, sofern die oder der betroffene Hilfe Suchende nicht ausdrücklich verlangt, dass die Observationsakten im Dossier aufbewahrt werden sollen.
+3 Solange die Observationsakten nicht vernichtet wurden, kann die oder der betroffene Hilfe Suchende unter Vorbehalt überwiegender privater oder öffentlicher Interessen diese auf Gesuch hin vor Ort einsehen oder sich kostenlos Kopien zustellen lassen. Vorbehalten bleiben die Bestimmungen des Archivgesetzes vom 29. Januar 2004.

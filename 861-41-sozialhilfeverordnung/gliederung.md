@@ -3,6 +3,8 @@
 ### 2.1. Einkommensfreibeträge und Integrationszulagen
 ### 2.2. Auflagen und Weisungen
 ### 2.3. Weitere Bestimmungen
+## 2a. Datenbeschaffung und Datenbekanntgabe
+## 2b. Observation
 ## 3. Meldung von Unterstützungsfällen
 ## 4. Rückerstattung von Unterstützungsleistungen
 ## 5. Heimaufenthalte
