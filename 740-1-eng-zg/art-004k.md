@@ -1,0 +1,3 @@
+# § 4k Verbrauchsoptimierung
+1 Grossverbraucher mit einem jährlichen Wärmeverbrauch von mehr als 5 GWh oder einem jährlichen Elektrizitätsverbrauch von mehr als 0,5 GWh können durch die zuständige kantonale Behörde verpflichtet werden, ihren Energieverbrauch zu analysieren und zumutbare Massnahmen zur Verbrauchsoptimierung zu realisieren.
+2 Abs. 1 ist nicht anwendbar für Grossverbraucher, die sich verpflichten, individuell oder in einer Gruppe die von der zuständigen kantonalen Behörde vorgegebenen Ziele für die Entwicklung des Energieverbrauchs einzuhalten. Überdies können sie von der Einhaltung näher zu bezeichnender energetischer Vorschriften entbunden werden.
