@@ -1,5 +1,6 @@
 # Verordnung zum Energiegesetz
-Vom 12. Juli 2005
+(V EnG-ZG)
+Vom 23. Januar 2024
 Der Regierungsrat des Kantons Zug,
 gestützt auf § 6 Abs. 2 des Energiegesetzes vom 1. Juni 2004,
 beschliesst:

@@ -1,3 +1,7 @@
-## 1. Energieverwendung in Gebäuden, Bewilligungsverfahren und Gebäudeinformation
-## 2. Vollzug von Bundesrecht zur Energieversorgung
-## 3. Schlussbestimmungen
+## 1. Allgemeine Bestimmungen
+## 2. Energienutzung
+### 2.1 Energie in Gebäuden
+### 2.2 Weitere Vorschriften
+### 2.3 Grossverbraucher
+## 3. Vollzug
+## 4. Schlussbestimmungen
