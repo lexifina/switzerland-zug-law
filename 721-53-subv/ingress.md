@@ -1,6 +1,6 @@
 # Submissionsverordnung
 (SubV)
-Vom 20. September 2005
+Vom 20. Februar 2024
 Der Regierungsrat des Kantons Zug,
-gestützt auf § 2 des Submissionsgesetzes vom 2. Juni 2005,
+gestützt auf § 6 Abs. 3 des Submissionsgesetzes vom 30. November 2023,
 beschliesst:
