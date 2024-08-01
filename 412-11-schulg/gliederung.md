@@ -10,7 +10,7 @@
 #### 2.2.5. Talentförderung
 ### 2.3. …
 ### 2.4. Schuldienste
-### 2.5. Lehrer
+### 2.5. Lehrperson
 ### 2.6. Schulbehörden und Organe
 #### 2.6.1. Gemeindliche Schulbehörden und Organe
 #### 2.6.2. Kantonale Schulbehörden und Organe
