@@ -15,4 +15,4 @@ a) zwei Lektionen pro Klasse auf der Kindergarten-, Primar- und Sekundarstufe I 
 b) eine Lektion in der 6. Primarklasse für Arbeiten im Zusammenhang mit dem Übertrittsverfahren;
 c) eine Lektion für Klassenlehrpersonen auf der Kindergarten-, Primar- und Sekundarstufe I für Arbeiten, die sich aus der integrativen Sonderschulung eines Kindes oder mehrerer Kinder in einer Klasse ergeben;
 d) …
-5 Die Direktion für Bildung und Kultur kann in Absprache mit den gemeindlichen Schulbehörden Lehrpersonen für die Übernahme von Aufgaben im Auftrag und auf Kosten des Kantons vom Unterricht entlasten. Für eine Freistellung vom Unterricht von einer Lektion während eines Schuljahres sind 50 Jahresarbeitsstunden zu leisten.
+5 Die Direktion für Bildung und Kultur kann in Absprache mit den gemeindlichen Schulbehörden Lehrpersonen für die Übernahme von Aufgaben im Auftrag und auf Kosten des Kantons vom Unterricht entlasten. Für eine Freistellung vom Unterricht von einer Lektion während eines Schuljahres sind 58 Jahresarbeitsstunden zu leisten.
