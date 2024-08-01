@@ -2,8 +2,8 @@
 ## 2. Die gemeindlichen Schulen
 ## 2bis. Sonderschulung
 ## 3. Gemeindliche Schuldienste
-### 3.1. Schularzt-Dienst
-### 3.2. Schulzahnarzt-Dienst
+### 3.1. Schulärztlicher Dienst
+### 3.2. Schulzahnärztlicher Dienst
 ## 4. Kantonale Schuldienste
 ### 4a Lehrpersonen
 ## 5. …
