@@ -1,5 +1,6 @@
 # Verordnung über die Kosten im Verfahren vor dem Verwaltungsgericht
+(KostenVO)
 Vom 30. August 1977
 Das Verwaltungsgericht des Kantons Zug,
-gestützt auf § 22 Absatz 2 des Verwaltungsrechtspflegegesetzes vom 1. April 1976,
+gestützt auf § 22 Abs. 2 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976,
 beschliesst:
