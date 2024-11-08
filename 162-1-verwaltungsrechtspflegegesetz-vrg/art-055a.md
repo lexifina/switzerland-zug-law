@@ -1,5 +1,5 @@
 # § 55a Offenlegung von Interessenbindungen
-1 Bei Amtsantritt unterrichten alle Mitglieder und Ersatzmitglieder das Verwaltungsgerichts schriftlich über:
+1 Bei Amtsantritt unterrichten alle Mitglieder und Ersatzmitglieder das Verwaltungsgericht schriftlich über:
 a) berufliche Nebenbeschäftigungen oder die berufliche Haupttätigkeit;
 b) die Tätigkeit in Führungs- und Aufsichtsgremien kommunaler, kantonaler, schweizerischer und ausländischer Körperschaften, Anstalten und Stiftungen des privaten und öffentlichen Rechts;
 c) die Mitwirkung in Kommissionen und anderen Organen internationaler Organisationen, des Bundes, der Kantone und der Gemeinden;
