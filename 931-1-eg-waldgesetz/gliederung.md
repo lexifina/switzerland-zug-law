@@ -5,4 +5,4 @@
 ## 5. Planung, Pflege und Nutzung des Waldes
 ## 6. Förderungsmassnahmen
 ## 7. Vollzug
-## 8. Schlussbestimmungen
+## 8. …
