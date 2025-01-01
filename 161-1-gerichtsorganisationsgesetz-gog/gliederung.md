@@ -7,6 +7,7 @@
 #### 2.1.2. Obergericht
 #### 2.1.3. Kantonsgericht
 #### 2.1.4. Strafgericht
+#### 2.1.5. Zwangsmassnahmengericht
 ### 2.2. Schlichtungsbehörden
 #### 2.2.1. Allgemeine Bestimmungen
 #### 2.2.2. Friedensrichteramt
