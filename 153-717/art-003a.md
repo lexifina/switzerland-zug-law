@@ -1,0 +1,3 @@
+# Ziff. 3a
+1 Das Recht zur Stellungnahme zur Umsetzung der anwendbaren internationalen und bundesrechtlichen Gesetzgebung in Bezug auf die Rechte von Menschen mit Behinderung gemäss § 4 Abs. 2 Bst. b LBBG wird an die Abteilung Behinderung und Betreuungsleistungen des Kantonalen Sozialamts übertragen. Sie kann fachlich unabhängig von einer allfälligen Stellungnahme der Direktion des Innern Stellung nehmen.
+2 Die Direktion des Innern unterbreitet der Abteilung Behinderung und Betreuungsleistungen Geschäfte mit Bezug zu Behindertenrechten zur Stellungnahme. Namentlich werden ihr Einladungen zu kantonsinternen Mitberichten und Stellungnahmen gegenüber Bund und Dritten zur Stellungnahme zugestellt.
