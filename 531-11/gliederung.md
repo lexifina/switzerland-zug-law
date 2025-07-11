@@ -1,4 +1,4 @@
-## 1. Aufgaben und Zuständigkeiten des Amtes für Zivilschutz und Militär
+## 1. Aufgaben und Zuständigkeiten des Amtes für Bevölkerungsschutz, Zivilschutz und Militär
 ## 2. Zuweisungsplanung
 ## 3. Zivilschutzorganisation
 ## 4. Ausbildung
