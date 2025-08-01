@@ -4,6 +4,7 @@
 ## 3. Gemeindliche Schuldienste
 ### 3.1. Schulärztlicher Dienst
 ### 3.2. Schulzahnärztlicher Dienst
+### 3.3. Schulergänzende Betreuung
 ## 4. Kantonale Schuldienste
 ### 4a Lehrpersonen
 ## 5. …
@@ -12,4 +13,4 @@
 ## 8. Weiterführende Schulen
 ## 9. Privatschulen
 ## 10. Allgemeine Weiterbildung
-## 11. Übergangs- und Schlussbestimmungen
+## 11. …

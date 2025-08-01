@@ -2,5 +2,5 @@
 (Schulverordnung; SchulV)
 Vom 7. Juli 1992
 Der Regierungsrat des Kantons Zug,
-in Vollziehung des Schulgesetzes (SchulG) vom 27. September 1990,
+gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894,
 beschliesst:
