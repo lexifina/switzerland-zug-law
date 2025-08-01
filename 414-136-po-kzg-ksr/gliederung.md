@@ -1,0 +1,8 @@
+## 1. Allgemeine Bestimmungen
+## 2. Beurteilung
+### 2.1 Zeugnis
+### 2.2 Zwischenzeugnis
+## 3. Promotion
+### 3.1 Promotionskonferenz
+### 3.2 Promotionsfächer
+### 3.3 Promotionsbedingungen
