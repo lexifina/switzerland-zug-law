@@ -2,5 +2,5 @@
 (Verwaltungsgebührentarif)
 Vom 11. März 1974
 Der Kantonsrat des Kantons Zug,
-gestützt auf § 41 Abs. 1 Bst. e der Kantonsverfassung und in Ausführung von § 19 und § 79 des Einführungsgesetzes zum ZGB vom 17. August 1911,
+gestützt auf § 41 Abs. 1 Bst. e der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894,
 beschliesst die Erhebung nachfolgender Gebühren für Amtshandlungen in Verwaltungs- und Zivilsachen:

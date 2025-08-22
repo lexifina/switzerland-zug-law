@@ -2,8 +2,8 @@
 1
 38.1. Benutzungsberatung im Lesesaal und archivische Fachbetreuung über 1/2 Stunde, pro Stunde: 80
 38.2. Ausdrucke ab Mikrofilm in Selbstbedienung im Lesesaal ab 11. Stück/Tag, für jede Kopie A4 und A3: 1
-38.3. Fotokopien durch Kundendienst bis A3 s/w: 2
-38.4. Fotokopien durch Kundendienst bis A3 farbig: 4
+38.3. Erstellung von Fotokopien, Computerausdrucken, Scans und Ähnlichem im Rahmen einer Amtshandlung, mit Auftragsaufwand über eine ¼ Stunde: 80 pro Stunde (Kostenberechnung auf angefangene ¼ Stunde genau)
+38.4. …
 38.5. Digitalisierungsarbeiten, Führungen, Transkriptionen, erstreckte Öffnungszeiten für Einzelbenutzer/innen (soweit Kapazitäten vorhanden sind) pro Stunde und beteiligte/n Archivmitarbeitende/n: 80
 38.6. Historische und archivische Fachauskünfte, die mit Recherchen verbunden sind mit Aufwand über 1/2 Stunde, pro Stunde: 80
 38.7. Bestätigungen (Zeugnisse, Schulnachweise) pro bestätigtes Dokument: 20
