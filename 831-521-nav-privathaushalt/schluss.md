@@ -1,1 +1,0 @@
-Dieser Beschluss tritt auf den 1. Januar 1985 in Kraft. Auf denselben Zeitpunkt wird der Regierungsratsbeschluss über den Normalarbeitsvertrag Privathaushalt vom 28. Dezember 1980 aufgehoben.

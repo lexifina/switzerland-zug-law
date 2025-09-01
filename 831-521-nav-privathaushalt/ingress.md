@@ -1,5 +1,6 @@
 # Normalarbeitsvertrag Privathaushalt
-Vom 18. Dezember 1984
+(NAV Privathaushalt)
+Vom 19. August 2025
 Der Regierungsrat des Kantons Zug,
-zur Vollziehung von Art. 359 des Obligationenrechtes in der Fassung des Bundesgesetzes vom 25. Juni 1971,
+in Vollziehung von Art. 359 des Obligationenrechts,
 beschliesst:
