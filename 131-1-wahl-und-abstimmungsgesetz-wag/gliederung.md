@@ -14,7 +14,7 @@
 #### 3.1.1. Gemeinsame Bestimmungen
 ##### 3.1.1.1. Wahlvorschläge
 #### 3.1.2. Proporzwahlen
-#### 3.1.2.a Wahl des Kantonsrates
+#### 3.1.2.a Wahl des Kantonsrats
 #### 3.1.3. Majorzwahlen
 #### 3.1.4. Wahlprüfung
 #### 3.1.5 Amtsführung in speziellen Fällen
@@ -22,4 +22,4 @@
 ### 3.3. Nationalratswahlen
 ## 4. Strafbestimmungen
 ## 5. Rechtspflege
-## 6. Schluss- und Übergangsbestimmungen
+## 6. Übergangsbestimmungen
