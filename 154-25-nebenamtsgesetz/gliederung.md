@@ -8,4 +8,4 @@
 ### 2.6. Teuerungsausgleich, Spesenersatz und Weiterbildungskosten
 ### 2.7. Besondere Verhältnisse
 ## 3. Vorsorgeregelung für die ehemaligen nebenamtlichen Mitglieder des Regierungsrates
-## 4. Schlussbestimmungen
+## 4. …
