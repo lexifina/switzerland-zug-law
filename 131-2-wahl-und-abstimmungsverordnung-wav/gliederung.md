@@ -4,7 +4,7 @@
 ## 2. Stimmbüro
 ## 3. Wahl- und Abstimmungslokale; Urnen
 ## 4. Stimmmaterial
-## 5. Stimmabgabe behinderter Menschen
+## 5. Menschen mit Behinderung
 ## 6. Auszählung; Mitteilung der Ergebnisse
 ## 7. Gültigkeit der Stimmabgabe
 ## 8. Protokollierung; Sicherung des Stimmmaterials

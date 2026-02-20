@@ -1,0 +1,2 @@
+# § 51a Majorzbedingung
+1 Die stimmenstärkste Liste in einem Wahlkreis gemäss § 52e Abs. 1a WAG ist die Liste, die an der Sitzverteilung teilnimmt und die meisten Parteistimmen innerhalb des Wahlkreises auf sich vereint. In einem Wahlkreis kann es maximal so viele stimmenstärkste Listen geben, wie Sitze zu verteilen sind. Verfügen noch mehr Listen über die gleiche Parteistimmenzahl, dann entscheidet das Los welche davon als stimmenstärkste gelten.
