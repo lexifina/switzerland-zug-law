@@ -1,0 +1,4 @@
+# § 4b Höhe der Kantonspauschale
+1 Die Kantonspauschale gemäss § 6a Abs. 2 KiBeG beträgt 33 % der durchschnittlichen Betreuungstarife von Kindertagesstätten oder Tagesfamilien im Kanton Zug. Die Direktion des Innern erhebt die durchschnittlichen Tarife jährlich und legt darauf gestützt den Betrag der Kantonspauschale jährlich fest.
+2 Die Kantonspauschale wird für die Betreuung in Kindertagesstätten pro Betreuungstag und für die Betreuung in Tagesfamilien pro Betreuungsstunde festgelegt.
+3 Die Kantonspauschale und die Betreuungsgutscheine der Einwohnergemeinden dürfen zusammen die von der Betreuungseinrichtung in Rechnung gestellten Betreuungskosten nicht übersteigen. Die Einwohnergemeinden stellen die Einhaltung dieser Vorgabe sicher und kürzen falls erforderlich ihre Betreuungsgutscheine.
