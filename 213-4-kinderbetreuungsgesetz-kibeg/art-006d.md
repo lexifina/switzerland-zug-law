@@ -1,0 +1,2 @@
+# § 6d Datenbearbeitung
+1 Die zuständigen Organe des Kantons und der Einwohnergemeinden können zur Prüfung des Anspruchs auf die Kantonspauschale sowie zur Prüfung des Anspruchs auf die Betreuungsgutscheine die dafür erforderlichen Daten der Kinder sowie der Erziehungsberechtigten im elektronischen Abrufverfahren bei der kantonalen Steuerverwaltung sowie aus den kantonalen Personenregistern erheben. Der Regierungsrat bestimmt die Daten, die im Abrufverfahren bezogen werden dürfen.
