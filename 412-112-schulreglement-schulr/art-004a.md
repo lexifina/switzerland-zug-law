@@ -1,5 +1,5 @@
-# § 4a Entwicklungsorientierte Zugänge
-1 Der Unterricht im obligatorischen Kindergarten orientiert sich an folgenden entwicklungsorientierten Zugängen:
+# § 4a Kompetenzerwerb
+1 In der Kindergartenstufe erfolgt der Kompetenzerwerb über die folgenden entwicklungsorientierten Zugänge:
 a) Körper, Gesundheit und Motorik
 b) Wahrnehmung
 c) Zeitliche Orientierung

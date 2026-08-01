@@ -1,2 +1,0 @@
-# § 30c Rechtsmittel
-1 Das Rechtsmittelverfahren richtet sich nach den Bestimmungen des Schulgesetzes und des Verwaltungsrechtspflegegesetzes .
