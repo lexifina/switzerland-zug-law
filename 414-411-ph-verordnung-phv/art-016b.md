@@ -5,3 +5,4 @@ a) Professorin oder Professor bei Genehmigung einer Stelle als Professorin oder 
 b) Assistenzprofessorin oder Assistenzprofessor bei Genehmigung einer Qualifikationsstelle für eine Professur durch den Hochschulrat gemäss Reglement über die Verleihung des Titels Professorin oder Professor an der Pädagogischen Hochschule Zug;
 c) Weitere Funktionsbezeichnungen für Leitungsfunktionen;
 d) Praxisdozentin oder Praxisdozent für Lehrpersonen oder Schulleitende im Hochschuldienst.
+2.1a.2 Referenzfunktionen, Einreihung, Lohn und Zulagen

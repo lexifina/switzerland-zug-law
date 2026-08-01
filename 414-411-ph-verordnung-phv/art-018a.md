@@ -3,3 +3,5 @@
 2 Die Höhe der Funktionszulage richtet sich nach Art, Umfang und Anforderungen der leitenden Funktion oder der Ausübung der Stellvertretung. Sie entfällt, wenn anstelle einer Funktionszulage ein höherer Lohn ausgerichtet wird.
 3 Wird eine Funktion der Personalkategorie Dozierende 3 gemäss § 16a Abs. 1 Bst. g dieser Verordnung in Form einer Co-Leitung ausgeführt, erfolgt eine Einreihung als Dozierende 2 gemäss § 16a Abs. 1 Bst. f dieser Verordnung und die Ausrichtung einer anteilsmässigen Funktionszulage. Dasselbe gilt, wenn nicht alle Anforderungen für die Personalkategorie Dozierende 3 gemäss Anhang 1 erfüllt sind.
 4 Bei der Niederlegung der entsprechenden Leitungs- respektive Co-Leitungsaufgabe oder Stellvertretung entfällt die Funktionszulage.
+2.1a.3 Besondere Bestimmungen
+2.2. …
