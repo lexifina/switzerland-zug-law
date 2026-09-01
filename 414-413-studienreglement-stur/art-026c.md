@@ -1,3 +1,3 @@
-# § 26c Studienunterbruch
-1 Studienunterbrüche können auf Gesuch hin bewilligt werden.
-2 Bewilligte Studienunterbrüche sind nicht Teil der maximal möglichen Studiendauer gemäss § 26b Abs. 2.
+# § 26c Beurlaubung
+1 Eine Beurlaubung kann auf Gesuch hin je Semester bewilligt werden.
+2 Eine bewilligte Beurlaubung ist Teil der maximal möglichen Studiendauer gemäss § 26b Abs. 2.

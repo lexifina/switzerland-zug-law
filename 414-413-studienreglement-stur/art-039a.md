@@ -4,3 +4,4 @@ a) alle Module des Studiengangs im vorgegebenen Umfang erfolgreich absolviert wo
 b) die Masterarbeit angenommen wurde;
 c) die Masterprüfungen bestanden wurden.
 2 Der Abschluss des Masterstudiums befähigt zur Aufnahme einer Tätigkeit im Bereich der Sonderpädagogik (Schulische Heilpädagogik).
+6.4. Bachelor- und Masterarbeit
