@@ -1,0 +1,11 @@
+{
+  "path": "ch-zg",
+  "code": "CH-ZG",
+  "name": "Zug",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-zug-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (323 acts, 1051 versions) from the BGS",
+  "language": "de",
+  "sources": 1
+}
