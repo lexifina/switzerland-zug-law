@@ -1,6 +1,6 @@
 # How this repository was made (Zug)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-24, the day the source data was retrieved.
 
 ## Sources
 
@@ -26,8 +26,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `154-21-personalgesetz-pg` | Gesetz über das Arbeitsverhältnis des Staatspersonals | 9 | 2010-08-04 to 2025-11-14 |
 | `154-25-nebenamtsgesetz` | Gesetz über die Entschädigung der nebenamtlichen Behördenmitglieder | 2 | 2009-07-11 to 2026-01-01 |
 | `154-31-pensionskassengesetz-pkg` | Gesetz über die Zuger Pensionskasse | 3 | 2008-12-12 to 2025-11-14 |
-| `156-1-ombudsgesetz` | Gesetz über die Ombudsstelle | 2 | 2010-08-04 to 2014-05-03 |
-| `157-1-dsg` | Datenschutzgesetz | 3 | 2008-11-08 to 2020-09-01 |
+| `156-1-ombudsgesetz` | Gesetz über die Ombudsstelle | 3 | 2010-08-04 to 2026-11-06 |
+| `157-1-dsg` | Datenschutzgesetz | 4 | 2008-11-08 to 2026-11-06 |
 | `158-1-offentlichkeitsgesetz` | Gesetz über das Öffentlichkeitsprinzip der Verwaltung | 1 | 2014-05-10 to 2014-05-10 |
 | `159-1-videouberwachungsgesetz-videog` | Gesetz über die Videoüberwachung im öffentlichen und im öffentlich zugänglichen Raum | 2 | 2014-09-06 to 2020-09-01 |
 | `161-1-gerichtsorganisationsgesetz-gog` | Gesetz über die Organisation der Zivil- und Strafrechtspflege | 14 | 2011-01-01 to 2025-10-17 |
@@ -122,7 +122,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `141-111` | Reglement betreffend elektronische Abstimmungsanlage im Kantonsratssaal | 1 | 2016-12-15 to 2016-12-15 |
 | `152-31-amtsblattverordnung-abv` | Verordnung über das Amtsblatt des Kantons Zug | 2 | 2023-01-01 to 2024-01-01 |
 | `152-42` | Verordnung über die Aktenführung | 1 | 2012-06-01 to 2012-06-01 |
-| `153-2-organisationsverordnung-ov` | Verordnung betreffend die Organisation und die Zuständigkeiten der Staatsverwaltung des Kantons Zug | 17 | 2011-01-01 to 2025-07-11 |
+| `153-2-organisationsverordnung-ov` | Verordnung betreffend die Organisation und die Zuständigkeiten der Staatsverwaltung des Kantons Zug | 18 | 2011-01-01 to 2026-11-06 |
 | `153-3-delv` | Delegationsverordnung | 26 | 2011-12-17 to 2025-01-01 |
 | `153-53-itv` | Informatikverordnung | 6 | 2011-01-01 to 2020-12-19 |
 | `153-62-steuerungs-verordnung` | Verordnung betreffend Steuerung der Verwaltungstätigkeit | 2 | 2011-09-01 to 2012-03-01 |
@@ -337,20 +337,142 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `942-11` | Vollziehungsverordnung zur Bundesgesetzgebung über das Messwesen | 3 | 1999-01-01 to 2019-01-01 |
 | `942-51-ksprstv` | Kantonale Sprengstoffverordnung | 2 | 2012-01-01 to 2018-03-03 |
 | `942-461-kantonale-geldspielverordnung-v-eg-bgs` | Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele | 2 | 2023-07-01 to 2024-04-12 |
+| `131-11` | Kantonsratsbeschluss betreffend Anzahl Kantonsratsmandate für die einzelnen Gemeinden (Wahlen 2026) | 5 | 2010-02-06 to 2025-12-05 |
+| `141-1-go-kr` | Kantonsratsbeschluss über die Geschäftsordnung des Kantonsrats | 9 | 2010-08-04 to 2020-12-25 |
+| `141-2` | Kantonsratsbeschluss über die Entschädigung der Fraktionen des Kantonsrats | 2 | 2001-01-01 to 2026-01-01 |
+| `151-1-go-rr` | Kantonsratsbeschluss über die Geschäftsordnung des Regierungsrats | 3 | 2008-01-01 to 2013-12-21 |
+| `152-33` | Leitlinien zur Kommunikation | 2 | 2009-04-17 to 2015-03-01 |
+| `153-5` | Kantonsratsbeschluss betreffend Textverarbeitung und Büroautomation in der kantonalen Verwaltung | 1 | 1988-09-01 to 1988-09-01 |
+| `153-8` | Kantonsratsbeschluss betreffend Änderung der namentlichen Nennung der Direktionen und der Ämter in den Gesetzessammlungen durch die neutralen Bezeichnungen «zuständige Direktion» und «zuständiges Amt» | 1 | 2019-01-01 to 2019-01-01 |
+| `153-21` | Regierungsratsbeschluss betreffend Direktionswechsel von Kommissionen, anderen Organisationseinheiten (ohne Ämter) und Sachbereichen aufgrund des neuen Organisationsgesetzes | 2 | 2010-01-23 to 2019-01-01 |
+| `153-711` | Verfügung über die Unterzeichnungsbefugnisse in der Direktion des Innern und die Delegation von Zuständigkeiten der Direktion des Innern an die Ämter, besonders im Personalbereich | 5 | 2001-04-01 to 2019-02-23 |
+| `153-712-delv-zibu` | Verfügung über die Delegation der Aufsichts- und Entscheidbefugnisse der Direktion des Innern an das Direktionssekretariat und an den Zivilstands- und Bürgerrechtsdienst in den Bereichen Zivilstandsrecht, Bürgerrecht sowie Namensänderungen | 5 | 2000-03-20 to 2019-01-05 |
+| `153-713` | Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern an das Amt für Grundbuch und Geoinformation | 3 | 2018-01-01 to 2019-11-30 |
+| `153-714` | Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern an das Amt für Wald und Wild | 12 | 2003-04-30 to 2025-03-01 |
+| `153-715` | Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern an das Direktionssekretariat | 6 | 2004-02-13 to 2019-01-05 |
+| `153-716` | Verfügung über die Delegation von Befugnissen der Direktion des Innern im Bereich des Denkmalschutzes und der Archäologie an das Amt für Denkmalpflege und Archäologie | 7 | 2008-07-01 to 2025-08-19 |
+| `153-717` | Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern in sozialen und gesellschaftlichen Bereichen an das Kantonale Sozialamt | 9 | 2011-08-01 to 2026-06-05 |
+| `153-718` | Verfügung über die Delegation der Entscheidungsbefugnis der Direktion des Innern über Anträge zur Sperrung der Veröffentlichung von Personenangaben aus dem Grundbuch im Internet und zum Vollzug der Sperrung an das Grundbuch- und Vermessungsamt | 4 | 2013-01-01 to 2019-01-05 |
+| `153-719` | Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern an das Amt für Kindes- und Erwachsenenschutz | 4 | 2013-01-01 to 2024-06-14 |
+| `153-719-1` | Verfügung über die Delegation von Anhörungen im Rahmen der Gewährung des rechtlichen Gehörs betreffend Massnahmen des Kindes- und Erwachsenenschutzes an einzelne Mitarbeitende | 3 | 2013-06-01 to 2019-01-05 |
+| `153-721` | Verfügung über die Delegation von Entscheidbefugnissen in der Direktion für Bildung und Kultur | 5 | 2010-12-01 to 2026-06-01 |
+| `153-731` | Verfügung über die Delegation von Entscheidungsbefugnissen der Volkswirtschaftsdirektion an das Amt für Wirtschaft und Arbeit | 4 | 2010-05-01 to 2019-11-09 |
+| `153-732` | Verfügung über die Delegation der Befugnis für verfahrensleitende Verfügungen der Volkswirtschaftsdirektion in Verwaltungs- und Beschwerdeverfahren | 2 | 2005-09-26 to 2019-11-09 |
+| `153-734` | Verfügung über die Delegation von Entscheidungsbefugnissen der Volkswirtschaftsdirektion an das Direktionssekretariat | 1 | 2010-01-01 to 2010-01-01 |
+| `153-735` | Verfügung über die Regelung der Zuständigkeit betreffend individuelle Personalgeschäfte bei der Volkswirtschaftsdirektion | 4 | 2012-01-01 to 2025-01-01 |
+| `153-742` | Verfügung über die Delegation von Zuständigkeiten der Baudirektion bei der Führung von erstinstanzlichen Verwaltungsverfahren, Verwaltungsbeschwerde- sowie Verwaltungsgerichtsbeschwerdeverfahren | 3 | 2010-10-01 to 2015-01-01 |
+| `153-743` | Verfügung über die Delegation von Zuständigkeiten der Baudirektion betreffend Erwerb und Veräusserung von Grundstücken sowie entsprechende Dienstbarkeitsgeschäfte an die Fachstelle für Landerwerb/Immobiliengeschäfte | 2 | 2011-04-01 to 2018-01-01 |
+| `153-744` | Verfügung über die Regelung der Zuständigkeit betreffend individuelle Personalgeschäfte bei der Baudirektion | 1 | 2015-01-01 to 2015-01-01 |
+| `153-751` | Verfügung über die Delegation der Befugnisse der Sicherheitsdirektion im Bereich des strafrechtlichen Justizvollzugs gegenüber Erwachsenen an die Zuger Polizei | 2 | 2011-05-01 to 2019-09-21 |
+| `153-753-delegationsverfugung-sd-delv-sd` | Verfügung über die Delegation von Entscheid- und Unterzeichnungsbefugnissen in der Sicherheitsdirektion | 6 | 2010-06-01 to 2023-07-01 |
+| `153-754` | Verfügung über die Regelung der Zuständigkeit betreffend individuelle Personalgeschäfte bei der Sicherheitsdirektion | 2 | 2013-01-01 to 2022-06-04 |
+| `153-755` | Verfügung über die Delegation von Entscheidungsbefugnissen der Sicherheitsdirektion im Bereich der polizeilichen Unterstützungseinsätze an die Zuger Polizei | 2 | 2014-01-01 to 2018-01-01 |
+| `153-771` | Verfügung über die Zeichnungsberechtigung und die Delegation von Zuständigkeiten in der Finanzdirektion | 4 | 2012-03-01 to 2019-01-05 |
+| `153-772` | Verfügung über die Delegation von Zuständigkeiten der Finanzdirektion bei der Führung von erstinstanzlichen Verwaltungsverfahren, Verwaltungsbeschwerde- sowie Verwaltungsgerichtsbeschwerdeverfahren | 1 | 2016-01-18 to 2016-01-18 |
+| `154-26` | Regierungsratsbeschluss über die Ausrichtung einer Teuerungszulage an das Staatspersonal | 5 | 2009-01-01 to 2026-01-01 |
+| `154-51` | Kantonsratsbeschluss betreffend Gewährleistung der Sicherheit der kantonalen Behörden, der kantonalen Verwaltung und der Gerichte | 1 | 2007-09-08 to 2007-09-08 |
+| `154-216` | Kantonsratsbeschluss betreffend Weiterbeschäftigung von physisch oder psychisch behinderten Personen ausserhalb des Stellenplans | 1 | 1995-09-28 to 1995-09-28 |
+| `154-312` | Anforderungsprofil für die vom Regierungsrat gewählten Mitglieder des Vorstands der Zuger Pensionskasse | 2 | 2014-02-22 to 2026-01-01 |
+| `161-111-go-kg` | Geschäftsordnung des Kantonsgerichts | 4 | 2011-01-01 to 2025-01-01 |
+| `161-112-go-og` | Geschäftsordnung des Obergerichts | 2 | 2011-01-01 to 2023-09-08 |
+| `161-113-go-sg` | Geschäftsordnung des Strafgerichts | 2 | 2011-01-01 to 2025-01-01 |
+| `161-811` | Kantonsratsbeschluss betreffend Festsetzung der Zahl der Vollämter und Teilämter (inklusive Beschäftigungsgrade) im Obergericht für die Amtsperiode 2025–2030 | 4 | 2010-05-06 to 2025-01-01 |
+| `161-812` | Kantonsratsbeschluss betreffend Festsetzung der Zahl der Mitglieder und Ersatzmitglieder sowie der Zahl der Vollämter und Teilämter (inklusive Beschäftigungsgrade) im Kantonsgericht und im Strafgericht für die Amtsperiode 2025–2030 | 4 | 2008-01-01 to 2025-01-01 |
+| `161-813` | Kantonsratsbeschluss betreffend zweites Hauptamt im Verwaltungsgericht ab der Amtsperiode 1997–2000 | 1 | 1996-01-25 to 1996-01-25 |
+| `161-814` | Kantonsratsbeschluss betreffend drittes Hauptamt im Verwaltungsgericht ab 2009 | 1 | 2009-01-01 to 2009-01-01 |
+| `161-815` | Kantonsratsbeschluss betreffend Bewilligung von Personalstellen für die Zivil- und Strafrechtspflege für die Jahre 2007 – 2012 | 1 | 2011-01-01 to 2011-01-01 |
+| `161-816` | Kantonsratsbeschluss betreffend die Bewilligung von Personalstellen beim Verwaltungsgericht für die Jahre 2007–2012 | 1 | 2006-04-08 to 2006-04-08 |
+| `162-2` | Kantonsratsbeschluss betreffend Festsetzung der Zahl der Haupt-, Teil- und Nebenämter (inklusive Beschäftigungsgrade) im Verwaltungsgericht für die Amtsperiode 2025–2030 | 1 | 2025-01-01 to 2025-01-01 |
+| `162-11-go-vg` | Geschäftsordnung des Verwaltungsgerichts | 5 | 2009-01-01 to 2025-12-05 |
+| `162-32` | Geschäftsordnung für die Schätzungskommission | 1 | 2012-05-08 to 2012-05-08 |
+| `212-3` | Kantonsratsbeschluss betreffend den Beitritt zum Konkordat vom 19. April 2004 über die Zentralschweizer BVG- und Stiftungsaufsicht | 1 | 2005-09-10 to 2005-09-10 |
+| `212-31` | Konkordat über die Zentralschweizer BVG- und Stiftungsaufsicht | 1 | 2005-09-10 to 2005-09-10 |
+| `212-313` | Ausführungsbestimmungen der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) betreffend die Aufsicht über die Stiftungen | 3 | 2006-01-01 to 2022-07-01 |
+| `212-315` | Ausführungsbestimmungen der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) über die berufliche Vorsorge | 4 | 2006-01-01 to 2022-07-01 |
+| `213-53` | Geschäftsordnung Amt für Kindes- und Erwachsenenschutz Zug | 2 | 2015-11-05 to 2018-11-20 |
+| `215-35-grundbuchgebuhrentarif` | Gesetz über den Gebührentarif im Grundbuchwesen | 3 | 2007-12-22 to 2019-01-01 |
+| `231-7` | Völkerrechtliche Erklärung betreffend Gleichbehandlung von Staatsangehörigen im Konkursverfahren | 1 | 1834-05-11 to 1834-05-11 |
+| `231-8` | Übereinkunft zwischen der Schweizerischen Eidgenossenschaft und der Krone Württemberg betreffend die Konkursverhältnisse und gleiche Behandlung der beiderseitigen Staatsangehörigen in Konkursfällen | 1 | 1826-05-13 to 1826-05-13 |
+| `332-1` | Übereinkunft betreffend die Polizeitransporte | 1 | 1910-01-01 to 1910-01-01 |
+| `332-31` | Vertrag zwischen den Kantonen Basel-Stadt und Zug zur Errichtung und zum Betrieb einer gemeinsamen Strafanstalt im Bostadel (Kanton Zug) | 1 | 1990-12-07 to 1990-12-07 |
+| `332-33-strafvollzugskonkordat` | Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen | 1 | 2008-01-01 to 2008-01-01 |
+| `332-311` | Personalverordnung für die Mitarbeiterinnen und Mitarbeiter der Justizvollzugsanstalt Bostadel | 3 | 2001-01-01 to 2021-06-01 |
+| `332-312-ho-jva-bostadel` | Hausordnung für die Justizvollzugsanstalt (JVA) Bostadel | 2 | 2012-01-01 to 2021-01-01 |
+| `411-1` | Konkordat über die Schulkoordination | 1 | 1971-07-09 to 1971-07-09 |
+| `411-2` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 2 | 2008-01-01 to 2017-01-01 |
+| `411-2-a1` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (Anhang) | 3 | 1995-01-01 to 2015-11-01 |
+| `411-2-a3` | Kantonsratsbeschluss betreffend Anpassung der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 1 | 2017-01-01 to 2017-01-01 |
+| `411-3-maturitats-anerkennungsreglement-mar` | Reglement über die Anerkennung von gymnasialen Maturitätsausweisen | 1 | 2007-08-01 to 2007-08-01 |
+| `411-6-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 1 | 2022-01-01 to 2022-01-01 |
+| `411-6-a1-interkantonale-universitatsvereinbarung-iuv` | Kantonsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 1 | 2021-02-01 to 2021-02-01 |
+| `411-61-anhang` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen (Interkantonale Universitätsvereinbarung, IUV) | 1 | 2022-01-01 to 2022-01-01 |
+| `411-218` | Reglement über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) | 1 | 2008-08-01 to 2008-08-01 |
+| `412-12-rsz` | Regionales Schulabkommen Zentralschweiz | 1 | 2012-08-01 to 2012-08-01 |
+| `412-32` | Kantonsratsbeschluss betreffend die solidarische Finanzierung der Beschulung von Kindern und Jugendlichen mit Asylstatus | 3 | 2022-04-01 to 2026-01-01 |
+| `413-13-schulordnung-bildungszentren` | Schulordnung des Gewerblich-industriellen Bildungszentrums, des Kaufmännischen Bildungszentrums und des Landwirtschaftlichen Bildungs- und Beratungszentrums | 4 | 2008-12-20 to 2026-04-01 |
+| `413-18` | Kantonsratsbeschluss betreffend Beteiligung des Kantons am Weiterbildungsinstitut für Energie- und Rohstoff-Rückgewinnung Zug (WERZ) | 1 | 2010-02-06 to 2010-02-06 |
+| `413-19-hfsv` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2013-06-01 to 2013-06-01 |
+| `413-19-a1-hfsv` | Kantonsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2013-06-01 to 2013-06-01 |
+| `413-21` | Kantonsratsbeschluss betreffend Standortbeitrag an die Mieterausbaukosten eines Bildungszentrums von XUND in Rotkreuz | 1 | 2025-08-22 to 2025-08-22 |
+| `413-30` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (Berufsfachschulvereinbarung, BSFV) | 1 | 2007-08-01 to 2007-08-01 |
+| `413-41` | Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld | 1 | 1992-02-07 to 1992-02-07 |
+| `413-41-a1` | Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld (Anhang 1: Beiträge der Stiftungsmitglieder an die Baukosten) | 1 | 1992-02-07 to 1992-02-07 |
+| `413-111` | Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung | 10 | 2008-06-01 to 2026-08-28 |
+| `413-112` | Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung des Qualifikationsverfahrens) | 7 | 2008-06-01 to 2025-08-01 |
+| `413-113` | Ausführungsbestimmungen 3 zum Einführungsgesetz Berufsbildung (Prüfungs- und Promotionsreglement für die Berufsmaturität am Gewerblich-industriellen Bildungszentrum und am Kaufmännischen Bildungszentrum) | 4 | 2007-08-01 to 2026-08-01 |
+| `413-122` | Entschädigung für die Teilnahme an Kursen für Lehrabschlussprüfungs-Expertinnen und -Experten | 1 | 2005-08-01 to 2005-08-01 |
+| `414-17` | Disziplinarordnung für die kantonalen Gymnasien, die Fachmittelschule und die Wirtschaftsmittelschule | 1 | 2014-08-01 to 2014-08-01 |
+| `414-22` | Reglement über die Anerkennung der Abschlüsse von Fachmittelschulen | 1 | 2019-08-01 to 2019-08-01 |
+| `414-31-fhz-konkordat` | Zentralschweizer Fachhochschul-Vereinbarung vom 15. September 2011 | 2 | 2000-02-05 to 2013-01-01 |
+| `414-31-a1-fhz-konkordat` | Kantonsratsbeschluss betreffend Beitritt zur Zentralschweizer Fachhochschul-Vereinbarung vom 15. September 2011 | 1 | 2013-01-01 to 2013-01-01 |
+| `414-50-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-01-01 to 2015-01-01 |
+| `414-50-a1-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich (Anhang) | 1 | 2015-01-01 to 2015-01-01 |
+| `414-50-a2-hochschulkonkordat` | Kantonsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-10-01 to 2015-10-01 |
+| `414-131-po-lzg-ksz` | Promotionsordnung für das Langzeitgymnasium der Kantonsschule Zug | 8 | 2009-01-01 to 2023-08-01 |
+| `414-132-po-lzg-ksm` | Promotionsordnung für das Langzeitgymnasium der Kantonsschule Menzingen | 7 | 2015-08-01 to 2026-08-01 |
+| `414-133-po-kzg-ksm` | Promotionsordnung für das Kurzzeitgymnasium der Kantonsschule Menzingen | 5 | 2015-08-01 to 2026-08-01 |
+| `414-135-po-lzg-ksr` | Promotionsordnung für das Langzeitgymnasium der Kantonsschule Rotkreuz | 1 | 2025-08-01 to 2025-08-01 |
+| `414-136-po-kzg-ksr` | Promotionsordnung für das Kurzzeitgymnasium der Kantonsschule Rotkreuz | 1 | 2025-08-01 to 2025-08-01 |
+| `414-154-po-wms` | Promotionsordnung für die Wirtschaftsmittelschule Zug | 2 | 2015-08-01 to 2023-08-01 |
+| `414-164-ao` | Absenzenordnung für die kantonalen Gymnasien, die Fachmittelschule und die Wirtschaftsmittelschule | 2 | 2015-08-01 to 2025-08-15 |
+| `414-192` | Promotionsordnung für die Fachmittelschule | 3 | 2010-08-01 to 2023-01-01 |
+| `414-301` | Kantonsratsbeschluss betreffend Beitritt zur Interkantonalen Fachhochschulvereinbarung | 1 | 2006-02-04 to 2006-02-04 |
+| `414-302-fhv` | Interkantonale Fachhochschulvereinbarung (FHV) ab 2005 | 1 | 2005-08-01 to 2005-08-01 |
+| `414-311` | Zentralschweizer Fachhochschul-Verordnung | 4 | 2013-01-01 to 2026-04-01 |
+| `414-361-1` | Kantonsratsbeschluss über die Aufhebung des PHZ-Konkordats per 31. Juli 2013 | 1 | 2013-08-01 to 2013-08-01 |
+| `414-361-1-a1` | Kantonsratsbeschluss über die Aufhebung des PHZ-Konkordats per 31. Juli 2013 (Anhang 1: Vereinbarung der Kantone Uri, Schwyz, Obwalden, Nidwalden und Zug über die Aufhebung des Konkordats über die Pädagogische Hochschule Zentralschweiz) | 1 | 2013-08-01 to 2013-08-01 |
+| `414-361-1-a2` | Kantonsratsbeschluss über die Aufhebung des PHZ-Konkordats per 31. Juli 2013 (Anhang 2: Vereinbarung über den Vollzug der Aufhebung des Konkordats über die Pädagogische Hochschule Zentralschweiz | 1 | 2013-08-01 to 2013-08-01 |
+| `414-362-a2` | Kantonsratsbeschluss betreffend Austritt des Kantons Zug aus der Interkantonalen Vereinbarung über die Hochschule für Heilpädagogik Zürich vom 21. September 1999 | 1 | 2022-07-12 to 2022-07-12 |
+| `416-162` | Kantonsratsbeschluss betreffend Gewährung von Beiträgen an die Werkjahr- und Berufswahlschule in Horgen | 1 | 2000-08-01 to 2000-08-01 |
+| `416-212` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2013-03-01 to 2013-03-01 |
+| `416-212-a1` | Kantonsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2020-01-25 to 2020-01-25 |
+| `417-2` | Kantonsratsbeschluss betreffend Beitrag des Kantons Zug an die Aufbaukosten des OYM-Colleges | 1 | 2019-10-01 to 2019-10-01 |
+| `417-3` | Kantonsratsbeschluss betreffend Beitrag des Kantons Zug an die Ausbaukosten des OYM College Campus (Internat) | 1 | 2023-06-09 to 2023-06-09 |
+| `417-4` | Kantonsratsbeschluss betreffend Darlehen an die EVZ Sport AG (EVZ) zur Finanzierung der Stadionerweiterung | 1 | 2025-06-06 to 2025-06-06 |
+| `421-2` | Kantonsratsbeschluss betreffend Einlage in den kantonalen Kulturfonds | 1 | 1987-09-03 to 1987-09-03 |
+| `421-3` | Vereinbarung über die interkantonale Zusammenarbeit im Bereich überregionaler Kultureinrichtungen | 1 | 2010-01-01 to 2010-01-01 |
+| `421-3-a1` | Vereinbarung über die interkantonale Zusammenarbeit im Bereich überregionaler Kultureinrichtungen (Anhang 1: Liste der überregionalen Kultureinrichtungen) | 1 | 2010-01-01 to 2010-01-01 |
+| `421-3-a2` | Vereinbarung über die interkantonale Zusammenarbeit im Bereich überregionaler Kultureinrichtungen (Anhang 2: Zusatzprotokolle der Kantone Luzern und Zug) | 1 | 2010-01-01 to 2010-01-01 |
+| `423-31` | Kantonsratsbeschluss betreffend die Übernahme der Burgliegenschaft in Zug sowie die Errichtung einer Stiftung für den Betrieb eines Museums in der Burg | 1 | 2005-02-26 to 2005-02-26 |
+| `423-31-a1` | Kantonsratsbeschluss betreffend die Übernahme der Burgliegenschaft in Zug sowie die Errichtung einer Stiftung für den Betrieb eines Museums in der Burg (Anhang: Abtretungsvertrag) | 1 | 1974-11-21 to 1974-11-21 |
+| `423-51` | Kantonsratsbeschluss betreffend Beiträge an das Verkehrshaus der Schweiz | 1 | 2011-04-09 to 2011-04-09 |
+| `423-311` | Satzungen der Stiftung «Museum in der Burg Zug» | 1 | 2005-02-26 to 2005-02-26 |
 
-The build made 887 commits:
+The build made 1171 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 323 | first version of an act |
-| 564 | one law on its in-force day |
+| 172 | baseline texts where the record starts |
+| 999 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 1 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1169 laws in the record.
-- 1764 tags.
+- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
+- 7 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1474 laws in the record.
+- 2299 tags.
 
 ## Dates
 
@@ -362,13 +484,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ac770e55f3228b10f077f8a3c2e892a9233f75063f86cf48bd41cdcbe652d9fa` (8681690 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `23d506182e7793ac64eca305f43ea72e80d60e903cacc38dcb87199aa62ebcec` (10340562 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-1051 versions of 323 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -382,7 +504,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
