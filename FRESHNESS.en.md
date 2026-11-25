@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Zug: systematic collection (bgs.zg.ch) · `switzerland/zug/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 13:09 UTC**.
-- Acts held here: 323; current at the source: 319; changed at the source since the version held here: 355; no longer at the source: 0.
-- Compared with the source in this read: 167 of the 323 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 232 (held here, no longer at the source: 26, new at the source, not published here yet: 205, changed at the source since the version held here: 1); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 08:19 UTC**.
+- Acts held here: 443; current at the source: 443; changed at the source since the version held here: 205; no longer at the source: 0.
+- Compared with the source in this read: 188 of the 443 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 107 (held here, no longer at the source: 52, new at the source, not published here yet: 55); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
