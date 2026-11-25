@@ -15658,6 +15658,2537 @@
      "sha256": "cd3b191308f2431f6b1eb7a0a8801a7fe3cfceac3b94eb69af79d5e907cb7fb1"
     }
    ]
+  },
+  {
+   "slug": "424-1",
+   "short": "BGS 424.1",
+   "title": "Kantonsratsbeschluss betreffend Beteiligung an der Stadt- und Kantonsbibliothek",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/424.1",
+   "versions": [
+    {
+     "from": "1984-05-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/424.1",
+     "sha256": "52a8de161ad613a261a7f952d41d2ad6b3dc78c4f3ec03b246cd3ae2fe913490"
+    }
+   ]
+  },
+  {
+   "slug": "432-113",
+   "short": "BGS 432.113",
+   "title": "Unterschutzstellung der Weinbergschnecke",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/432.113",
+   "versions": [
+    {
+     "from": "1977-06-17",
+     "to": "2013-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/432.113/versions/717",
+     "sha256": "bbfec95039d802f5dbdbbfc63408049d6d081b88a9ee41ec3fa5f9c8e610fd9f"
+    },
+    {
+     "from": "2013-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/432.113",
+     "sha256": "e7120834355ec1fd8b26a85282fdce3bdd83fdb428e12384708ad84d25f5ca68"
+    }
+   ]
+  },
+  {
+   "slug": "439-1",
+   "short": "BGS 439.1",
+   "title": "Kantonsratsbeschluss betreffend Beitritt des Kantons Zug zur Stiftung «Villette Cham»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/439.1",
+   "versions": [
+    {
+     "from": "1985-12-19",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/439.1",
+     "sha256": "e562f97b7ade4a84224530fc0e5f120663d1feecd7867dea437ac71fe95078db"
+    }
+   ]
+  },
+  {
+   "slug": "442-2",
+   "short": "BGS 442.2",
+   "title": "Übereinkunft zwischen den hohen Ständen Luzern, Bern, Solothurn und Zug für die Organisation des Bistums Basel",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/442.2",
+   "versions": [
+    {
+     "from": "1828-07-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 43,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/442.2",
+     "sha256": "c9d593078b53bcd7dda4e3d9044102a1156afe3194511f25c441b30b8ca6e737"
+    }
+   ]
+  },
+  {
+   "slug": "511-1-polizeikonkordat-zentralschweiz",
+   "short": "Polizeikonkordat Zentralschweiz",
+   "title": "Konkordat über die Grundlagen der Polizei-Zusammenarbeit in der Zentralschweiz",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.1",
+   "versions": [
+    {
+     "from": "2010-12-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 48,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.1/versions/468",
+     "sha256": "0af9b18c22c97f026508e132f1f67029093af1a85e8443b4525fe79a097c90ec"
+    }
+   ]
+  },
+  {
+   "slug": "511-2-viclas-konkordat",
+   "short": "ViCLAS-Konkordat",
+   "title": "Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten vom 2. April 2009",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.2",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.2",
+     "sha256": "ce339651017aafc9b838f3f806936d4101e6e1f567d77cd47eb70b759b7a5813"
+    }
+   ]
+  },
+  {
+   "slug": "511-3",
+   "short": "BGS 511.3",
+   "title": "Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.3",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "to": "2014-05-02",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.3/versions/470",
+     "sha256": "fec45872e5a2bc571dc9eec6251404e2dfa3879e8fabf426bc748ce50d48912e"
+    },
+    {
+     "from": "2014-05-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 22,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.3",
+     "sha256": "f412bd9dfaa2560f87eda139cdbf6a638cac8c2492bbc4f5163164aedad5b9d1"
+    }
+   ]
+  },
+  {
+   "slug": "511-3-a1",
+   "short": "BGS 511.3-A1",
+   "title": "Kantonsratsbeschluss betreffend Änderung des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.3-A1",
+   "versions": [
+    {
+     "from": "2014-05-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.3-A1",
+     "sha256": "2f44bb5812530c048ac3baa5079612f34e2fd11531d0bd93f81e231546371b12"
+    }
+   ]
+  },
+  {
+   "slug": "511-5",
+   "short": "BGS 511.5",
+   "title": "Konkordat vom 25. Juni 2003 über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.5",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 47,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.5",
+     "sha256": "e676361a4e47148b135de60c4283487d755d3a49fa070bf903b7974cbb278b29"
+    }
+   ]
+  },
+  {
+   "slug": "511-12",
+   "short": "BGS 511.12",
+   "title": "Regierungsratsbeschluss betreffend die zuständige Behörde gemäss Konkordat über die Grundlagen der Polizei-Zusammenarbeit in der Zentralschweiz",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.12",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.12",
+     "sha256": "12443c9d060e414c71ba6b8df974ecb48fd1a573780fc85f31960039ee8b3134"
+    }
+   ]
+  },
+  {
+   "slug": "511-61-ikapol",
+   "short": "IKAPOL",
+   "title": "Vereinbarung über die interkantonalen Polizeieinsätze",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.61",
+   "versions": [
+    {
+     "from": "2006-11-09",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.61/versions/471",
+     "sha256": "0171c368768862151719e30ed133782a01bdfd0538dd9e2946e740695e6a0b55"
+    },
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.61",
+     "sha256": "2baa27416fd02c32c7d806dfa3dc8e9054e850cde2b3e5e6e1b5d715342e1952"
+    }
+   ]
+  },
+  {
+   "slug": "511-74",
+   "short": "BGS 511.74",
+   "title": "Vereinbarung zwischen den Kantonen Zürich und Zug über die Ausübung der Polizeidienste auf der Nationalstrasse A4, Zürich-Luzern, zwischen dem Anschluss Affoltern am Albis und der Verzweigung Blegi (A4/A4a)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.74",
+   "versions": [
+    {
+     "from": "2009-11-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.74",
+     "sha256": "1d32d91eab6327012c1875a41018d3bced01dcaaf7230846b491db312e2ed58d"
+    }
+   ]
+  },
+  {
+   "slug": "511-75",
+   "short": "BGS 511.75",
+   "title": "Verwaltungsvereinbarung zwischen den Kantonen Schwyz und Zug über die Ausübung der Seepolizeiaufgaben auf dem Zugersee",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.75",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.75",
+     "sha256": "bd1b44c1d5dd8b31186378ce8f16266a3a852f62fc3a0f1f88c205b88753d0cc"
+    }
+   ]
+  },
+  {
+   "slug": "511-114",
+   "short": "BGS 511.114",
+   "title": "Interkantonale Vereinbarung über die Zusammenarbeit in den Bereichen Ordnungsdienst und Intervention",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.114",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.114",
+     "sha256": "29a174a7f14e901b9db5ebdda476a4da194d52359245d3a3e36bc21ba4c44b8b"
+    }
+   ]
+  },
+  {
+   "slug": "511-115",
+   "short": "BGS 511.115",
+   "title": "Interkantonale Vereinbarung über die Zusammenarbeit der kantonalen Polizeikorps im Bereich Logistik",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.115",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.115",
+     "sha256": "270e4c1dfe31b59f9789215429a58bbd87bad506a34a8e9843c32db691f0d8b6"
+    }
+   ]
+  },
+  {
+   "slug": "511-115-a1",
+   "short": "BGS 511.115-A1",
+   "title": "Interkantonale Vereinbarung über die Zusammenarbeit der kantonalen Polizeikorps im Bereich Logistik (Anhang: Artikelbezeichnung der Kleidungsstücke Einheitsuniform ZPK 2012)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/511.115-A1",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/511.115-A1",
+     "sha256": "c545752e3a8d9a64ed338b91c17d3f91e23e4e5cb1b7aeab7d7234faa791c1ad"
+    }
+   ]
+  },
+  {
+   "slug": "531-16",
+   "short": "BGS 531.16",
+   "title": "Vereinbarung zwischen den Kantonen über die interkantonale Hilfeleistung durch den Zivilschutz bei Katastrophen und in Notlagen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/531.16",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/531.16",
+     "sha256": "3ada17d21cca5694b8bac545f46cc4a52d9dc9a74e67b1626a3924912a7cb7f0"
+    }
+   ]
+  },
+  {
+   "slug": "531-17-ausbildungsvereinbarung-zivilschutz",
+   "short": "Ausbildungsvereinbarung Zivilschutz",
+   "title": "Verwaltungsvereinbarung betreffend gemeinsame Durchführung der Grund-, Zusatz- und Kaderausbildung sowie der Weiterbildung im Zivilschutz",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/531.17",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "to": "2021-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 27,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/531.17/versions/474",
+     "sha256": "94eaa4fbd1c4000744533dd1854d453183c5731cf6525380c31160f78eedd38e"
+    },
+    {
+     "from": "2021-02-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 27,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/531.17",
+     "sha256": "b3e0d5b9f6e1e40296946bc59c0a63fbbcbe902a42589c12b6e64348c28c56dc"
+    }
+   ]
+  },
+  {
+   "slug": "541-12",
+   "short": "BGS 541.12",
+   "title": "Kantonsratsbeschluss betreffend Rahmenkredit für eine zukunftsgerichtete und generationenübergreifende Wasserinfrastruktur im Kanton Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/541.12",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/541.12",
+     "sha256": "0e292e8822b9d2fcc37b6b670fdc1102e49b6bedaf2d82c2f9c315ab18d2cec6"
+    }
+   ]
+  },
+  {
+   "slug": "541-121-modalitaten-und-zustandigkeiten-i-s-krb-wasserinfrastruktur",
+   "short": "Modalitäten und Zuständigkeiten i. S. KRB Wasserinfrastruktur",
+   "title": "Modalitäten und Zuständigkeiten i. S. Kantonsratsbeschluss betreffend Rahmenkredit für eine zukunftsgerichtete und generationenübergreifende Wasserinfrastruktur im Kanton Zug vom 30. April 2026",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/541.121",
+   "versions": [
+    {
+     "from": "2026-11-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/541.121",
+     "sha256": "d135a2667f2a68fd0be84ea475c94b9b940cf823e86d791921026b977f6464e3"
+    }
+   ]
+  },
+  {
+   "slug": "542-12",
+   "short": "BGS 542.12",
+   "title": "Kantonsratsbeschluss betreffend sofortige Hilfeleistungen bei Katastrophen und Kriegen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/542.12",
+   "versions": [
+    {
+     "from": "2002-07-06",
+     "to": "2017-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/542.12/versions/2942",
+     "sha256": "a759c042ac8b4d4bfe1b792960ea6aa44116255c3f00079a6599f5ba9421b4fe"
+    },
+    {
+     "from": "2018-01-01",
+     "to": "2023-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/542.12/versions/2943",
+     "sha256": "2dffc66058cc2a52909b47d16854c749d1686e7a23cb53cc12759ada4ba4762e"
+    },
+    {
+     "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/542.12",
+     "sha256": "10bf57bfb92853f010691edf7224a3a720e17d9aa21105408274d218499ca7d6"
+    }
+   ]
+  },
+  {
+   "slug": "613-11",
+   "short": "BGS 613.11",
+   "title": "Kantonsratsbeschluss betreffend Nachtragskredit Nr. 1 zum Budget 2020 im Zusammenhang mit COVID-19 (Stützungsfonds; Kredit für die kantonale Verwaltung und die Gerichte)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/613.11",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/613.11",
+     "sha256": "2c919111fcb274379d92349e2dcd8ad72c939be1bb037e1e9dca9df75d420e7d"
+    }
+   ]
+  },
+  {
+   "slug": "613-12",
+   "short": "BGS 613.12",
+   "title": "Kantonsratsbeschluss betreffend Genehmigung vorgezogener Budgetkredite 2021–2023 für die individuelle Prämienverbilligung in der Krankenpflegeversicherung (COVID-19)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/613.12",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/613.12",
+     "sha256": "2a74f6295bffada453a885396e3e929677847b6f6178aec9fa31d3ea9830ae3d"
+    }
+   ]
+  },
+  {
+   "slug": "613-13",
+   "short": "BGS 613.13",
+   "title": "Kantonsratsbeschluss betreffend Kreditausfallgarantie zugunsten der Zuger Kantonalbank und weiterer Banken im Kanton Zug infolge des Coronavirus (COVID-19-Kreditausfallgarantie)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/613.13",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/613.13",
+     "sha256": "df934f7bb0139b08edf52ed47c3b7af358efdbcec9cbd24d6751090f45cc504c"
+    }
+   ]
+  },
+  {
+   "slug": "613-14",
+   "short": "BGS 613.14",
+   "title": "Kantonsratsbeschluss betreffend Bürgschaft zur Sicherung von Bankkrediten an qualifizierte Startup-Unternehmen (COVID-19-Startup-Bürgschaft)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/613.14",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/613.14",
+     "sha256": "6f8d4dd7361e2e7baff6dc7fe908d073e19e22f61bbf63cf3742d43e7be051ac"
+    }
+   ]
+  },
+  {
+   "slug": "613-15",
+   "short": "BGS 613.15",
+   "title": "Kantonsratsbeschluss betreffend Nachtragskredit Nr. 3 zum Budget 2020 und Nachtragskredit Nr. 1 zum Budget 2021 im Zusammenhang mit Covid-19 (Kredit für die kantonale Verwaltung und die Gerichte)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/613.15",
+   "versions": [
+    {
+     "from": "2020-12-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/613.15",
+     "sha256": "3d01446a3786f64f95d4408b61146c8064141fcf60e6b46baf4c330dbeefd9d6"
+    }
+   ]
+  },
+  {
+   "slug": "613-16-covid-19-hartefalle",
+   "short": "Covid-19-Härtefälle",
+   "title": "Kantonsratsbeschluss betreffend Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/613.16",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/613.16",
+     "sha256": "51587d3c8e2f11653648c9e995c5bc5eae245aa512673063d61ef17f8399eb6f"
+    }
+   ]
+  },
+  {
+   "slug": "613-17-covid-19-hartefalle",
+   "short": "Covid-19-Härtefälle",
+   "title": "Kantonsratsbeschluss betreffend Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/613.17",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/613.17",
+     "sha256": "bc69bcb212dc3450ce52af348e8a98c96c05b6cb3c431839f576c1cb2a301c35"
+    }
+   ]
+  },
+  {
+   "slug": "613-18",
+   "short": "BGS 613.18",
+   "title": "Kantonsratsbeschluss betreffend Nachtragskredit Nr. 1 zum Budget 2022 im Zusammenhang mit Covid-19 (Kredit für die kantonale Verwaltung und die Gerichte)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/613.18",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/613.18",
+     "sha256": "440f308b37be46aae84182bab998ba7e0738f518f63b335ed456c4f4b14cd551"
+    }
+   ]
+  },
+  {
+   "slug": "613-19",
+   "short": "BGS 613.19",
+   "title": "Kantonsratsbeschluss betreffend Genehmigung vorgezogener Budgetkredite 2026 und 2027 für die Vergütung von stationären Spitalbehandlungen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/613.19",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/613.19",
+     "sha256": "321f693f61ccdaea524bb544f3a7d6ccc06d4ae74d9cbed69e53890b31c00f5c"
+    }
+   ]
+  },
+  {
+   "slug": "614-11-krb-ntc",
+   "short": "KRB NTC",
+   "title": "Kantonsratsbeschluss betreffend Beitrag des Kantons Zug zur Unterstützung des Aufbaus des Nationalen Testinstituts für Cybersicherheit NTC",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/614.11",
+   "versions": [
+    {
+     "from": "2022-06-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/614.11",
+     "sha256": "a818a86a421bfb99d9bbff74fb0fdfe687512fad90e96721df650dceaa736fa7"
+    }
+   ]
+  },
+  {
+   "slug": "614-12-krb-itsec4kmu",
+   "short": "KRB ITSec4KMU",
+   "title": "Kantonsratsbeschluss betreffend Beitrag des Kantons Zug zur Unterstützung des Aufbaus einer zentralen Informations- und Anlaufstelle für KMU im Kontext der Cybersicherheit (ITSec4KMU)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/614.12",
+   "versions": [
+    {
+     "from": "2022-06-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/614.12",
+     "sha256": "3c7242d633b992ae942e8aaf12933e2b0e345e2def8129bdb6b9de8406c731e1"
+    }
+   ]
+  },
+  {
+   "slug": "614-13",
+   "short": "BGS 614.13",
+   "title": "Kantonsratsbeschluss betreffend Baurechtsvertrag für das Grundstück Nr. 1412, Artherstrasse, Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/614.13",
+   "versions": [
+    {
+     "from": "2022-12-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/614.13",
+     "sha256": "2d495815334b01dbe8f7ee4f28948b2cbdf41e001868cc88e8575aa439ca016a"
+    }
+   ]
+  },
+  {
+   "slug": "614-14-krb-blockchain-zug",
+   "short": "KRB Blockchain Zug",
+   "title": "Kantonsratsbeschluss betreffend Beitrag des Kantons Zug zur Unterstützung des Aufbaus der «Blockchain Zug – Joint Research Initiative»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/614.14",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/614.14",
+     "sha256": "e01b09747220d87601d5fdc82bbe27feb56c3fcaf2dda84680410cf85bf8e3f7"
+    }
+   ]
+  },
+  {
+   "slug": "614-15-krb-eth-ntc",
+   "short": "KRB ETH-NTC",
+   "title": "Kantonsratsbeschluss betreffend Finanzierung einer langfristigen Forschungszusammenarbeit in den Bereichen Cybersicherheit und künstliche Intelligenz (KI) zwischen der Eidgenössischen Technischen Hochschule (ETH) Zürich und dem Nationalen Testinstitut für Cybersicherheit (NTC) in Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/614.15",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/614.15",
+     "sha256": "2a90d003ab61cd7f2c111e1a41fb855f3c002b162cca5778d2e304d7bf624986"
+    }
+   ]
+  },
+  {
+   "slug": "614-16-krb-kompetenzzentrum-und-strategische-partnerschaft-cybersicherheit",
+   "short": "KRB Kompetenzzentrum und strategische Partnerschaft Cybersicherheit",
+   "title": "Kantonsratsbeschluss betreffend Finanzierung der Konzeption, der Umsetzung und des Betriebs eines kantonalen Kompetenzzentrums für Cybersicherheit (KKC) sowie einer strategischen Partnerschaft mit der Eidgenössischen Technischen Hochschule (ETH) Zürich und der Hochschule Luzern (HSLU) im Bereich Cybersicherheit",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/614.16",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/614.16",
+     "sha256": "5b8ccaf277276a69fb4308f9f8b87e707277004d16b99cd16008e0071b0eeb28"
+    }
+   ]
+  },
+  {
+   "slug": "632-2",
+   "short": "BGS 632.2",
+   "title": "Kantonsratsbeschluss über den Solidaritätsbeitrag des Kantons an die Einwohnergemeinden im Rahmen der Änderung des Steuergesetzes, achtes Revisionspaket",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/632.2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/632.2",
+     "sha256": "282bde4b171bff647fe3a5ebc6b199193570fb1418cc5d70a44a330b659f4bb8"
+    }
+   ]
+  },
+  {
+   "slug": "633-1",
+   "short": "BGS 633.1",
+   "title": "Konkordat zwischen den Kantonen der schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/633.1",
+   "versions": [
+    {
+     "from": "1959-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/633.1",
+     "sha256": "4b070f3354dc79010107142da27ea9f4a1254ce8ae6cfe24a30030656cc4ad14"
+    }
+   ]
+  },
+  {
+   "slug": "641-1-verwaltungsgebuhrentarif",
+   "short": "Verwaltungsgebührentarif",
+   "title": "Kantonsratsbeschluss über die Gebühren in Verwaltungs- und Zivilsachen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/641.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "to": "2012-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1/versions/1023",
+     "sha256": "cb85718b9bec8b5c3b135e9170e9010bcb45dfc23bc9e83fb6171f6c1bc37b58"
+    },
+    {
+     "from": "2013-01-01",
+     "to": "2015-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1/versions/1133",
+     "sha256": "1ea251168685db0b61a151292fc6ecbb5b8c4ff39753e74fffcf8ddc5faa5a01"
+    },
+    {
+     "from": "2015-04-01",
+     "to": "2015-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1/versions/1413",
+     "sha256": "17304f2ec5208b0d18973a6e1a5c55eb92f78ae29cc02c8b122995c0c9392ab9"
+    },
+    {
+     "from": "2016-01-01",
+     "to": "2016-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1/versions/1501",
+     "sha256": "13b7666e9730b845ebe96b1ce58eb66d62400c60e9371499784c4eca00b9d07d"
+    },
+    {
+     "from": "2017-01-01",
+     "to": "2017-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1/versions/1577",
+     "sha256": "03de545a00acb7012069382d6175dfad62129f8defb32a430e219efe5a1dcd90"
+    },
+    {
+     "from": "2018-01-01",
+     "to": "2018-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1/versions/1680",
+     "sha256": "c16519d5141acd9cfb3aa729b7f1f24d7bf02e55d5aced9927ba6498cee2eebc"
+    },
+    {
+     "from": "2019-01-01",
+     "to": "2019-08-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1/versions/1868",
+     "sha256": "c013f33a8bee4f3f09658e952ac4c27fde755e0745078a39a79f45521a07352a"
+    },
+    {
+     "from": "2019-09-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1/versions/2002",
+     "sha256": "5383817082ad66f2bc5342b57c8d235deee1c5341d7ca241addbca73165f2def"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2025-08-21",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1/versions/2038",
+     "sha256": "03042f8602057ab0bfdbba8ecbe8548241f070dcde4f782636789c02a675e506"
+    },
+    {
+     "from": "2025-08-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.1",
+     "sha256": "d1b7601e75d5d7d86c2865be4652056fc6e810a0260d2c82e298eb20c6dcbd88"
+    }
+   ]
+  },
+  {
+   "slug": "641-7-strassengebuhrentarif",
+   "short": "Strassengebührentarif",
+   "title": "Kantonsratsbeschluss über die Gebühren für die besondere Inanspruchnahme von Kantonsstrassen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/641.7",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/641.7",
+     "sha256": "49a2ed0949c9d20d2c080a2ef5a3da29c3a7c013aaa15e4662ddead8c31f6f4d"
+    }
+   ]
+  },
+  {
+   "slug": "651-2",
+   "short": "BGS 651.2",
+   "title": "Kantonsratsbeschluss über die Genehmigung einer Erhöhung des Aktienkapitals der Zuger Kantonalbank",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/651.2",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/651.2",
+     "sha256": "4d10e664f44fbde0d8f79ca96308ca670d95fa1b97860b533a02374fb3b589bc"
+    }
+   ]
+  },
+  {
+   "slug": "651-2-a1",
+   "short": "BGS 651.2-A1",
+   "title": "Kantonsratsbeschluss über die Genehmigung einer Erhöhung des Aktienkapitals der Zuger Kantonalbank (Anhang: Beschluss über die Erhöhung des Aktienkapitals der Zuger Kantonalbank)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/651.2-A1",
+   "versions": [
+    {
+     "from": "2003-04-26",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/651.2-A1",
+     "sha256": "1417896482036d78304c7ed00506745abe3f58a5cbcb345e190a05e9137a1040"
+    }
+   ]
+  },
+  {
+   "slug": "651-31",
+   "short": "BGS 651.31",
+   "title": "Anforderungsprofil für die vom Kanton delegierten Mitglieder des Bankrates der Zuger Kantonalbank",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/651.31",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/651.31",
+     "sha256": "3f2df42562c3b57b605ea97debe6b3f052ce7cf582b98d12e3705259738e54ed"
+    }
+   ]
+  },
+  {
+   "slug": "661-1",
+   "short": "BGS 661.1",
+   "title": "Interkantonale Vereinbarung über den Salzverkauf in der Schweiz",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/661.1",
+   "versions": [
+    {
+     "from": "1975-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/661.1",
+     "sha256": "78a58058e6f5eeee1e6efc60142ee4e6612fabe8ae555d3f394d5c4888f35e7c"
+    }
+   ]
+  },
+  {
+   "slug": "671-1",
+   "short": "BGS 671.1",
+   "title": "Kantonsratsbeschluss betreffend Darlehen an die Zugerland Verkehrsbetriebe AG zur Finanzierung der Ersatzbeschaffung und der Umrüstung der Fahrzeugflotte auf einen CO₂-neutralen Betrieb",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/671.1",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/671.1",
+     "sha256": "9f1ee02200484aa37ed385f87b1c4ff31f1edc819a2bd73843291fbb5ef2459c"
+    }
+   ]
+  },
+  {
+   "slug": "671-2-krb-darlehen-iszl",
+   "short": "KRB Darlehen ISZL",
+   "title": "Kantonsratsbeschluss betreffend Darlehen an die Stiftung The International School of Zug and Luzern (ISZL) zur Finanzierung der Schulraumerweiterung",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/671.2",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/671.2",
+     "sha256": "626e3781b417d72d9d7b5da265c3b8e5d381423abf59dba9ca7555b15d95520e"
+    }
+   ]
+  },
+  {
+   "slug": "711-9",
+   "short": "BGS 711.9",
+   "title": "Kantonsratsbeschluss betreffend Landerwerb für kantonale Bauvorhaben in der Landwirtschaftszone",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/711.9",
+   "versions": [
+    {
+     "from": "2009-12-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/711.9",
+     "sha256": "aea93143753efed63f245fd238ffbf0fd28363c55dca35fe6bb48aa293d7c141"
+    }
+   ]
+  },
+  {
+   "slug": "721-7-ivhb",
+   "short": "IVHB",
+   "title": "Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/721.7",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/721.7",
+     "sha256": "95714776b00628a7de493f4f0cb5d2a051f12d52116f81ab85c035da8208ad6a"
+    }
+   ]
+  },
+  {
+   "slug": "721-52-ivob",
+   "short": "IVöB",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/721.52",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": "2024-02-29",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 27,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/721.52/versions/678",
+     "sha256": "7b96f831b8189956f7b9daf8fda8c8336ebb0826872a405c9c40dcc1b669f3dd"
+    },
+    {
+     "from": "2024-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 68,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/721.52",
+     "sha256": "9402dfaad803f81ab7f53ac899055dad8290e624df9581898b9d3ea0def18d64"
+    }
+   ]
+  },
+  {
+   "slug": "721-253",
+   "short": "BGS 721.253",
+   "title": "Kantonsratsbeschluss betreffend Verfahren für die Planung von kantonalen Hochbauten",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/721.253",
+   "versions": [
+    {
+     "from": "2017-02-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/721.253",
+     "sha256": "99bb0c2bcbdfdafaed3e108e4f22cb80a8e6e20b8e0b5bdc3eb6dee1ed6cc411"
+    }
+   ]
+  },
+  {
+   "slug": "732-2",
+   "short": "BGS 732.2",
+   "title": "Zweckverband der Zuger Einwohnergemeinden für die Bewirtschaftung von Abfällen (ZEBA) – Verbandsordnung",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/732.2",
+   "versions": [
+    {
+     "from": "2004-10-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 29,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/732.2",
+     "sha256": "937ca8d1cb5ca9f7fae468a9f861540e6d0b86cad019c397d1a36684dd4f1201"
+    }
+   ]
+  },
+  {
+   "slug": "732-4",
+   "short": "BGS 732.4",
+   "title": "Kantonsratsbeschluss über die Einrichtung einer zentralen Kehrichtdeponie bei der Baarburg",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/732.4",
+   "versions": [
+    {
+     "from": "1963-09-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/732.4",
+     "sha256": "d14534f8dfe65270fe3a33eb32efb9871631308f51ebee05c1bf51c7e79c0b53"
+    }
+   ]
+  },
+  {
+   "slug": "740-16-krb-energiebeitrage-ii",
+   "short": "KRB Energiebeiträge II",
+   "title": "Kantonsratsbeschluss betreffend zweiten Rahmenkredit zur Förderung von Massnahmen für geringeren Energiebedarf",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/740.16",
+   "versions": [
+    {
+     "from": "2010-01-09",
+     "to": "2011-07-15",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/740.16/versions/233",
+     "sha256": "2b992b4ef9f731a31f252783c318d11b185031f54717aef16ba4d1111ccd30c4"
+    },
+    {
+     "from": "2011-07-16",
+     "to": "2012-04-13",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/740.16/versions/798",
+     "sha256": "72a9b65796fe85636176eb26a8219c40a2679ff2bd7701401e6d5c7ccc6ca36b"
+    },
+    {
+     "from": "2012-04-14",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/740.16",
+     "sha256": "1414a6874dd136db621700fa422b8855a808e9d3d2af7cac3adbd1f77b6269bf"
+    }
+   ]
+  },
+  {
+   "slug": "740-17",
+   "short": "BGS 740.17",
+   "title": "Kantonsratsbeschluss betreffend Rahmenkredit für ein Programm 2023 bis 2032 zur Förderung von Massnahmen zur Senkung des Energieverbrauchs und der CO2-Emissionen in bestehenden Gebäuden",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/740.17",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/740.17",
+     "sha256": "2a14aa64cc983b897989072e4eb64ccb0b993ba99401e636c6f2f46145b9a6a8"
+    }
+   ]
+  },
+  {
+   "slug": "741-1-etzelwerkkonzession",
+   "short": "Etzelwerkkonzession",
+   "title": "Vertrag zwischen den Kantonen Zürich, Schwyz und Zug einerseits und den Schweizerischen Bundesbahnen anderseits über die Ausnützung der Wasserkräfte der Sihl beim Etzel",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/741.1",
+   "versions": [
+    {
+     "from": "1929-07-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/741.1",
+     "sha256": "c294b4d4184c9bf6ed6540e1d80cd12eca810af7d734ea914050a66aa1639888"
+    }
+   ]
+  },
+  {
+   "slug": "741-3",
+   "short": "BGS 741.3",
+   "title": "Kantonsratsbeschluss betreffend Ablösung des NOK-Gründungsvertrags durch einen Aktionärbindungsvertrag der Aktionäre der Axpo Holding AG",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/741.3",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/741.3",
+     "sha256": "b4bf633ab261af00c3e28f5ea2a473a6f674163ccbb0a3b9bb99ca09fb908089"
+    }
+   ]
+  },
+  {
+   "slug": "751-12",
+   "short": "BGS 751.12",
+   "title": "Kantonsratsbeschluss über das Strassenbauprogramm 2023–2030",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.12",
+   "versions": [
+    {
+     "from": "2010-12-11",
+     "to": "2014-11-07",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.12/versions/801",
+     "sha256": "5fc4eccb6b9357fccb0754bdec94805c5c05fb1532eae2a5a2a7591f5491b431"
+    },
+    {
+     "from": "2014-11-08",
+     "to": "2016-06-17",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.12/versions/1378",
+     "sha256": "db943b8ff1f9e910b7b368dbaca5d6ee029b8c629f0152e962813cc5ef438311"
+    },
+    {
+     "from": "2016-06-18",
+     "to": "2017-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.12/versions/1548",
+     "sha256": "75c200f34fa94901d895b4671338d85f3984b92b6b8da24373765678c3e39969"
+    },
+    {
+     "from": "2018-01-01",
+     "to": "2023-06-08",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.12/versions/1735",
+     "sha256": "056ea297e993b56624ca5ac1ae5076432da770e883fccce21c836c156a604a16"
+    },
+    {
+     "from": "2023-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.12",
+     "sha256": "b610a2ef5c10416486acc99247a78139e1c0ea3f1ac026073f31cb1347a991ec"
+    }
+   ]
+  },
+  {
+   "slug": "751-12-a1",
+   "short": "BGS 751.12-A1",
+   "title": "Kantonsratsbeschluss über das Strassenbauprogramm 2023–2030 (Anhang 1: Kostenkatalog Fixbeträge Umbuchung von Spezialfinanzierung in die Verwaltungsrechnung)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.12-A1",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.12-A1",
+     "sha256": "f32b006b98e6939129e544980484872ca339c5ccd01e9c7261c0607e0e1d14dc"
+    }
+   ]
+  },
+  {
+   "slug": "751-41",
+   "short": "BGS 751.41",
+   "title": "Vereinbarung zwischen den Kantonen Zug und Aargau über die Durchführung von amtlichen, periodischen Nachprüfungen von Fahrzeugen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.41",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.41",
+     "sha256": "f5bbbb2111bb4a3fb7ce0d978c93864db4c5153ae4d4e286ff36eed5e4b58201"
+    }
+   ]
+  },
+  {
+   "slug": "751-51",
+   "short": "BGS 751.51",
+   "title": "Kantonsratsbeschluss betreffend Genehmigung des Generellen Projekts «Umfahrung Unterägeri»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.51",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.51",
+     "sha256": "c3b20538ec4db835e3b4428bf2d143ad49bbf111fe08122104a48e9839c85352"
+    }
+   ]
+  },
+  {
+   "slug": "751-52",
+   "short": "BGS 751.52",
+   "title": "Kantonsratsbeschluss betreffend Genehmigung des Generellen Projekts «Umfahrung Zug»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.52",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.52",
+     "sha256": "cbdb3cca755e9e682718c2b5bf446f066d4e3e91ecf47841c30c6121446b95b5"
+    }
+   ]
+  },
+  {
+   "slug": "751-161",
+   "short": "BGS 751.161",
+   "title": "Übereinkommen zwischen dem Kanton Zug, vertreten durch die hohe Regierung, und der Einwohner-Gemeinde Baar, vertreten durch den Einwohnerrat Baar, betreffend Benützung und Unterhalt der von Kanton und Gemeinde erstellten Dorfbach- und Marktgass-Kanalisation, sowie der von der Gemeinde mit Beitrag des Kantons erstellten Ableitung des Katzenbaches in die Bahndamm-Kanalisation und Weiterführung der Dorf- und Bahndamm-Kanalisation in die Lorze",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.161",
+   "versions": [
+    {
+     "from": "1929-09-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.161",
+     "sha256": "f6abd5c4654ad535ef29a13117d7e7d6bdf54d436a9dbd787efd6392c8400149"
+    }
+   ]
+  },
+  {
+   "slug": "751-162",
+   "short": "BGS 751.162",
+   "title": "Vertrag zwischen dem Kanton und der Einwohnergemeinde Zug über die Kanalisation in der Baarerstrasse",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.162",
+   "versions": [
+    {
+     "from": "1954-11-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.162",
+     "sha256": "4df7b70ec8e09d7ba50be3895de1c43699f29dff6661a703e89778f8c0aeeee4"
+    }
+   ]
+  },
+  {
+   "slug": "751-314",
+   "short": "BGS 751.314",
+   "title": "Kantonsratsbeschluss betreffend Festlegung der Bahnhaltestellen und der Knotenpunkte des öffentlichen Verkehrs",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.314",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "to": "2011-11-04",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.314/versions/245",
+     "sha256": "c08b113016f33105e41a7fcfe15d40de984caf31e2211e5020111b13c776b4bd"
+    },
+    {
+     "from": "2011-11-05",
+     "to": "2023-12-09",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.314/versions/806",
+     "sha256": "6dfead95524b64b9ab4127462dae84f5bd2f5b73d4df8ee0ad26a41adfefc25c"
+    },
+    {
+     "from": "2023-12-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.314",
+     "sha256": "a4f2e6c0d05bc3d1e17f3da5ea9ea708cd5d605b4841ffb9de6ba3289887bfb0"
+    }
+   ]
+  },
+  {
+   "slug": "751-315",
+   "short": "BGS 751.315",
+   "title": "Kantonsratsbeschluss betreffend Beteiligung des Kantons und der Gemeinden am Aktienkapital der Zugerland Verkehrsbetriebe AG",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.315",
+   "versions": [
+    {
+     "from": "2011-02-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.315",
+     "sha256": "2d1371909a6580102f2ab118a8e8a66af6fc37a134e877d468d9c880c89cb574"
+    }
+   ]
+  },
+  {
+   "slug": "751-316",
+   "short": "BGS 751.316",
+   "title": "Kantonsratsbeschluss betreffend Darlehen an die SBB zur teilweisen Vorfinanzierung der Durchmesserlinie Zürich",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/751.316",
+   "versions": [
+    {
+     "from": "2012-02-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/751.316",
+     "sha256": "e78403ccedee03048f870f85609374acfbb49c350e1fa79ca72b8d5254242ba4"
+    }
+   ]
+  },
+  {
+   "slug": "811-15",
+   "short": "BGS 811.15",
+   "title": "Interkantonale Vereinbarung über die Gründung einer interkantonalen Umweltagentur",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/811.15",
+   "versions": [
+    {
+     "from": "2004-07-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/811.15",
+     "sha256": "baa622b30d5220c471ad1942412a8c74c14b39b954afe304d04ddfa9efb708df"
+    }
+   ]
+  },
+  {
+   "slug": "821-16",
+   "short": "BGS 821.16",
+   "title": "Vereinbarung über die Zusammenarbeit im Bereich des Koordinierten Sanitätsdienstes zwischen den Kantonen Luzern, Uri, Schwyz, Nidwalden, Obwalden, Zug und Tessin",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/821.16",
+   "versions": [
+    {
+     "from": "2013-07-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/821.16",
+     "sha256": "0be61d1ade8e3acf7eb1927551d618e69e9d823e4897b6142b0fee9de269fe9b"
+    }
+   ]
+  },
+  {
+   "slug": "821-17",
+   "short": "BGS 821.17",
+   "title": "Meldestelle gemäss Art. 10 Abs. 2 des Sterilisationsgesetzes Verfügung der Gesundheitsdirektion",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/821.17",
+   "versions": [
+    {
+     "from": "2005-04-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/821.17",
+     "sha256": "97a504d3812ea817725382522a8aee93f80f05f59c96313ae07f16178e602060"
+    }
+   ]
+  },
+  {
+   "slug": "822-2",
+   "short": "BGS 822.2",
+   "title": "Kantonsratsbeschluss betreffend Unterstützung des ärztlichen Notfalldienstes",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/822.2",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/822.2",
+     "sha256": "ad7154fe87e6e26cec650606216f5a3ddffccba364e65f13ddefae2a4e783d78"
+    }
+   ]
+  },
+  {
+   "slug": "822-6",
+   "short": "BGS 822.6",
+   "title": "Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/822.6",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": "2016-06-01",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/822.6/versions/487",
+     "sha256": "a4c1553e9b82bb1c24dc8bd0cc0cb05347ad3875ff50c307a8716cfc6d8c651c"
+    },
+    {
+     "from": "2016-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/822.6",
+     "sha256": "310b09c495e3db7315c438caeb9597f5fcfca773f73ec54b824d3269296fc041"
+    }
+   ]
+  },
+  {
+   "slug": "824-26-geblmk",
+   "short": "GebLMK",
+   "title": "Gebührentarif für die Lebensmittelkontrolle",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/824.26",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "to": "2015-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/824.26/versions/397",
+     "sha256": "f94ce0db6d7feb120775e7459d78141c56a21c2b494046bcd4a7f69b9b0d2e59"
+    },
+    {
+     "from": "2016-01-01",
+     "to": "2020-05-10",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/824.26/versions/1508",
+     "sha256": "1829e68c08d8d562fd99ac345d11603f36bf6af394f6dc030e234a0ca94471e3"
+    },
+    {
+     "from": "2020-05-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/824.26",
+     "sha256": "8e916fa49e17cb0a1a4ce846bb638130b3174131e559b828dd3df298785a3df7"
+    }
+   ]
+  },
+  {
+   "slug": "824-27",
+   "short": "BGS 824.27",
+   "title": "Gebührentarif für die Schlachttier- und Fleischkontrolle",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/824.27",
+   "versions": [
+    {
+     "from": "2012-12-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/824.27",
+     "sha256": "3f860890687e9b0e5b33d1c80e41d8bde85baf5e73da98b90d008ba049c0db8a"
+    }
+   ]
+  },
+  {
+   "slug": "826-14",
+   "short": "BGS 826.14",
+   "title": "Kantonsratsbeschluss betreffend Übernahme des Bürgerspitals und der Schwesternschule am Bürgerspital Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.14",
+   "versions": [
+    {
+     "from": "1981-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.14",
+     "sha256": "78faa478728e4269ed832310cbe4122c9a1b9ab982728b6a1b23d7ea6a5fa9a2"
+    }
+   ]
+  },
+  {
+   "slug": "826-14-a1",
+   "short": "BGS 826.14-A1",
+   "title": "Kantonsratsbeschluss betreffend Übernahme des Bürgerspitals und der Schwesternschule am Bürgerspital Zug (Anhang: Vertrag betreffend Abtretung des Bürgerspitals und der Schwesternschule am Bürgerspital Zug)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.14-A1",
+   "versions": [
+    {
+     "from": "1981-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.14-A1",
+     "sha256": "8a982c4c39bba6a3a9a9e6703115c3d7024b21556cd34fe90ae7a92726598d90"
+    }
+   ]
+  },
+  {
+   "slug": "826-153",
+   "short": "BGS 826.153",
+   "title": "Vereinbarung der Innerschweizer Kantone über Ausbildungen für Berufe des Gesundheitswesens",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.153",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.153",
+     "sha256": "20743a6357acf7d316437252303d83c171bd8b0de4731c5fe984823fc1701265"
+    }
+   ]
+  },
+  {
+   "slug": "826-153-a1",
+   "short": "BGS 826.153-A1",
+   "title": "Vereinbarung der Innerschweizer Kantone über Ausbildungen für Berufe des Gesundheitswesens (Anhang)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.153-A1",
+   "versions": [
+    {
+     "from": "2005-04-29",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.153-A1",
+     "sha256": "f42f8ebfb6c389bff689df7f388e0c26ce1442d6a44ec0b10f220b8f872506df"
+    }
+   ]
+  },
+  {
+   "slug": "826-154-weiterbildungsfinanzierungsvereinbarung-wfv",
+   "short": "Weiterbildungsfinanzierungsvereinbarung, WFV",
+   "title": "Kantonsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen vom 20. November 2014",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.154",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.154",
+     "sha256": "d0217410b40dc921292245134268314b6ad3a183ea9b9559eb0e7f7c3e00af18"
+    }
+   ]
+  },
+  {
+   "slug": "826-154-a1-weiterbildungsfinanzierungsvereinbarung-wfv",
+   "short": "Weiterbildungsfinanzierungsvereinbarung, WFV",
+   "title": "Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.154-A1",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.154-A1",
+     "sha256": "109130598128dadd36ce64781f9fcb5650931b8e5e66e344945c49210aa9a241"
+    }
+   ]
+  },
+  {
+   "slug": "826-162-psychiatriekonkordat",
+   "short": "Psychiatriekonkordat",
+   "title": "Konkordat der Kantone Uri, Schwyz und Zug betreffend die psychiatrische Versorgung",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.162",
+   "versions": [
+    {
+     "from": "1983-01-01",
+     "to": "2017-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.162/versions/489",
+     "sha256": "1ad8472ac4615cefc4c75503c7b9c7eccc6477435fc843b6e353da9f55910498"
+    },
+    {
+     "from": "2017-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.162",
+     "sha256": "23263dd5cb9d862a45ac6ed27297a6d6ddbcc224fd7a031e6f31eaa0c54dc795"
+    }
+   ]
+  },
+  {
+   "slug": "826-162-a2",
+   "short": "BGS 826.162-A2",
+   "title": "Kantonsratsbeschluss betreffend Beitritt zum totalrevidierten Psychiatriekonkordat",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.162-A2",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.162-A2",
+     "sha256": "7db75e1bcc054240dc48bac747b3512c560f8e7177f3520a3aa61dbf0c344f44"
+    }
+   ]
+  },
+  {
+   "slug": "826-192",
+   "short": "BGS 826.192",
+   "title": "Gebührentarif für die Benützung des Rettungsdienstes",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.192",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "to": "2015-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.192/versions/398",
+     "sha256": "b119e0cf587cfd4ff663e174fad8cb7469863cfbaa591ca649ca7bc18610f4d2"
+    },
+    {
+     "from": "2016-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.192",
+     "sha256": "7e68702142865198ef0febb258da5b3d0dd50480d2e0d311cf2c8744480b9c16"
+    }
+   ]
+  },
+  {
+   "slug": "826-192-2",
+   "short": "BGS 826.192.2",
+   "title": "Gebührentarif des Rettungsdienstes für Hilfeleistungseinsätze ohne medizinische Versorgung bei Alarmierung über das Notrufsystem des Schweizerischen Roten Kreuzes",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.192.2",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.192.2",
+     "sha256": "fe08504aa81826d6939b2dc0e25b8f2b5812e30dbfc90db8521dc78802509362"
+    }
+   ]
+  },
+  {
+   "slug": "826-192-3-gebuhrentarif-zusatzaufwendungen-rdz",
+   "short": "Gebührentarif Zusatzaufwendungen RDZ",
+   "title": "Gebührentarif für Zusatzaufwendungen bei der Benützung des Rettungsdienstes (Material, Administration, Reinigung)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/826.192.3",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/826.192.3",
+     "sha256": "a837f53454459ac59a2d46f3a660ea6c1fd5df2b2e0a59a35dc29f58c7bac410"
+    }
+   ]
+  },
+  {
+   "slug": "831-51",
+   "short": "BGS 831.51",
+   "title": "Regierungsratsbeschluss über den Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/831.51",
+   "versions": [
+    {
+     "from": "2002-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/831.51",
+     "sha256": "bda1a4220632fb865e163fa09ddcc190128c3a6348a7409c97f7b2052a5acc22"
+    }
+   ]
+  },
+  {
+   "slug": "831-52",
+   "short": "BGS 831.52",
+   "title": "Regierungsratsbeschluss über den Normalarbeitsvertrag Privathaushalt",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/831.52",
+   "versions": [
+    {
+     "from": "1985-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/831.52",
+     "sha256": "9316c59df1cf51c3e38fd024988a4d2c2dd2a322714ed1af2a3340e8ac28d030"
+    }
+   ]
+  },
+  {
+   "slug": "831-511",
+   "short": "BGS 831.511",
+   "title": "Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/831.511",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 29,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/831.511",
+     "sha256": "6336098ed7a4e5f06d311429e3f84d87879f8c81e99a8dc1672049c785a496ba"
+    }
+   ]
+  },
+  {
+   "slug": "831-521-nav-privathaushalt",
+   "short": "NAV Privathaushalt",
+   "title": "Normalarbeitsvertrag Privathaushalt",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/831.521",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "to": "2025-08-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 24,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/831.521/versions/1049",
+     "sha256": "4218cee86dc8ce8d26a2602ea7ecbf62c0a4c04f8b57046f9f11a72cceea53d2"
+    },
+    {
+     "from": "2025-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/831.521",
+     "sha256": "58b798ca84e801b03744900c973892103728c34a960410b41889da818564f2e8"
+    }
+   ]
+  },
+  {
+   "slug": "831-521-a1",
+   "short": "BGS 831.521-A1",
+   "title": "Normalarbeitsvertrag Privathaushalt (Anhang)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/831.521-A1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/831.521-A1",
+     "sha256": "3c1b979d345a2e4516ab11e67085f1f04f4e57b5838003969341801da8d7e2a7"
+    }
+   ]
+  },
+  {
+   "slug": "834-25",
+   "short": "BGS 834.25",
+   "title": "Kantonsratsbeschluss über die Unterstützung von Institutionen zur Betreuung ausländischer Arbeitskräfte",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/834.25",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/834.25",
+     "sha256": "07c8e4e666190d6f171a467ff65a338fd9ffe2c2157dff7d036099ad78f492de"
+    }
+   ]
+  },
+  {
+   "slug": "841-8",
+   "short": "BGS 841.8",
+   "title": "Kantonsratsbeschluss betreffend Abgabe des Verbundabonnements «Zuger Pass» an IV-Bezügerinnen und -Bezüger sowie an blinde und sehbehinderte Personen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/841.8",
+   "versions": [
+    {
+     "from": "2000-12-09",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/841.8",
+     "sha256": "8eeb5b027ef1fc22975fcd607e8ca3faef0a50c3f0fc47908103084f68a788fe"
+    }
+   ]
+  },
+  {
+   "slug": "841-12",
+   "short": "BGS 841.12",
+   "title": "Verfügung über die Verwaltungskostenbeiträge der Ausgleichskasse Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/841.12",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "to": "2011-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/841.12/versions/353",
+     "sha256": "ed56e178f47e6c005bd761c28a06b1d2287be78a7aa113249a85eeab55d369cc"
+    },
+    {
+     "from": "2012-01-01",
+     "to": "2014-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/841.12/versions/354",
+     "sha256": "383f05a3b90335f7fec71d9a113f3b4bf880454bae156fd42e5596f0a30fa513"
+    },
+    {
+     "from": "2015-01-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/841.12/versions/1373",
+     "sha256": "af94072c99bf3a6ba247a0221a6c5ffcb49efb1dfc6b9ce926b6dabe3e31d2e5"
+    },
+    {
+     "from": "2022-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/841.12",
+     "sha256": "fcdc0f424ea29f47fd849acce2031cdf2d8ed967121d3d3900bec280117f0118"
+    }
+   ]
+  },
+  {
+   "slug": "843-1",
+   "short": "BGS 843.1",
+   "title": "Regierungsratsbeschluss betreffend den Vollzug des Bundesgesetzes über die Erwerbsausfallentschädigungen an Wehrpflichtige (Erwerbsersatzordnung)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/843.1",
+   "versions": [
+    {
+     "from": "1953-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/843.1",
+     "sha256": "e3081706b34cabb284396de933e32bb7d533fa8e8f71e7484ee3db27abff7694"
+    }
+   ]
+  },
+  {
+   "slug": "844-413",
+   "short": "BGS 844.413",
+   "title": "Vereinbarung zwischen dem Kanton St. Gallen und dem Kanton Zug über die Zuständigkeit der Familienausgleichskassen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/844.413",
+   "versions": [
+    {
+     "from": "1999-12-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/844.413",
+     "sha256": "426bfd4492b7b6217f9f0c0a2c1394e111d1bd83c83f3d2e4d9e317a50d97edc"
+    }
+   ]
+  },
+  {
+   "slug": "851-213",
+   "short": "BGS 851.213",
+   "title": "Kantonsratsbeschluss betreffend Rahmenkredit für die Förderung von preisgünstigem Wohnraum",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/851.213",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/851.213",
+     "sha256": "d4c2c1d7e5f26ac764a4cd4e508a193176a5abfb5bb4c597d9108bf15b8d8693"
+    }
+   ]
+  },
+  {
+   "slug": "851-214",
+   "short": "BGS 851.214",
+   "title": "Kantonsratsbeschluss betreffend Rahmenkredit für die Förderung von preisgünstigem Wohnraum",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/851.214",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/851.214",
+     "sha256": "695dfef9b27ebe22e98aa2978775f1969c939717379aa99fe888dd782208ddee"
+    }
+   ]
+  },
+  {
+   "slug": "861-51",
+   "short": "BGS 861.51",
+   "title": "Regierungsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE) und die redaktionelle Anpassung des Schulgesetzes vom 27. September 1990",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/861.51",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/861.51",
+     "sha256": "518eaf5a12fa6693be8c046ba7d5bd43d797ca1cbf6bc5be60a6ddbb3d2d511e"
+    }
+   ]
+  },
+  {
+   "slug": "861-52-ivse",
+   "short": "IVSE",
+   "title": "Interkantonale Vereinbarung für Soziale Einrichtungen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/861.52",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": "2015-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 48,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/861.52/versions/530",
+     "sha256": "a8b3598208c718e3be07b131c2d25e47b70a50815651a397277297b39b5cf7f1"
+    },
+    {
+     "from": "2016-01-01",
+     "to": "2020-03-06",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 48,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/861.52/versions/1513",
+     "sha256": "454912ce2bc95216bb22fe5d8e2186cd02eb9f5874fac06361c8a21aecec5038"
+    },
+    {
+     "from": "2020-03-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 49,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/861.52",
+     "sha256": "cf4282cf9098f9e126f9f0200b1d6ddb5a78ba1b5046aa465db8e73a4df39f47"
+    }
+   ]
+  },
+  {
+   "slug": "861-52-a1-ivse",
+   "short": "IVSE",
+   "title": "Interkantonale Vereinbarung für Soziale Einrichtungen (Anhang 1: Inkrafttreten der IVSE)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/861.52-A1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/861.52-A1",
+     "sha256": "2b2953150cd7ee6e22269450a8760198daa48c713768155884ffa96688f1590b"
+    }
+   ]
+  },
+  {
+   "slug": "861-52-a2-ivse",
+   "short": "IVSE",
+   "title": "Interkantonale Vereinbarung für Soziale Einrichtungen (Anhang 2: Abkürzungen)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/861.52-A2",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/861.52-A2",
+     "sha256": "373a686b2242ad558973ddbd8ba91cae0382b750ab1cf8216844acf64f9c25c5"
+    }
+   ]
+  },
+  {
+   "slug": "861-52-a3-ivse",
+   "short": "IVSE",
+   "title": "Interkantonale Vereinbarung für Soziale Einrichtungen (Anhang 3: Liste der Vereinbarungskantone mit den Bereichen, für die der Beitritt gilt)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/861.52-A3",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/861.52-A3",
+     "sha256": "fedf35e457a5d44f9518c789ec0b082f8426d27ab20bc1795c1d1edc02f31cfc"
+    }
+   ]
+  },
+  {
+   "slug": "861-421",
+   "short": "BGS 861.421",
+   "title": "Minimalstandards für die Ausgestaltung der Räumlichkeiten in Asylunterkünften",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/861.421",
+   "versions": [
+    {
+     "from": "2017-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/861.421",
+     "sha256": "bb3a4f779d91ada3727963afbf7b94b27a8bbc1011edf22d9f60464dc05dbef5"
+    }
+   ]
+  },
+  {
+   "slug": "861-512-a1-lbbv-anhang",
+   "short": "LBBV-Anhang",
+   "title": "Anhang zur Verordnung über Leistungen für Menschen mit Behinderung und Betreuungsbedarf",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/861.512-A1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/861.512-A1",
+     "sha256": "1e451e56491bd565e132c4ffdf6931e89e55ba4d2308e0746b2ce32aa181593b"
+    }
+   ]
+  },
+  {
+   "slug": "868-4",
+   "short": "BGS 868.4",
+   "title": "Kantonsratsbeschluss betreffend Aufhebung des Gesetzes über die Ausrichtung von Kantonsbeiträgen an Altersbauten",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/868.4",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/868.4",
+     "sha256": "1e1e2e6089054470939f2ef21ca6cd531c0cc1f1e3c06265f8460104f9c2a08f"
+    }
+   ]
+  },
+  {
+   "slug": "868-7",
+   "short": "BGS 868.7",
+   "title": "Kantonsratsbeschluss betreffend Beteiligung des Kantons an der «Stiftung Eichholz»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/868.7",
+   "versions": [
+    {
+     "from": "1968-08-29",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/868.7/versions/372",
+     "sha256": "089bd6f80854f4686da38f1a38002067f45f365a5d6e99741810ace3198de6ac"
+    },
+    {
+     "from": "2020-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/868.7",
+     "sha256": "f89614d7b2560a6713130efe2aa2622a1ff3bcab4016b65d897787e4ca097139"
+    }
+   ]
+  },
+  {
+   "slug": "868-73",
+   "short": "BGS 868.73",
+   "title": "Kantonsratsbeschluss über die Gewährung eines Baubeitrages an die Kolonie Herdern",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/868.73",
+   "versions": [
+    {
+     "from": "1977-12-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/868.73",
+     "sha256": "10a20519773f328bf9ff0e0a362f3f31c9b22297014e60d81d3b4b2acfb543b8"
+    }
+   ]
+  },
+  {
+   "slug": "913-1",
+   "short": "BGS 913.1",
+   "title": "Kantonsratsbeschluss betreffend Vergabe von Innovationspreisen im Wirtschaftsbereich",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/913.1",
+   "versions": [
+    {
+     "from": "2000-05-01",
+     "to": "2017-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/913.1/versions/374",
+     "sha256": "3da452ff445c0af80a0e477ff6407fae381862e786e0e16802ea0aaa466111a1"
+    },
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/913.1",
+     "sha256": "bf0b3e6ba8efa8858df7056d9515c8cb6321db445019f4c59596b40f32a534d8"
+    }
+   ]
+  },
+  {
+   "slug": "913-2",
+   "short": "BGS 913.2",
+   "title": "Kantonsratsbeschluss betreffend Beteiligung des Kantons an Innovationsförderungsmassnahmen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/913.2",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/913.2",
+     "sha256": "9f2fb37c359e33555c5ea3cde00e2a09e0cd70663887fa8fd42f7742f9d20462"
+    }
+   ]
+  },
+  {
+   "slug": "913-3-krb-dekarbonisierung",
+   "short": "KRB Dekarbonisierung",
+   "title": "Kantonsratsbeschluss betreffend Beitrag des Kantons Zug zur Unterstützung des Innovationsprojekts «Zuger Initiative zur Dekarbonisierung der Industrie»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/913.3",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/913.3",
+     "sha256": "e36d77f9f71ebf9f2ed969e9ae528cc5e89aba36bfec5077dedd1d5951459ceb"
+    }
+   ]
+  },
+  {
+   "slug": "913-4",
+   "short": "BGS 913.4",
+   "title": "Kantonsratsbeschluss betreffend Beitrag des Kantons Zug an die Initiative «Klima-Charta Zug»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/913.4",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/913.4",
+     "sha256": "152854ed6ade3f61a410b05e26e847fe99036c02e09790e3ebe489df8af189ef"
+    }
+   ]
+  },
+  {
+   "slug": "913-5",
+   "short": "BGS 913.5",
+   "title": "Kantonsratsbeschluss betreffend Verlängerung des Forschungsbeitrags an das Micro Center Central Switzerland (MCCS)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/913.5",
+   "versions": [
+    {
+     "from": "2007-12-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/913.5",
+     "sha256": "b0c1fcf7bc9b4cb0dd482377f53d59c95ec59fb68c0b12c38178950901e781bf"
+    }
+   ]
+  },
+  {
+   "slug": "913-52",
+   "short": "BGS 913.52",
+   "title": "Kantonsratsbeschluss betreffend Beiträge an das Micro Center Central-Switzerland",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/913.52",
+   "versions": [
+    {
+     "from": "2011-04-09",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/913.52",
+     "sha256": "d8a8b17d248810341655fb1bd232fb5908c24f86ff35b61c94b6045555aeceaa"
+    }
+   ]
+  },
+  {
+   "slug": "914-1",
+   "short": "BGS 914.1",
+   "title": "Kantonsratsbeschluss betreffend den Beitritt zur Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (IRV)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/914.1",
+   "versions": [
+    {
+     "from": "2007-04-14",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/914.1",
+     "sha256": "490949435d73ad7673f8942daed357316190a571d8e514ecfbb4cae8735de9fb"
+    }
+   ]
+  },
+  {
+   "slug": "914-2-rahmenvereinbarung-irv",
+   "short": "Rahmenvereinbarung, IRV",
+   "title": "Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/914.2",
+   "versions": [
+    {
+     "from": "2007-05-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 40,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/914.2",
+     "sha256": "613db9c9c050d54d858fa6d5793809a7cd3f1f5a3677724139a74e7f0accd7f0"
+    }
+   ]
+  },
+  {
+   "slug": "916-22",
+   "short": "BGS 916.22",
+   "title": "Kantonsratsbeschluss betreffend Beitritt des Kantons Zug zur Stiftung Greater Zurich Area",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/916.22",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/916.22",
+     "sha256": "29a5322a0d2fd2ff6f04021f3dc22782a92cf94afe371659ccb92635266bc6ad"
+    }
+   ]
+  },
+  {
+   "slug": "916-33",
+   "short": "BGS 916.33",
+   "title": "Kantonsratsbeschluss betreffend Beitritt des Kantons Zug zum Verein Metropolitanraum Zürich",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/916.33",
+   "versions": [
+    {
+     "from": "2009-07-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/916.33",
+     "sha256": "4e081da9d75ac6baa6fc5aabcf536113aa528877dfbcbf898f52d18648437674"
+    }
+   ]
+  },
+  {
+   "slug": "922-513",
+   "short": "BGS 922.513",
+   "title": "Kantonsratsbeschluss betreffend Ausrichtung von Beiträgen zur Sanierung landwirtschaftlicher Kleinbetriebe",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/922.513",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/922.513",
+     "sha256": "b355bfa7f31edfb9f67a9dd493834e58e151316e5568ff3d2a9e058a281cc588"
+    }
+   ]
+  },
+  {
+   "slug": "924-21",
+   "short": "BGS 924.21",
+   "title": "Verwaltungsvereinbarung der Kantone Schwyz, Nidwalden und Zug über die Organisation und die Zusammenarbeit im Rahmen des Kontrolldienstes im Bereich des ökologischen Leistungsnachweises und der Label",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/924.21",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/924.21",
+     "sha256": "9a0dd8b8dd61742ef21b2e5a8ddb5afdb7e2ec7e646a9259a9212f463155cb01"
+    }
+   ]
+  },
+  {
+   "slug": "924-111",
+   "short": "BGS 924.111",
+   "title": "Kantonsratsbeschluss betreffend Beiträge für die Umstellung auf biologischen Landbau",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/924.111",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/924.111",
+     "sha256": "8f12e5088260896dc17f5d4b58b472d017902b3bfd6643c27473cde25bf44234"
+    }
+   ]
+  },
+  {
+   "slug": "924-113",
+   "short": "BGS 924.113",
+   "title": "Verfügung betreffend kantonale Hangbeiträge",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/924.113",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "to": "2014-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/924.113/versions/404",
+     "sha256": "8f3aeb3bd0eeb560ea54830099c12e335d21fca1f778c164b8e37584f9283e58"
+    },
+    {
+     "from": "2015-01-01",
+     "to": "2016-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/924.113/versions/1420",
+     "sha256": "f2fcd72f760572cba6de3a13dd4b6fddc7fc8282fb53339b2e06a93495dd5ddb"
+    },
+    {
+     "from": "2017-01-01",
+     "to": "2017-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/924.113/versions/1597",
+     "sha256": "81e059aa44e21b4bb1a350084912215dbfdedd5ed1d7f7c9650c8334e682f4a3"
+    },
+    {
+     "from": "2018-01-01",
+     "to": "2018-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/924.113/versions/1653",
+     "sha256": "0288da641b4fe470a4fcd7b8a84fd7ecd70329a3473e9898b8073e35831b040a"
+    },
+    {
+     "from": "2019-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/924.113",
+     "sha256": "6ef83de103d14bd79e85860c29f74b01388359f11baeb1dccfdb0092c8372f79"
+    }
+   ]
+  },
+  {
+   "slug": "932-111",
+   "short": "BGS 932.111",
+   "title": "Jagdbetriebsvorschriften 2026/2027",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/932.111",
+   "versions": [
+    {
+     "from": "2020-05-30",
+     "to": "2021-06-11",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 22,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/932.111/versions/2103",
+     "sha256": "e83bc74694de1868ffd3d31c6c14d26cff2f94e8419286b9be5db7803ec0e066"
+    },
+    {
+     "from": "2021-06-12",
+     "to": "2022-06-10",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/932.111/versions/2239",
+     "sha256": "423d3f4acde2d9439343a4b572f1ff0fbca749e99eb528e3756a583b728291f6"
+    },
+    {
+     "from": "2022-06-11",
+     "to": "2023-06-15",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/932.111/versions/2342",
+     "sha256": "a7429572a0fa832d0d8064f4334031b97f2c7bfc575dfbc436441ea066818400"
+    },
+    {
+     "from": "2023-06-16",
+     "to": "2024-06-27",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/932.111/versions/2442",
+     "sha256": "20f1fce84775cab6f919de9fb7d56ed4fc9a84c2ec3f4d74823502bc3aee55b7"
+    },
+    {
+     "from": "2024-06-28",
+     "to": "2025-07-03",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/932.111/versions/2584",
+     "sha256": "b293cd0beffc222167f78918e44762a2a41a49fc153f35a4881bcd84f50ab1ae"
+    },
+    {
+     "from": "2025-07-04",
+     "to": "2026-07-02",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/932.111/versions/2702",
+     "sha256": "051f139f5c7e0b59554450a82b9f3ca5e05fe306b04ca80afca065c6add01737"
+    },
+    {
+     "from": "2026-07-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/932.111",
+     "sha256": "1614811358278d9845b6e8b02c25231018b7ac592d72b3afae37886c831313b3"
+    }
+   ]
+  },
+  {
+   "slug": "933-11",
+   "short": "BGS 933.11",
+   "title": "Konkordat über die Fischerei im Zugersee",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/933.11",
+   "versions": [
+    {
+     "from": "1970-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.11",
+     "sha256": "01fad4e8cfbab8b5364d6c5168fe702f1231b35586f7dcdfe1cdda39088905f3"
+    }
+   ]
+  },
+  {
+   "slug": "933-14",
+   "short": "BGS 933.14",
+   "title": "Übereinkunft zwischen den Kantonen Zürich und Zug über die Fischerei im zürcherisch-zugerischen Grenzabschnitt der Sihl",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/933.14",
+   "versions": [
+    {
+     "from": "1947-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.14",
+     "sha256": "dcfdf916d9ce16e16e129d80cf662720c933a074dabfe337ca94fe03cc701dde"
+    }
+   ]
+  },
+  {
+   "slug": "933-15",
+   "short": "BGS 933.15",
+   "title": "Übereinkommen betreffend die Fischerei im luzernisch-zugerischen Grenzabschnitt des Aabaches",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/933.15",
+   "versions": [
+    {
+     "from": "1959-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.15",
+     "sha256": "34f12fcf0f96b17a1429966e9f214ada635d8940b6287bb6bd218d501688a203"
+    }
+   ]
   }
  ]
 }

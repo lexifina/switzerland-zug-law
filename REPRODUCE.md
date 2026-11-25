@@ -1,6 +1,6 @@
 # How this repository was made (Zug)
 
-This file is written by the build on 2026-11-24, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -457,22 +457,146 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `423-31-a1` | Kantonsratsbeschluss betreffend die Übernahme der Burgliegenschaft in Zug sowie die Errichtung einer Stiftung für den Betrieb eines Museums in der Burg (Anhang: Abtretungsvertrag) | 1 | 1974-11-21 to 1974-11-21 |
 | `423-51` | Kantonsratsbeschluss betreffend Beiträge an das Verkehrshaus der Schweiz | 1 | 2011-04-09 to 2011-04-09 |
 | `423-311` | Satzungen der Stiftung «Museum in der Burg Zug» | 1 | 2005-02-26 to 2005-02-26 |
+| `424-1` | Kantonsratsbeschluss betreffend Beteiligung an der Stadt- und Kantonsbibliothek | 1 | 1984-05-03 to 1984-05-03 |
+| `432-113` | Unterschutzstellung der Weinbergschnecke | 2 | 1977-06-17 to 2013-10-01 |
+| `439-1` | Kantonsratsbeschluss betreffend Beitritt des Kantons Zug zur Stiftung «Villette Cham» | 1 | 1985-12-19 to 1985-12-19 |
+| `442-2` | Übereinkunft zwischen den hohen Ständen Luzern, Bern, Solothurn und Zug für die Organisation des Bistums Basel | 1 | 1828-07-13 to 1828-07-13 |
+| `511-1-polizeikonkordat-zentralschweiz` | Konkordat über die Grundlagen der Polizei-Zusammenarbeit in der Zentralschweiz | 1 | 2010-12-10 to 2010-12-10 |
+| `511-2-viclas-konkordat` | Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten vom 2. April 2009 | 1 | 2011-06-01 to 2011-06-01 |
+| `511-3` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 2 | 2010-01-01 to 2014-05-03 |
+| `511-3-a1` | Kantonsratsbeschluss betreffend Änderung des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2014-05-03 to 2014-05-03 |
+| `511-5` | Konkordat vom 25. Juni 2003 über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch | 1 | 2004-12-08 to 2004-12-08 |
+| `511-12` | Regierungsratsbeschluss betreffend die zuständige Behörde gemäss Konkordat über die Grundlagen der Polizei-Zusammenarbeit in der Zentralschweiz | 1 | 2011-01-13 to 2011-01-13 |
+| `511-61-ikapol` | Vereinbarung über die interkantonalen Polizeieinsätze | 2 | 2006-11-09 to 2025-01-01 |
+| `511-74` | Vereinbarung zwischen den Kantonen Zürich und Zug über die Ausübung der Polizeidienste auf der Nationalstrasse A4, Zürich-Luzern, zwischen dem Anschluss Affoltern am Albis und der Verzweigung Blegi (A4/A4a) | 1 | 2009-11-13 to 2009-11-13 |
+| `511-75` | Verwaltungsvereinbarung zwischen den Kantonen Schwyz und Zug über die Ausübung der Seepolizeiaufgaben auf dem Zugersee | 1 | 2023-01-01 to 2023-01-01 |
+| `511-114` | Interkantonale Vereinbarung über die Zusammenarbeit in den Bereichen Ordnungsdienst und Intervention | 1 | 2011-04-01 to 2011-04-01 |
+| `511-115` | Interkantonale Vereinbarung über die Zusammenarbeit der kantonalen Polizeikorps im Bereich Logistik | 1 | 2011-12-20 to 2011-12-20 |
+| `511-115-a1` | Interkantonale Vereinbarung über die Zusammenarbeit der kantonalen Polizeikorps im Bereich Logistik (Anhang: Artikelbezeichnung der Kleidungsstücke Einheitsuniform ZPK 2012) | 1 | 2010-10-01 to 2010-10-01 |
+| `531-16` | Vereinbarung zwischen den Kantonen über die interkantonale Hilfeleistung durch den Zivilschutz bei Katastrophen und in Notlagen | 1 | 2005-06-16 to 2005-06-16 |
+| `531-17-ausbildungsvereinbarung-zivilschutz` | Verwaltungsvereinbarung betreffend gemeinsame Durchführung der Grund-, Zusatz- und Kaderausbildung sowie der Weiterbildung im Zivilschutz | 2 | 2005-01-01 to 2021-02-01 |
+| `541-12` | Kantonsratsbeschluss betreffend Rahmenkredit für eine zukunftsgerichtete und generationenübergreifende Wasserinfrastruktur im Kanton Zug | 1 | 2026-09-01 to 2026-09-01 |
+| `541-121-modalitaten-und-zustandigkeiten-i-s-krb-wasserinfrastruktur` | Modalitäten und Zuständigkeiten i. S. Kantonsratsbeschluss betreffend Rahmenkredit für eine zukunftsgerichtete und generationenübergreifende Wasserinfrastruktur im Kanton Zug vom 30. April 2026 | 1 | 2026-11-01 to 2026-11-01 |
+| `542-12` | Kantonsratsbeschluss betreffend sofortige Hilfeleistungen bei Katastrophen und Kriegen | 3 | 2002-07-06 to 2023-07-01 |
+| `613-11` | Kantonsratsbeschluss betreffend Nachtragskredit Nr. 1 zum Budget 2020 im Zusammenhang mit COVID-19 (Stützungsfonds; Kredit für die kantonale Verwaltung und die Gerichte) | 1 | 2020-07-04 to 2020-07-04 |
+| `613-12` | Kantonsratsbeschluss betreffend Genehmigung vorgezogener Budgetkredite 2021–2023 für die individuelle Prämienverbilligung in der Krankenpflegeversicherung (COVID-19) | 1 | 2020-11-07 to 2020-11-07 |
+| `613-13` | Kantonsratsbeschluss betreffend Kreditausfallgarantie zugunsten der Zuger Kantonalbank und weiterer Banken im Kanton Zug infolge des Coronavirus (COVID-19-Kreditausfallgarantie) | 1 | 2020-11-07 to 2020-11-07 |
+| `613-14` | Kantonsratsbeschluss betreffend Bürgschaft zur Sicherung von Bankkrediten an qualifizierte Startup-Unternehmen (COVID-19-Startup-Bürgschaft) | 1 | 2020-11-07 to 2020-11-07 |
+| `613-15` | Kantonsratsbeschluss betreffend Nachtragskredit Nr. 3 zum Budget 2020 und Nachtragskredit Nr. 1 zum Budget 2021 im Zusammenhang mit Covid-19 (Kredit für die kantonale Verwaltung und die Gerichte) | 1 | 2020-12-05 to 2020-12-05 |
+| `613-16-covid-19-hartefalle` | Kantonsratsbeschluss betreffend Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie | 1 | 2020-12-01 to 2020-12-01 |
+| `613-17-covid-19-hartefalle` | Kantonsratsbeschluss betreffend Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie | 1 | 2021-03-01 to 2021-03-01 |
+| `613-18` | Kantonsratsbeschluss betreffend Nachtragskredit Nr. 1 zum Budget 2022 im Zusammenhang mit Covid-19 (Kredit für die kantonale Verwaltung und die Gerichte) | 1 | 2022-03-12 to 2022-03-12 |
+| `613-19` | Kantonsratsbeschluss betreffend Genehmigung vorgezogener Budgetkredite 2026 und 2027 für die Vergütung von stationären Spitalbehandlungen | 1 | 2025-04-11 to 2025-04-11 |
+| `614-11-krb-ntc` | Kantonsratsbeschluss betreffend Beitrag des Kantons Zug zur Unterstützung des Aufbaus des Nationalen Testinstituts für Cybersicherheit NTC | 1 | 2022-06-11 to 2022-06-11 |
+| `614-12-krb-itsec4kmu` | Kantonsratsbeschluss betreffend Beitrag des Kantons Zug zur Unterstützung des Aufbaus einer zentralen Informations- und Anlaufstelle für KMU im Kontext der Cybersicherheit (ITSec4KMU) | 1 | 2022-06-11 to 2022-06-11 |
+| `614-13` | Kantonsratsbeschluss betreffend Baurechtsvertrag für das Grundstück Nr. 1412, Artherstrasse, Zug | 1 | 2022-12-03 to 2022-12-03 |
+| `614-14-krb-blockchain-zug` | Kantonsratsbeschluss betreffend Beitrag des Kantons Zug zur Unterstützung des Aufbaus der «Blockchain Zug – Joint Research Initiative» | 1 | 2024-05-10 to 2024-05-10 |
+| `614-15-krb-eth-ntc` | Kantonsratsbeschluss betreffend Finanzierung einer langfristigen Forschungszusammenarbeit in den Bereichen Cybersicherheit und künstliche Intelligenz (KI) zwischen der Eidgenössischen Technischen Hochschule (ETH) Zürich und dem Nationalen Testinstitut für Cybersicherheit (NTC) in Zug | 1 | 2026-11-06 to 2026-11-06 |
+| `614-16-krb-kompetenzzentrum-und-strategische-partnerschaft-cybersicherheit` | Kantonsratsbeschluss betreffend Finanzierung der Konzeption, der Umsetzung und des Betriebs eines kantonalen Kompetenzzentrums für Cybersicherheit (KKC) sowie einer strategischen Partnerschaft mit der Eidgenössischen Technischen Hochschule (ETH) Zürich und der Hochschule Luzern (HSLU) im Bereich Cybersicherheit | 1 | 2026-11-06 to 2026-11-06 |
+| `632-2` | Kantonsratsbeschluss über den Solidaritätsbeitrag des Kantons an die Einwohnergemeinden im Rahmen der Änderung des Steuergesetzes, achtes Revisionspaket | 1 | 2024-01-01 to 2024-01-01 |
+| `633-1` | Konkordat zwischen den Kantonen der schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen | 1 | 1959-10-01 to 1959-10-01 |
+| `641-1-verwaltungsgebuhrentarif` | Kantonsratsbeschluss über die Gebühren in Verwaltungs- und Zivilsachen | 10 | 2011-01-01 to 2025-08-22 |
+| `641-7-strassengebuhrentarif` | Kantonsratsbeschluss über die Gebühren für die besondere Inanspruchnahme von Kantonsstrassen | 1 | 1999-01-01 to 1999-01-01 |
+| `651-2` | Kantonsratsbeschluss über die Genehmigung einer Erhöhung des Aktienkapitals der Zuger Kantonalbank | 1 | 2003-04-05 to 2003-04-05 |
+| `651-2-a1` | Kantonsratsbeschluss über die Genehmigung einer Erhöhung des Aktienkapitals der Zuger Kantonalbank (Anhang: Beschluss über die Erhöhung des Aktienkapitals der Zuger Kantonalbank) | 1 | 2003-04-26 to 2003-04-26 |
+| `651-31` | Anforderungsprofil für die vom Kanton delegierten Mitglieder des Bankrates der Zuger Kantonalbank | 1 | 2008-10-01 to 2008-10-01 |
+| `661-1` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `671-1` | Kantonsratsbeschluss betreffend Darlehen an die Zugerland Verkehrsbetriebe AG zur Finanzierung der Ersatzbeschaffung und der Umrüstung der Fahrzeugflotte auf einen CO₂-neutralen Betrieb | 1 | 2026-05-08 to 2026-05-08 |
+| `671-2-krb-darlehen-iszl` | Kantonsratsbeschluss betreffend Darlehen an die Stiftung The International School of Zug and Luzern (ISZL) zur Finanzierung der Schulraumerweiterung | 1 | 2026-09-11 to 2026-09-11 |
+| `711-9` | Kantonsratsbeschluss betreffend Landerwerb für kantonale Bauvorhaben in der Landwirtschaftszone | 1 | 2009-12-01 to 2009-12-01 |
+| `721-7-ivhb` | Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe | 1 | 2015-05-01 to 2015-05-01 |
+| `721-52-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 2 | 2010-07-01 to 2024-03-01 |
+| `721-253` | Kantonsratsbeschluss betreffend Verfahren für die Planung von kantonalen Hochbauten | 1 | 2017-02-04 to 2017-02-04 |
+| `732-2` | Zweckverband der Zuger Einwohnergemeinden für die Bewirtschaftung von Abfällen (ZEBA) – Verbandsordnung | 1 | 2004-10-22 to 2004-10-22 |
+| `732-4` | Kantonsratsbeschluss über die Einrichtung einer zentralen Kehrichtdeponie bei der Baarburg | 1 | 1963-09-16 to 1963-09-16 |
+| `740-16-krb-energiebeitrage-ii` | Kantonsratsbeschluss betreffend zweiten Rahmenkredit zur Förderung von Massnahmen für geringeren Energiebedarf | 3 | 2010-01-09 to 2012-04-14 |
+| `740-17` | Kantonsratsbeschluss betreffend Rahmenkredit für ein Programm 2023 bis 2032 zur Förderung von Massnahmen zur Senkung des Energieverbrauchs und der CO2-Emissionen in bestehenden Gebäuden | 1 | 2023-07-01 to 2023-07-01 |
+| `741-1-etzelwerkkonzession` | Vertrag zwischen den Kantonen Zürich, Schwyz und Zug einerseits und den Schweizerischen Bundesbahnen anderseits über die Ausnützung der Wasserkräfte der Sihl beim Etzel | 1 | 1929-07-03 to 1929-07-03 |
+| `741-3` | Kantonsratsbeschluss betreffend Ablösung des NOK-Gründungsvertrags durch einen Aktionärbindungsvertrag der Aktionäre der Axpo Holding AG | 1 | 2021-01-01 to 2021-01-01 |
+| `751-12` | Kantonsratsbeschluss über das Strassenbauprogramm 2023–2030 | 5 | 2010-12-11 to 2023-06-09 |
+| `751-12-a1` | Kantonsratsbeschluss über das Strassenbauprogramm 2023–2030 (Anhang 1: Kostenkatalog Fixbeträge Umbuchung von Spezialfinanzierung in die Verwaltungsrechnung) | 1 | 2023-06-09 to 2023-06-09 |
+| `751-41` | Vereinbarung zwischen den Kantonen Zug und Aargau über die Durchführung von amtlichen, periodischen Nachprüfungen von Fahrzeugen | 1 | 2016-01-01 to 2016-01-01 |
+| `751-51` | Kantonsratsbeschluss betreffend Genehmigung des Generellen Projekts «Umfahrung Unterägeri» | 1 | 2023-09-08 to 2023-09-08 |
+| `751-52` | Kantonsratsbeschluss betreffend Genehmigung des Generellen Projekts «Umfahrung Zug» | 1 | 2023-09-08 to 2023-09-08 |
+| `751-161` | Übereinkommen zwischen dem Kanton Zug, vertreten durch die hohe Regierung, und der Einwohner-Gemeinde Baar, vertreten durch den Einwohnerrat Baar, betreffend Benützung und Unterhalt der von Kanton und Gemeinde erstellten Dorfbach- und Marktgass-Kanalisation, sowie der von der Gemeinde mit Beitrag des Kantons erstellten Ableitung des Katzenbaches in die Bahndamm-Kanalisation und Weiterführung der Dorf- und Bahndamm-Kanalisation in die Lorze | 1 | 1929-09-11 to 1929-09-11 |
+| `751-162` | Vertrag zwischen dem Kanton und der Einwohnergemeinde Zug über die Kanalisation in der Baarerstrasse | 1 | 1954-11-12 to 1954-11-12 |
+| `751-314` | Kantonsratsbeschluss betreffend Festlegung der Bahnhaltestellen und der Knotenpunkte des öffentlichen Verkehrs | 3 | 2008-08-15 to 2023-12-10 |
+| `751-315` | Kantonsratsbeschluss betreffend Beteiligung des Kantons und der Gemeinden am Aktienkapital der Zugerland Verkehrsbetriebe AG | 1 | 2011-02-05 to 2011-02-05 |
+| `751-316` | Kantonsratsbeschluss betreffend Darlehen an die SBB zur teilweisen Vorfinanzierung der Durchmesserlinie Zürich | 1 | 2012-02-04 to 2012-02-04 |
+| `811-15` | Interkantonale Vereinbarung über die Gründung einer interkantonalen Umweltagentur | 1 | 2004-07-07 to 2004-07-07 |
+| `821-16` | Vereinbarung über die Zusammenarbeit im Bereich des Koordinierten Sanitätsdienstes zwischen den Kantonen Luzern, Uri, Schwyz, Nidwalden, Obwalden, Zug und Tessin | 1 | 2013-07-02 to 2013-07-02 |
+| `821-17` | Meldestelle gemäss Art. 10 Abs. 2 des Sterilisationsgesetzes Verfügung der Gesundheitsdirektion | 1 | 2005-04-27 to 2005-04-27 |
+| `822-2` | Kantonsratsbeschluss betreffend Unterstützung des ärztlichen Notfalldienstes | 1 | 2025-09-01 to 2025-09-01 |
+| `822-6` | Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK) | 2 | 2008-01-01 to 2016-06-02 |
+| `824-26-geblmk` | Gebührentarif für die Lebensmittelkontrolle | 3 | 2006-01-01 to 2020-05-11 |
+| `824-27` | Gebührentarif für die Schlachttier- und Fleischkontrolle | 1 | 2012-12-01 to 2012-12-01 |
+| `826-14` | Kantonsratsbeschluss betreffend Übernahme des Bürgerspitals und der Schwesternschule am Bürgerspital Zug | 1 | 1981-01-01 to 1981-01-01 |
+| `826-14-a1` | Kantonsratsbeschluss betreffend Übernahme des Bürgerspitals und der Schwesternschule am Bürgerspital Zug (Anhang: Vertrag betreffend Abtretung des Bürgerspitals und der Schwesternschule am Bürgerspital Zug) | 1 | 1981-01-01 to 1981-01-01 |
+| `826-153` | Vereinbarung der Innerschweizer Kantone über Ausbildungen für Berufe des Gesundheitswesens | 1 | 1999-01-01 to 1999-01-01 |
+| `826-153-a1` | Vereinbarung der Innerschweizer Kantone über Ausbildungen für Berufe des Gesundheitswesens (Anhang) | 1 | 2005-04-29 to 2005-04-29 |
+| `826-154-weiterbildungsfinanzierungsvereinbarung-wfv` | Kantonsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen vom 20. November 2014 | 1 | 2022-06-01 to 2022-06-01 |
+| `826-154-a1-weiterbildungsfinanzierungsvereinbarung-wfv` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2022-01-25 to 2022-01-25 |
+| `826-162-psychiatriekonkordat` | Konkordat der Kantone Uri, Schwyz und Zug betreffend die psychiatrische Versorgung | 2 | 1983-01-01 to 2017-07-01 |
+| `826-162-a2` | Kantonsratsbeschluss betreffend Beitritt zum totalrevidierten Psychiatriekonkordat | 1 | 2017-07-01 to 2017-07-01 |
+| `826-192` | Gebührentarif für die Benützung des Rettungsdienstes | 2 | 2004-09-01 to 2016-01-01 |
+| `826-192-2` | Gebührentarif des Rettungsdienstes für Hilfeleistungseinsätze ohne medizinische Versorgung bei Alarmierung über das Notrufsystem des Schweizerischen Roten Kreuzes | 1 | 2004-01-01 to 2004-01-01 |
+| `826-192-3-gebuhrentarif-zusatzaufwendungen-rdz` | Gebührentarif für Zusatzaufwendungen bei der Benützung des Rettungsdienstes (Material, Administration, Reinigung) | 1 | 2016-01-01 to 2016-01-01 |
+| `831-51` | Regierungsratsbeschluss über den Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis | 1 | 2002-10-01 to 2002-10-01 |
+| `831-52` | Regierungsratsbeschluss über den Normalarbeitsvertrag Privathaushalt | 1 | 1985-01-01 to 1985-01-01 |
+| `831-511` | Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis | 1 | 2008-01-01 to 2008-01-01 |
+| `831-521-nav-privathaushalt` | Normalarbeitsvertrag Privathaushalt | 2 | 2011-01-01 to 2025-09-01 |
+| `831-521-a1` | Normalarbeitsvertrag Privathaushalt (Anhang) | 1 | 2011-01-01 to 2011-01-01 |
+| `834-25` | Kantonsratsbeschluss über die Unterstützung von Institutionen zur Betreuung ausländischer Arbeitskräfte | 1 | 2008-01-01 to 2008-01-01 |
+| `841-8` | Kantonsratsbeschluss betreffend Abgabe des Verbundabonnements «Zuger Pass» an IV-Bezügerinnen und -Bezüger sowie an blinde und sehbehinderte Personen | 1 | 2000-12-09 to 2000-12-09 |
+| `841-12` | Verfügung über die Verwaltungskostenbeiträge der Ausgleichskasse Zug | 4 | 2011-01-01 to 2022-01-01 |
+| `843-1` | Regierungsratsbeschluss betreffend den Vollzug des Bundesgesetzes über die Erwerbsausfallentschädigungen an Wehrpflichtige (Erwerbsersatzordnung) | 1 | 1953-01-01 to 1953-01-01 |
+| `844-413` | Vereinbarung zwischen dem Kanton St. Gallen und dem Kanton Zug über die Zuständigkeit der Familienausgleichskassen | 1 | 1999-12-18 to 1999-12-18 |
+| `851-213` | Kantonsratsbeschluss betreffend Rahmenkredit für die Förderung von preisgünstigem Wohnraum | 1 | 2010-08-01 to 2010-08-01 |
+| `851-214` | Kantonsratsbeschluss betreffend Rahmenkredit für die Förderung von preisgünstigem Wohnraum | 1 | 2026-06-01 to 2026-06-01 |
+| `861-51` | Regierungsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE) und die redaktionelle Anpassung des Schulgesetzes vom 27. September 1990 | 1 | 2011-01-01 to 2011-01-01 |
+| `861-52-ivse` | Interkantonale Vereinbarung für Soziale Einrichtungen | 3 | 2008-01-01 to 2020-03-07 |
+| `861-52-a1-ivse` | Interkantonale Vereinbarung für Soziale Einrichtungen (Anhang 1: Inkrafttreten der IVSE) | 1 | 2008-01-01 to 2008-01-01 |
+| `861-52-a2-ivse` | Interkantonale Vereinbarung für Soziale Einrichtungen (Anhang 2: Abkürzungen) | 1 | 2007-01-01 to 2007-01-01 |
+| `861-52-a3-ivse` | Interkantonale Vereinbarung für Soziale Einrichtungen (Anhang 3: Liste der Vereinbarungskantone mit den Bereichen, für die der Beitritt gilt) | 1 | 2008-01-01 to 2008-01-01 |
+| `861-421` | Minimalstandards für die Ausgestaltung der Räumlichkeiten in Asylunterkünften | 1 | 2017-10-01 to 2017-10-01 |
+| `861-512-a1-lbbv-anhang` | Anhang zur Verordnung über Leistungen für Menschen mit Behinderung und Betreuungsbedarf | 1 | 2024-01-01 to 2024-01-01 |
+| `868-4` | Kantonsratsbeschluss betreffend Aufhebung des Gesetzes über die Ausrichtung von Kantonsbeiträgen an Altersbauten | 1 | 1998-01-01 to 1998-01-01 |
+| `868-7` | Kantonsratsbeschluss betreffend Beteiligung des Kantons an der «Stiftung Eichholz» | 2 | 1968-08-29 to 2020-01-01 |
+| `868-73` | Kantonsratsbeschluss über die Gewährung eines Baubeitrages an die Kolonie Herdern | 1 | 1977-12-15 to 1977-12-15 |
+| `913-1` | Kantonsratsbeschluss betreffend Vergabe von Innovationspreisen im Wirtschaftsbereich | 2 | 2000-05-01 to 2018-01-01 |
+| `913-2` | Kantonsratsbeschluss betreffend Beteiligung des Kantons an Innovationsförderungsmassnahmen | 1 | 2010-01-01 to 2010-01-01 |
+| `913-3-krb-dekarbonisierung` | Kantonsratsbeschluss betreffend Beitrag des Kantons Zug zur Unterstützung des Innovationsprojekts «Zuger Initiative zur Dekarbonisierung der Industrie» | 1 | 2023-01-13 to 2023-01-13 |
+| `913-4` | Kantonsratsbeschluss betreffend Beitrag des Kantons Zug an die Initiative «Klima-Charta Zug» | 1 | 2023-02-03 to 2023-02-03 |
+| `913-5` | Kantonsratsbeschluss betreffend Verlängerung des Forschungsbeitrags an das Micro Center Central Switzerland (MCCS) | 1 | 2007-12-22 to 2007-12-22 |
+| `913-52` | Kantonsratsbeschluss betreffend Beiträge an das Micro Center Central-Switzerland | 1 | 2011-04-09 to 2011-04-09 |
+| `914-1` | Kantonsratsbeschluss betreffend den Beitritt zur Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (IRV) | 1 | 2007-04-14 to 2007-04-14 |
+| `914-2-rahmenvereinbarung-irv` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2007-05-11 to 2007-05-11 |
+| `916-22` | Kantonsratsbeschluss betreffend Beitritt des Kantons Zug zur Stiftung Greater Zurich Area | 1 | 2009-07-01 to 2009-07-01 |
+| `916-33` | Kantonsratsbeschluss betreffend Beitritt des Kantons Zug zum Verein Metropolitanraum Zürich | 1 | 2009-07-03 to 2009-07-03 |
+| `922-513` | Kantonsratsbeschluss betreffend Ausrichtung von Beiträgen zur Sanierung landwirtschaftlicher Kleinbetriebe | 1 | 1999-01-01 to 1999-01-01 |
+| `924-21` | Verwaltungsvereinbarung der Kantone Schwyz, Nidwalden und Zug über die Organisation und die Zusammenarbeit im Rahmen des Kontrolldienstes im Bereich des ökologischen Leistungsnachweises und der Label | 1 | 2006-09-01 to 2006-09-01 |
+| `924-111` | Kantonsratsbeschluss betreffend Beiträge für die Umstellung auf biologischen Landbau | 1 | 2009-01-01 to 2009-01-01 |
+| `924-113` | Verfügung betreffend kantonale Hangbeiträge | 5 | 2001-01-01 to 2019-01-01 |
+| `932-111` | Jagdbetriebsvorschriften 2026/2027 | 7 | 2020-05-30 to 2026-07-03 |
+| `933-11` | Konkordat über die Fischerei im Zugersee | 1 | 1970-04-01 to 1970-04-01 |
+| `933-14` | Übereinkunft zwischen den Kantonen Zürich und Zug über die Fischerei im zürcherisch-zugerischen Grenzabschnitt der Sihl | 1 | 1947-08-07 to 1947-08-07 |
+| `933-15` | Übereinkommen betreffend die Fischerei im luzernisch-zugerischen Grenzabschnitt des Aabaches | 1 | 1959-01-01 to 1959-01-01 |
 
-The build made 1171 commits:
+The build made 1344 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 172 | baseline texts where the record starts |
-| 999 | named laws, court decisions and treaties |
+| 186 | baseline texts where the record starts |
+| 1158 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
-- 7 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1474 laws in the record.
-- 2299 tags.
+- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 17 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1633 laws in the record.
+- 2608 tags.
 
 ## Dates
 
@@ -484,7 +608,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `23d506182e7793ac64eca305f43ea72e80d60e903cacc38dcb87199aa62ebcec` (10340562 bytes).
+- Corpus: sha256 `904f2f7bedea25b7ec4750a4f5a09f30e88f7bc0a94f6bf68b374e13feafe7c6` (11474620 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
