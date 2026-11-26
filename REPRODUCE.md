@@ -1,6 +1,6 @@
 # How this repository was made (Zug)
 
-This file is written by the build on 2026-11-25, the day the source data was retrieved.
+This file is written by the build on 2026-11-26, the day the source data was retrieved.
 
 ## Sources
 
@@ -581,22 +581,73 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `933-11` | Konkordat über die Fischerei im Zugersee | 1 | 1970-04-01 to 1970-04-01 |
 | `933-14` | Übereinkunft zwischen den Kantonen Zürich und Zug über die Fischerei im zürcherisch-zugerischen Grenzabschnitt der Sihl | 1 | 1947-08-07 to 1947-08-07 |
 | `933-15` | Übereinkommen betreffend die Fischerei im luzernisch-zugerischen Grenzabschnitt des Aabaches | 1 | 1959-01-01 to 1959-01-01 |
+| `933-111` | Ausführungsbestimmungen zum Konkordat über die Fischerei im Zugersee | 5 | 2009-01-01 to 2021-11-01 |
+| `933-141` | Ausführungsbestimmungen über die Ausübung der Fischerei in der zürcherisch-zugerischen Grenzstrecke der Sihl | 1 | 1971-02-25 to 1971-02-25 |
+| `933-281` | Kantonsratsbeschluss über die Neuordnung der Fischereirechte an der Lorze zwischen Jöchler und Zugersee | 1 | 1976-04-01 to 1976-04-01 |
+| `942-12-messwesen-vereinbarung` | Verwaltungsvereinbarung über die Zusammenarbeit im Bereich Messwesen | 1 | 2007-01-01 to 2007-01-01 |
+| `942-22-ivth` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2001-04-07 to 2001-04-07 |
+| `942-43-a1` | Kantonsratsbeschluss betreffend Beitritt zum Gesamtschweizerischen Geldspielkonkordat (GSK) vom 20. Mai 2019 | 1 | 2021-01-01 to 2021-01-01 |
+| `942-45-a1` | Kantonsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020) vom 20. Mai 2019 | 1 | 2021-01-01 to 2021-01-01 |
+| `943-12` | Regierungsratsbeschluss betreffend das Auflage- und Einspracheverfahren bei Gesuchen um generell längere Öffnungszeiten im Gastgewerbe | 1 | 1996-07-01 to 1996-07-01 |
+| `1021-001` | Kantonsratsbeschluss betreffend Objektkredit für die Instandsetzung und Erweiterung des Ausbildungszentrums Schönau auf dem GS 2257, Lorzenstrasse 4, Cham | 1 | 2018-01-20 to 2018-01-20 |
+| `1021-002` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt Ersatz und Erweiterung der übergeordneten Kommunikation und Leittechnik für Betriebs- und Sicherheitsausrüstungen der Kantonsstrassen | 1 | 2018-02-03 to 2018-02-03 |
+| `1021-003` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt Sanierung Sihlbruggstrasse (KS P), Abschnitt Knoten Industrie–Knoten Blatt, einschliesslich eines Radstreifens bergwärts, Gemeinde Neuheim | 1 | 2018-11-10 to 2018-11-10 |
+| `1021-004` | Kantonsratsbeschluss betreffend Objektkredit für Instandsetzung und Umbau des Theilerhauses an der Hofstrasse, Zug | 1 | 2019-03-02 to 2019-03-02 |
+| `1021-005` | Kantonsratsbeschluss betreffend Investitionsbeitrag und Bürgschaft für den neuen Hauptstützpunkt der Zugerland Verkehrsbetriebe AG und die damit verbundenen Landgeschäfte sowie betreffend Darlehen für die Finanzierung des Neubaus und Objektkredit für den Mieterausbau für den Rettungsdienst und die kantonale Verwaltung im Neubau auf dem Areal An der Aa, Zug | 1 | 2019-05-18 to 2019-05-18 |
+| `1021-006` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt Ausbau Hinterburgmülibach, Gemeinde Neuheim | 1 | 2019-05-18 to 2019-05-18 |
+| `1021-007` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt Sanierung Sihlbruggstrasse (KS P), Abschnitt «Knoten Sand AG–Knoten Industrie» einschliesslich eines Radstreifens bergwärts, Gemeinde Neuheim | 1 | 2019-07-06 to 2019-07-06 |
+| `1021-008` | Kantonsratsbeschluss betreffend Objektkredit für die Planung eines Ersatzneubaus der Durchgangsstation, Zugerstrasse 52, Steinhausen | 1 | 2019-12-07 to 2019-12-07 |
+| `1021-009` | Kantonsratsbeschluss betreffend Objektkredit für die Planung der Instandsetzung und eines Neubaus an der Hofstrasse 15, Zug | 1 | 2020-09-12 to 2020-09-12 |
+| `1021-010` | Kantonsratsbeschluss betreffend Objektkredit für die Planung der Gesamtinstandsetzung mit Neubau der Justizvollzugsanstalt Bostadel, Menzingen | 1 | 2021-06-05 to 2021-06-05 |
+| `1021-011` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 4, Chamer-/Zugerstrasse, Alpenblick–Kollermühle, Gemeinden Zug und Cham» | 1 | 2021-07-03 to 2021-07-03 |
+| `1021-012` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 368, Drälikerstrasse, Chamerstrasse–Kanalstrasse, Gemeinde Hünenberg» | 1 | 2021-07-03 to 2021-07-03 |
+| `1021-013` | Kantonsratsbeschluss betreffend Objektkredit Ökoplus für die Planung und Installation von PV-Anlagen und Ladestationen | 1 | 2021-08-21 to 2021-08-21 |
+| `1021-014` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 25/368, Knoten Zollhus, Gemeinde Hünenberg» | 1 | 2021-11-06 to 2021-11-06 |
+| `1021-015` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 381, Schönenfurt–Warthstrasse (Denkmal Morgarten), Gemeinde Oberägeri» | 1 | 2021-11-06 to 2021-11-06 |
+| `1021-016` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS Q, Umgestaltung Zentrum, Gemeinde Menzingen» | 1 | 2021-11-06 to 2021-11-06 |
+| `1021-017` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «Instandsetzung alte Lorzentobelbrücke, Gemeinden Baar und Menzingen» | 1 | 2022-02-05 to 2022-02-05 |
+| `1021-018` | Kantonsratsbeschluss betreffend einen Objektkredit Kostenbeteiligung Erdverkabelung auf dem Trassee zwischen den Unterwerken Sins und Langacher | 1 | 2023-02-03 to 2023-02-03 |
+| `1021-019` | Kantonsratsbeschluss betreffend Objektkredit für die Instandsetzung und den Umbau des Theilerhauses an der Hofstrasse, Zug | 1 | 2023-05-12 to 2023-05-12 |
+| `1021-020` | Kantonsratsbeschluss betreffend Objektkredit für Soft-Massnahmen zur Förderung des Velofahrens | 1 | 2023-05-12 to 2023-05-12 |
+| `1021-021` | Kantonsratsbeschluss betreffend Objektkredit für die Instandsetzung und einen Neubau an der Hofstrasse 15, Zug | 1 | 2023-08-18 to 2023-08-18 |
+| `1021-022` | Kantonsratsbeschluss betreffend Objektkredit für die Realisierung eines Ersatzneubaus der Durchgangsstation, Zugerstrasse 52, Steinhausen | 1 | 2023-09-08 to 2023-09-08 |
+| `1021-023` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS H, Riedmatt–Brücke A14, Gemeinden Zug und Steinhausen» | 1 | 2023-10-06 to 2023-10-06 |
+| `1021-024` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 381, Talacher–Moosrank, Gemeinde Baar» | 1 | 2023-10-06 to 2023-10-06 |
+| `1021-025` | Kantonsratsbeschluss betreffend Objektkredit für die Planung der Gesamtinstandsetzung Kantonsschule Zug | 1 | 2024-01-12 to 2024-01-12 |
+| `1021-026` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS P, Knoten Blatt–Hinterburgmühle, Gemeinde Neuheim» | 1 | 2024-03-08 to 2024-03-08 |
+| `1021-027` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «Radstrecke 29, Unterführung SBB-Brücke Brüggli, Gemeinde Zug» | 1 | 2024-03-08 to 2024-03-08 |
+| `1021-028` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 25, Ersatzneubau Brücke Seefeld, Gemeinde Walchwil» | 1 | 2024-05-10 to 2024-05-10 |
+| `1021-029` | Kantonsratsbeschluss betreffend Objektkredit für die Planung der neuen Kantonsschule Rotkreuz und den damit verbundenen Landerwerb | 1 | 2024-06-21 to 2024-06-21 |
+| `1021-030` | Kantonsratsbeschluss betreffend Objektkredit für eine moderne Zuger Kantonsgeschichte | 1 | 2024-06-21 to 2024-06-21 |
+| `1021-031` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «Ersatz Bereichsrechner Lichtsignalanlagen» | 1 | 2024-07-12 to 2024-07-12 |
+| `1021-032` | Kantonsratsbeschluss betreffend Objektkredit für die Planung der Instandsetzung und des Umbaus «Casa Rossa» und den damit verbundenen Landerwerb in Zug | 1 | 2024-12-06 to 2024-12-06 |
+| `1021-033` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 382, Unterführung A4–Oberwil, Gemeinde Cham» | 1 | 2025-04-18 to 2025-04-18 |
+| `1021-034` | Kantonsratsbeschluss betreffend Objektkredit für die Planung des Ersatzneubaus altes Laborgebäude, Zugerstrasse 50, Steinhausen | 1 | 2025-06-06 to 2025-06-06 |
+| `1021-035` | Kantonsratsbeschluss betreffend Objektkredit für die Planung des Umbaus und der Instandsetzung des Kaufmännischen Bildungszentrums Zug | 1 | 2025-08-22 to 2025-08-22 |
+| `1021-036` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «Weiterentwicklung Brüggli, Gemeinde Zug» | 1 | 2025-08-22 to 2025-08-22 |
+| `1021-037` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für die Strassenraumgestaltung und die Entschädigung der Abklassierungen infolge der Umfahrung Cham–Hünenberg (UCH) | 1 | 2025-09-05 to 2025-09-05 |
+| `1021-038` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS J, Lorze–Steinhauserstrasse, Gemeinden Baar/Zug» | 1 | 2026-04-03 to 2026-04-03 |
+| `1021-039` | Kantonsratsbeschluss betreffend Objektkredit für die Planung eines Provisoriums und eines Parkhauses für die Zuger Polizei sowie für den Ersatz eines Salzlagers auf dem Areal Hinterberg, Steinhausen | 1 | 2026-05-08 to 2026-05-08 |
+| `1021-040` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für den Bau und den Landerwerb für das Projekt «Reussdammsanierung, Reusshalde–Sinserbrücke, Gemeinde Hünenberg» | 1 | 2026-07-10 to 2026-07-10 |
+| `1021-041` | Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS P, Hinterburgmühle–Edlibach, Gemeinden Neuheim/Menzingen» | 1 | 2026-11-06 to 2026-11-06 |
+| `1031-001` | Kantonsratsbeschluss betreffend Zusatzkredit für das Projekt «Instandsetzung alte Lorzentobelbrücke, Gemeinden Baar und Menzingen» | 1 | 2024-10-04 to 2024-10-04 |
+| `1031-002` | Kantonsratsbeschluss betreffend Zusatzkredit für das Projekt Radstrecke 29, Unterführung SBB-Brücke Brüggli, Gemeinde Zug | 1 | 2025-09-05 to 2025-09-05 |
 
-The build made 1344 commits:
+The build made 1399 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 186 | baseline texts where the record starts |
-| 1158 | named laws, court decisions and treaties |
+| 188 | baseline texts where the record starts |
+| 1211 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-26.
 - 17 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1633 laws in the record.
-- 2608 tags.
+- 1689 laws in the record.
+- 2716 tags.
 
 ## Dates
 
@@ -608,7 +659,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `904f2f7bedea25b7ec4750a4f5a09f30e88f7bc0a94f6bf68b374e13feafe7c6` (11474620 bytes).
+- Corpus: sha256 `42f1428d043973b159537135819b759c09667c9bee0f9909497b1a7b309ab8d1` (11643758 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 

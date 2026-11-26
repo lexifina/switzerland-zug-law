@@ -18189,6 +18189,909 @@
      "sha256": "34f12fcf0f96b17a1429966e9f214ada635d8940b6287bb6bd218d501688a203"
     }
    ]
+  },
+  {
+   "slug": "933-111",
+   "short": "BGS 933.111",
+   "title": "Ausführungsbestimmungen zum Konkordat über die Fischerei im Zugersee",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/933.111",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "to": "2015-06-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.111/versions/560",
+     "sha256": "804f20ced3162e0d8c334fd6c8921a42b2f49c556f345a1225aadfb3d3edca24"
+    },
+    {
+     "from": "2015-06-13",
+     "to": "2019-02-28",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.111/versions/1433",
+     "sha256": "ef58427f89679c4333396bf114b33fd8888ccd3007df45441d5b7c4a2e97ab83"
+    },
+    {
+     "from": "2019-03-01",
+     "to": "2020-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.111/versions/1947",
+     "sha256": "b362377e04697ac8196ed0424e84e26b20ce6f7cbfd5a20912846f3ff156b98a"
+    },
+    {
+     "from": "2020-11-01",
+     "to": "2021-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.111/versions/2144",
+     "sha256": "7c92ff389b062bad3c50c3533c10365076da973c30218e2cb8eabf30549fd07f"
+    },
+    {
+     "from": "2021-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.111",
+     "sha256": "054e5225bbcb84c878c08b0a3d9b5038a72b3c854e4b364927790f47449ef736"
+    }
+   ]
+  },
+  {
+   "slug": "933-141",
+   "short": "BGS 933.141",
+   "title": "Ausführungsbestimmungen über die Ausübung der Fischerei in der zürcherisch-zugerischen Grenzstrecke der Sihl",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/933.141",
+   "versions": [
+    {
+     "from": "1971-02-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 36,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.141",
+     "sha256": "a2b1a177b515eb1ad6b88f68ce91dceb48d602870e3ea6a801451f5acf6f9be2"
+    }
+   ]
+  },
+  {
+   "slug": "933-281",
+   "short": "BGS 933.281",
+   "title": "Kantonsratsbeschluss über die Neuordnung der Fischereirechte an der Lorze zwischen Jöchler und Zugersee",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/933.281",
+   "versions": [
+    {
+     "from": "1976-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/933.281",
+     "sha256": "b0e6dfec151af25d348682756aad1e9b28ea72ee2f4e4dc39025e6b47f2af342"
+    }
+   ]
+  },
+  {
+   "slug": "942-12-messwesen-vereinbarung",
+   "short": "Messwesen-Vereinbarung",
+   "title": "Verwaltungsvereinbarung über die Zusammenarbeit im Bereich Messwesen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/942.12",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/942.12",
+     "sha256": "a10fd1cef988dd9390a840190920fa5ef4e1768c4a12e6122e4c9675b76836dd"
+    }
+   ]
+  },
+  {
+   "slug": "942-22-ivth",
+   "short": "IVTH",
+   "title": "Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/942.22",
+   "versions": [
+    {
+     "from": "2001-04-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/942.22",
+     "sha256": "56e25ef4e8aa84fd35c7ff02006ad92e981c9565654c8c6f8be375cc03479865"
+    }
+   ]
+  },
+  {
+   "slug": "942-43-a1",
+   "short": "BGS 942.43-A1",
+   "title": "Kantonsratsbeschluss betreffend Beitritt zum Gesamtschweizerischen Geldspielkonkordat (GSK) vom 20. Mai 2019",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/942.43-A1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/942.43-A1",
+     "sha256": "6a84c48757d5d6f4fd60078fbfa3b7470e0c1cf0b7e233cb7ec4c165ed3efba1"
+    }
+   ]
+  },
+  {
+   "slug": "942-45-a1",
+   "short": "BGS 942.45-A1",
+   "title": "Kantonsratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020) vom 20. Mai 2019",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/942.45-A1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/942.45-A1",
+     "sha256": "2b367545652f409a883e8e7c2f5a61972ede7e6a2b5fd65b6ebd1def212b33b6"
+    }
+   ]
+  },
+  {
+   "slug": "943-12",
+   "short": "BGS 943.12",
+   "title": "Regierungsratsbeschluss betreffend das Auflage- und Einspracheverfahren bei Gesuchen um generell längere Öffnungszeiten im Gastgewerbe",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/943.12",
+   "versions": [
+    {
+     "from": "1996-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/943.12",
+     "sha256": "5a63d627419a22662d07682a39841133f5804d611e4547022a9c3d25827cc75e"
+    }
+   ]
+  },
+  {
+   "slug": "1021-001",
+   "short": "BGS 1021.001",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Instandsetzung und Erweiterung des Ausbildungszentrums Schönau auf dem GS 2257, Lorzenstrasse 4, Cham",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.001",
+   "versions": [
+    {
+     "from": "2018-01-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.001",
+     "sha256": "1c2df7843283cab9ba38122732a4f606e0271f91fc0afd3b3c194540e5b4a9f0"
+    }
+   ]
+  },
+  {
+   "slug": "1021-002",
+   "short": "BGS 1021.002",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt Ersatz und Erweiterung der übergeordneten Kommunikation und Leittechnik für Betriebs- und Sicherheitsausrüstungen der Kantonsstrassen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.002",
+   "versions": [
+    {
+     "from": "2018-02-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.002",
+     "sha256": "6e08bdd81f2575da36454a397a40a4ec8282df436bd2843f2d1989f5287bbe78"
+    }
+   ]
+  },
+  {
+   "slug": "1021-003",
+   "short": "BGS 1021.003",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt Sanierung Sihlbruggstrasse (KS P), Abschnitt Knoten Industrie–Knoten Blatt, einschliesslich eines Radstreifens bergwärts, Gemeinde Neuheim",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.003",
+   "versions": [
+    {
+     "from": "2018-11-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.003",
+     "sha256": "e3e85d3383337e7013afb1ae95a89d191a150e812a9e8101c85192f130e80708"
+    }
+   ]
+  },
+  {
+   "slug": "1021-004",
+   "short": "BGS 1021.004",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für Instandsetzung und Umbau des Theilerhauses an der Hofstrasse, Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.004",
+   "versions": [
+    {
+     "from": "2019-03-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.004",
+     "sha256": "5f0b15599c6bc7d970c7a4d1125a873a2d2689ee602369ee4cda6946415fb413"
+    }
+   ]
+  },
+  {
+   "slug": "1021-005",
+   "short": "BGS 1021.005",
+   "title": "Kantonsratsbeschluss betreffend Investitionsbeitrag und Bürgschaft für den neuen Hauptstützpunkt der Zugerland Verkehrsbetriebe AG und die damit verbundenen Landgeschäfte sowie betreffend Darlehen für die Finanzierung des Neubaus und Objektkredit für den Mieterausbau für den Rettungsdienst und die kantonale Verwaltung im Neubau auf dem Areal An der Aa, Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.005",
+   "versions": [
+    {
+     "from": "2019-05-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.005",
+     "sha256": "75c9dc58caf59378a67466d82bf2b32cde208f15251592f77cdfccaa9dcdf909"
+    }
+   ]
+  },
+  {
+   "slug": "1021-006",
+   "short": "BGS 1021.006",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt Ausbau Hinterburgmülibach, Gemeinde Neuheim",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.006",
+   "versions": [
+    {
+     "from": "2019-05-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.006",
+     "sha256": "8b853687f8ccc593ac90514f0d06fbdc77416c2124251cde218123ccf035d8d9"
+    }
+   ]
+  },
+  {
+   "slug": "1021-007",
+   "short": "BGS 1021.007",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt Sanierung Sihlbruggstrasse (KS P), Abschnitt «Knoten Sand AG–Knoten Industrie» einschliesslich eines Radstreifens bergwärts, Gemeinde Neuheim",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.007",
+   "versions": [
+    {
+     "from": "2019-07-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.007",
+     "sha256": "32708986f1a91a8bc0f6949117b5254b405841c20ff67cc9d6f76bf5157b79b5"
+    }
+   ]
+  },
+  {
+   "slug": "1021-008",
+   "short": "BGS 1021.008",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Planung eines Ersatzneubaus der Durchgangsstation, Zugerstrasse 52, Steinhausen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.008",
+   "versions": [
+    {
+     "from": "2019-12-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.008",
+     "sha256": "9a85c392f080bc76fd22153d925172a9fe0146131cd34a39cd0a5d013bc6304a"
+    }
+   ]
+  },
+  {
+   "slug": "1021-009",
+   "short": "BGS 1021.009",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Planung der Instandsetzung und eines Neubaus an der Hofstrasse 15, Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.009",
+   "versions": [
+    {
+     "from": "2020-09-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.009",
+     "sha256": "079d9c7f2239452ab363db0ed38b4fdef7efb1f5c94bad907d0357d72b944fd6"
+    }
+   ]
+  },
+  {
+   "slug": "1021-010",
+   "short": "BGS 1021.010",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Planung der Gesamtinstandsetzung mit Neubau der Justizvollzugsanstalt Bostadel, Menzingen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.010",
+   "versions": [
+    {
+     "from": "2021-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.010",
+     "sha256": "eb56f549100e1f105bb892823fa24072ebbbacecebbc4dfae809ee43cd07daf1"
+    }
+   ]
+  },
+  {
+   "slug": "1021-011",
+   "short": "BGS 1021.011",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 4, Chamer-/Zugerstrasse, Alpenblick–Kollermühle, Gemeinden Zug und Cham»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.011",
+   "versions": [
+    {
+     "from": "2021-07-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.011",
+     "sha256": "c8c9b41d6010613338dd00b7aa371b4f609e15c4219334d0044501657d1df59e"
+    }
+   ]
+  },
+  {
+   "slug": "1021-012",
+   "short": "BGS 1021.012",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 368, Drälikerstrasse, Chamerstrasse–Kanalstrasse, Gemeinde Hünenberg»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.012",
+   "versions": [
+    {
+     "from": "2021-07-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.012",
+     "sha256": "4ab416f8cda0edc5f18473d8f7a88308f61a9c192d6e07387fc50be9a5bcba09"
+    }
+   ]
+  },
+  {
+   "slug": "1021-013",
+   "short": "BGS 1021.013",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit Ökoplus für die Planung und Installation von PV-Anlagen und Ladestationen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.013",
+   "versions": [
+    {
+     "from": "2021-08-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.013",
+     "sha256": "374e69b6794b10929affad58cf57318b72ba2a2d9ceb2a0e2cb2aa722582d000"
+    }
+   ]
+  },
+  {
+   "slug": "1021-014",
+   "short": "BGS 1021.014",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 25/368, Knoten Zollhus, Gemeinde Hünenberg»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.014",
+   "versions": [
+    {
+     "from": "2021-11-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.014",
+     "sha256": "50b8c58f28f62f1ffdba59b3d6ab56296e1c4f4d448fea6daf5af3a20d6628d1"
+    }
+   ]
+  },
+  {
+   "slug": "1021-015",
+   "short": "BGS 1021.015",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 381, Schönenfurt–Warthstrasse (Denkmal Morgarten), Gemeinde Oberägeri»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.015",
+   "versions": [
+    {
+     "from": "2021-11-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.015",
+     "sha256": "451ff77ed5bdc5adc83324e24bc9e0081d2d55f70d5732c2c8df17a2141a5579"
+    }
+   ]
+  },
+  {
+   "slug": "1021-016",
+   "short": "BGS 1021.016",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS Q, Umgestaltung Zentrum, Gemeinde Menzingen»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.016",
+   "versions": [
+    {
+     "from": "2021-11-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.016",
+     "sha256": "400715704bc00077594827e55a523b0cac42f2d4d163c0047a245df07ff3312a"
+    }
+   ]
+  },
+  {
+   "slug": "1021-017",
+   "short": "BGS 1021.017",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «Instandsetzung alte Lorzentobelbrücke, Gemeinden Baar und Menzingen»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.017",
+   "versions": [
+    {
+     "from": "2022-02-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.017",
+     "sha256": "d1df96fa04658e0ca911880d8a61c81afffe5b77675315b90e308c5082c8a06b"
+    }
+   ]
+  },
+  {
+   "slug": "1021-018",
+   "short": "BGS 1021.018",
+   "title": "Kantonsratsbeschluss betreffend einen Objektkredit Kostenbeteiligung Erdverkabelung auf dem Trassee zwischen den Unterwerken Sins und Langacher",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.018",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.018",
+     "sha256": "d108f621e614d99e7f9c181557c7a10a43908a3485c3d9b584d7ba5a3be647ab"
+    }
+   ]
+  },
+  {
+   "slug": "1021-019",
+   "short": "BGS 1021.019",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Instandsetzung und den Umbau des Theilerhauses an der Hofstrasse, Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.019",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.019",
+     "sha256": "e5603d9e5271e8437aa22eaf6638d395d919e5c73011f9e86ed88d9598362088"
+    }
+   ]
+  },
+  {
+   "slug": "1021-020",
+   "short": "BGS 1021.020",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für Soft-Massnahmen zur Förderung des Velofahrens",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.020",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.020",
+     "sha256": "111f623b8c351c435de88284b3a8bd29b88367882d14a2e743a4371d197f3e22"
+    }
+   ]
+  },
+  {
+   "slug": "1021-021",
+   "short": "BGS 1021.021",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Instandsetzung und einen Neubau an der Hofstrasse 15, Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.021",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.021",
+     "sha256": "bbc327e7111ed364803de8f2a011a1f01054d525fab3f313ac659bd8c9e8a743"
+    }
+   ]
+  },
+  {
+   "slug": "1021-022",
+   "short": "BGS 1021.022",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Realisierung eines Ersatzneubaus der Durchgangsstation, Zugerstrasse 52, Steinhausen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.022",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.022",
+     "sha256": "c205eab998c36fd438f93acb694f27353f01f2481a7163a1811d73656a76f1c9"
+    }
+   ]
+  },
+  {
+   "slug": "1021-023",
+   "short": "BGS 1021.023",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS H, Riedmatt–Brücke A14, Gemeinden Zug und Steinhausen»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.023",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.023",
+     "sha256": "5cda806ae4094bb8463f4a139a201e900c339e482bf1d34b2b9bac4fcfea8ebe"
+    }
+   ]
+  },
+  {
+   "slug": "1021-024",
+   "short": "BGS 1021.024",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 381, Talacher–Moosrank, Gemeinde Baar»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.024",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.024",
+     "sha256": "4b1f7f41c5e0c2e847b2fc1889fde3eb2e89df1b3a4fc6f9bf41b93b01e023a6"
+    }
+   ]
+  },
+  {
+   "slug": "1021-025",
+   "short": "BGS 1021.025",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Planung der Gesamtinstandsetzung Kantonsschule Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.025",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.025",
+     "sha256": "c55a2f9c08dd2e4775db546d73f3c5b184ccff40df50cfb63e4e38c3746c4d95"
+    }
+   ]
+  },
+  {
+   "slug": "1021-026",
+   "short": "BGS 1021.026",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS P, Knoten Blatt–Hinterburgmühle, Gemeinde Neuheim»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.026",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.026",
+     "sha256": "d268ce49bb5dfcfbd08665d681a3a9a774cdc44ab0f67ca05f24aeac50e24a29"
+    }
+   ]
+  },
+  {
+   "slug": "1021-027",
+   "short": "BGS 1021.027",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «Radstrecke 29, Unterführung SBB-Brücke Brüggli, Gemeinde Zug»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.027",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.027",
+     "sha256": "ad646ef46589338ccfb27d66c57ad74f2263c245ac1fd280ebfe5340c1b69ea8"
+    }
+   ]
+  },
+  {
+   "slug": "1021-028",
+   "short": "BGS 1021.028",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 25, Ersatzneubau Brücke Seefeld, Gemeinde Walchwil»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.028",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.028",
+     "sha256": "8a179fdb337e3ce97aa7e7ef50ba948ed4ec6cbcf036f7381bc85e8d4d0a6507"
+    }
+   ]
+  },
+  {
+   "slug": "1021-029",
+   "short": "BGS 1021.029",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Planung der neuen Kantonsschule Rotkreuz und den damit verbundenen Landerwerb",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.029",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.029",
+     "sha256": "80ff9838355d1b4f136bf440e621e378bfa88887df0943c0f542c337da034cd1"
+    }
+   ]
+  },
+  {
+   "slug": "1021-030",
+   "short": "BGS 1021.030",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für eine moderne Zuger Kantonsgeschichte",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.030",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.030",
+     "sha256": "6bf3f1929af0eace647a654d78a374d1c7c68632a121a3d02f9e33d7514e7bdd"
+    }
+   ]
+  },
+  {
+   "slug": "1021-031",
+   "short": "BGS 1021.031",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «Ersatz Bereichsrechner Lichtsignalanlagen»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.031",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.031",
+     "sha256": "3cb9166947a1bde7add59450801ea0558a0d0a042498fafce599e2620fecc420"
+    }
+   ]
+  },
+  {
+   "slug": "1021-032",
+   "short": "BGS 1021.032",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Planung der Instandsetzung und des Umbaus «Casa Rossa» und den damit verbundenen Landerwerb in Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.032",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.032",
+     "sha256": "37619105dfaa6a6afd66d161470e6f0faeee07eece71f80315ddf0fb3ab6dc86"
+    }
+   ]
+  },
+  {
+   "slug": "1021-033",
+   "short": "BGS 1021.033",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS 382, Unterführung A4–Oberwil, Gemeinde Cham»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.033",
+   "versions": [
+    {
+     "from": "2025-04-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.033",
+     "sha256": "91a3fd90d1f1561d5d61739624d0f91dee158353839a6cf2eb50efc752051754"
+    }
+   ]
+  },
+  {
+   "slug": "1021-034",
+   "short": "BGS 1021.034",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Planung des Ersatzneubaus altes Laborgebäude, Zugerstrasse 50, Steinhausen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.034",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.034",
+     "sha256": "9248ebb7d9300275e3f901ce74ba90885146df10c006128578102550271bde13"
+    }
+   ]
+  },
+  {
+   "slug": "1021-035",
+   "short": "BGS 1021.035",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Planung des Umbaus und der Instandsetzung des Kaufmännischen Bildungszentrums Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.035",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.035",
+     "sha256": "a2ef6e1ee75b2f9baadd50d84d0e1e69b72e950b359de617b608d7345063e593"
+    }
+   ]
+  },
+  {
+   "slug": "1021-036",
+   "short": "BGS 1021.036",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «Weiterentwicklung Brüggli, Gemeinde Zug»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.036",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.036",
+     "sha256": "b1384a329c6f445308a46b7bd7ae8bd41ecdca878724dbc281913c4d0b16c539"
+    }
+   ]
+  },
+  {
+   "slug": "1021-037",
+   "short": "BGS 1021.037",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für die Strassenraumgestaltung und die Entschädigung der Abklassierungen infolge der Umfahrung Cham–Hünenberg (UCH)",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.037",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.037",
+     "sha256": "8f1fd12f504fc66caf6c3ebaf35b148119bd32b5123eb50864fe8ae49837f579"
+    }
+   ]
+  },
+  {
+   "slug": "1021-038",
+   "short": "BGS 1021.038",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS J, Lorze–Steinhauserstrasse, Gemeinden Baar/Zug»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.038",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.038",
+     "sha256": "1c3ff4c32380d2163a31c37bed54963e8e159306179f8491761ecb25082b52c2"
+    }
+   ]
+  },
+  {
+   "slug": "1021-039",
+   "short": "BGS 1021.039",
+   "title": "Kantonsratsbeschluss betreffend Objektkredit für die Planung eines Provisoriums und eines Parkhauses für die Zuger Polizei sowie für den Ersatz eines Salzlagers auf dem Areal Hinterberg, Steinhausen",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.039",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.039",
+     "sha256": "e41431d2a590dbcd638b6465644c708b776f07f717a7181f3fdbda94412d261f"
+    }
+   ]
+  },
+  {
+   "slug": "1021-040",
+   "short": "BGS 1021.040",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für den Bau und den Landerwerb für das Projekt «Reussdammsanierung, Reusshalde–Sinserbrücke, Gemeinde Hünenberg»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.040",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.040",
+     "sha256": "e14f02f822a24c2d074962e6e4b8f164455ff77a2d9bc5e0c0be618c1b1fcddc"
+    }
+   ]
+  },
+  {
+   "slug": "1021-041",
+   "short": "BGS 1021.041",
+   "title": "Kantonsratsbeschluss betreffend Freigabe eines Objektkredits für das Projekt «KS P, Hinterburgmühle–Edlibach, Gemeinden Neuheim/Menzingen»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1021.041",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1021.041",
+     "sha256": "8809fac05ca0d78f7533b70ed459790c6ea5d1665e9a2e43b6b5baa59b2526f1"
+    }
+   ]
+  },
+  {
+   "slug": "1031-001",
+   "short": "BGS 1031.001",
+   "title": "Kantonsratsbeschluss betreffend Zusatzkredit für das Projekt «Instandsetzung alte Lorzentobelbrücke, Gemeinden Baar und Menzingen»",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1031.001",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1031.001",
+     "sha256": "346d75fec6e70d6d6a2125fac2770afa87b6c5276c9a8932885c093f8d8df17e"
+    }
+   ]
+  },
+  {
+   "slug": "1031-002",
+   "short": "BGS 1031.002",
+   "title": "Kantonsratsbeschluss betreffend Zusatzkredit für das Projekt Radstrecke 29, Unterführung SBB-Brücke Brüggli, Gemeinde Zug",
+   "url": "https://bgs.zg.ch/app/de/texts_of_law/1031.002",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/1031.002",
+     "sha256": "1f0e2264e11da552c05e109d66782ef6aa7f82fa8c721df18c810a4a134acf70"
+    }
+   ]
   }
  ]
 }
