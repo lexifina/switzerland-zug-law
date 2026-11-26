@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Zug: Systematische Sammlung (bgs.zg.ch) · `switzerland/zug/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 08:19 UTC**.
-- Vorschriften hier: 443; aktuell gegenüber der Quelle: 443; an der Quelle geändert seit der Fassung hier: 205; nicht mehr an der Quelle: 0.
-- In diesem Lesen mit der Quelle verglichen: 188 der 443 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 107 (hier vorhanden, an der Quelle nicht mehr: 52, neu an der Quelle, hier noch nicht veröffentlicht: 55); ohne Grund: 0.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 07:11 UTC**.
+- Vorschriften hier: 567; aktuell gegenüber der Quelle: 565; an der Quelle geändert seit der Fassung hier: 57; nicht mehr an der Quelle: 0.
+- In diesem Lesen mit der Quelle verglichen: 132 der 567 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
+- Nicht veröffentlicht: 59 (hier vorhanden, an der Quelle nicht mehr: 56, an der Quelle geändert seit der Fassung hier: 2, tritt später in Kraft: 1); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

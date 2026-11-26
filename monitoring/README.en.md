@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Zug only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-25 08:19 UTC, Zug: systematic collection (bgs.zg.ch): 365 addresses read; 205 added, 0 changed, 0 removed; changes found; 107 not published, 0 of them with no reason.
+**Last check:** 2026-11-26 07:11 UTC, Zug: systematic collection (bgs.zg.ch): 288 addresses read; 55 added, 2 changed, 0 removed; changes found; 59 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Zug: systematic collection (bgs.zg.ch)](https://bgs.zg.ch/) | `<act>/` | daily | 2026-11-25 08:19 UTC | changes found | watched |
+| [Zug: systematic collection (bgs.zg.ch)](https://bgs.zg.ch/) | `<act>/` | daily | 2026-11-26 07:11 UTC | changes found | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 07:05](checks/2026-11.md#ch-lexwork-zug-20261126t070505z) | lexwork-zug | 288 | 55 | 2 | 0 | 59 (0) | changes found | [56](https://github.com/lexifina/switzerland-zug-law/compare/76b8a82c0510...0fda698d1afb) |
 | [2026-11-25 08:10](checks/2026-11.md#ch-lexwork-zug-20261125t081018z) | lexwork-zug | 365 | 205 | 0 | 0 | 107 (0) | changes found | [174](https://github.com/lexifina/switzerland-zug-law/compare/b9766eac6c55...95831c158118) |
 | [2026-11-24 12:51](checks/2026-11.md#ch-lexwork-zug-20261124t125117z) | lexwork-zug | 695 | 351 | 4 | 0 | 232 (0) | changes found | [285](https://github.com/lexifina/switzerland-zug-law/compare/22b4361caae5...2955492a38d0) |
 
