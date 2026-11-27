@@ -14681,12 +14681,21 @@
     },
     {
      "from": "2026-08-28",
+     "to": "2026-11-26",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.zg.ch/api/de/texts_of_law/413.111/versions/3059",
+     "sha256": "3a48c6696cde8833998fdd570293be9968e2937f77701e0658ea090c68f4539b"
+    },
+    {
+     "from": "2026-11-27",
      "to": null,
      "status": "in force",
      "text_as_of": null,
-     "units": 14,
+     "units": 16,
      "source_url": "https://bgs.zg.ch/api/de/texts_of_law/413.111",
-     "sha256": "e9d9f6844cc98de73e7753f77dcf94937c963a57e5bd66e83308272f334bc157"
+     "sha256": "0eaa8107b95f62df90894f9027631d5876fedda11c2b2d38e3ceb1977bc06e4a"
     }
    ]
   },

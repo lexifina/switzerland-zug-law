@@ -1,6 +1,6 @@
 # Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung
 
-BGS 413.111 · 10 versions, from 2008-06-01 (latest in force: 2026-08-28) · <https://bgs.zg.ch/app/de/texts_of_law/413.111>
+BGS 413.111 · 11 versions, from 2008-06-01 (latest in force: 2026-11-27) · <https://bgs.zg.ch/app/de/texts_of_law/413.111>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,6 +15,8 @@ BGS 413.111 · 10 versions, from 2008-06-01 (latest in force: 2026-08-28) · <ht
 | § 9 | [art-009.md](art-009.md) | 3 | 2026-08-01 |
 | § 10 | [art-010.md](art-010.md) | 3 | 2026-08-01 |
 | § 11 | [art-011.md](art-011.md) | 3 | 2026-08-01 |
+| § 11a | [art-011a.md](art-011a.md) | 1 | 2026-11-27 |
 | § 12 | [art-012.md](art-012.md) | 2 | 2026-08-28 |
+| § 12a | [art-012a.md](art-012a.md) | 1 | 2026-11-27 |
 | § 13 | [art-013.md](art-013.md) | 1 | 2026-08-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 3 | 2026-08-01 |
