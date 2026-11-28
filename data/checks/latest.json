@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:15:05Z",
+ "generated": "2026-11-28T08:37:23Z",
  "latest": {
   "lexwork-zug|switzerland/zug/acts": {
-   "attempt": 1,
+   "attempt": 3,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -14,67 +14,52 @@
    },
    "census": {
     "checked": 89,
-    "current": 617,
+    "current": 616,
     "gone": 0,
     "held": 618,
     "not_at_source": 56,
     "out_of_scope": 16,
-    "pending": 1,
+    "pending": 2,
     "repo": 618,
     "source_in_scope": 618
    },
-   "check_id": "ch-lexwork-zug-20261127T070156Z",
-   "commits": {
-    "count": 2,
-    "from": "15a0ca1ba5a5119abaec83d51f92155739c7458d",
-    "to": "e3796d802908aa446ae4ef39286c45060d47e4fa"
-   },
+   "check_id": "ch-lexwork-zug-20261128T082504Z",
+   "commits": null,
    "corpus": "switzerland/zug/acts",
    "error": null,
-   "finished": "2026-11-27T07:05:48Z",
+   "finished": "2026-11-28T08:28:20Z",
    "flags": [],
-   "gap": 56,
+   "gap": 58,
    "note": "bgs.zg.ch: index of 690 acts (690 in force); held 618; 0 in force and in scope not held yet, 16 out of scope (land-use plans, concessions, directives, forms: as the builder), 56 published only as PDF; 89 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "changed",
    "published": {
     "added": [],
-    "changed": [
-     "413.111"
-    ],
+    "changed": [],
     "removed": []
    },
-   "requests": 200,
+   "requests": 184,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [
-     "413.111"
+     "511.1",
+     "721.11"
     ],
     "removed": []
    },
    "snapshot": "690 entries, 690 in force (bgs.zg.ch)",
    "source": "lexwork-zug",
-   "started": "2026-11-27T07:01:56Z",
+   "started": "2026-11-28T08:25:04Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "413-111"
-     ],
-     "new_acts": []
-    },
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 0,
-    "parts": [
-     "95-watch-20261127-001.json"
-    ],
+    "nothing_new": 2,
+    "parts": [],
     "pdf_only": 0,
-    "re_read": 1,
+    "re_read": 0,
     "unreadable": 0
    },
    "verify": {
@@ -86,7 +71,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 89,
-    "versions_checked": 237,
+    "versions_checked": 190,
     "versions_differ": 0
    }
   }
